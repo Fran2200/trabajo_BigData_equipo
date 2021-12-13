@@ -1,0 +1,1145 @@
+nombre_provincia,date,value
+Albacete,2020/01,1.2
+Albacete,2020/02,0.7
+Albacete,2020/03,-0.2
+Albacete,2020/04,-1.1
+Albacete,2020/05,-1
+Albacete,2020/06,-0.3
+Albacete,2020/07,-0.5
+Albacete,2020/08,-0.5
+Albacete,2020/09,-0.5
+Albacete,2020/10,-1
+Albacete,2020/11,-0.9
+Albacete,2020/12,-0.8
+Albacete,2021/01,0.3
+Albacete,2021/02,0
+Albacete,2021/03,1.7
+Albacete,2021/04,2.7
+Albacete,2021/05,3.3
+Albacete,2021/06,3.1
+Albacete,2021/07,3.1
+Albacete,2021/08,3.4
+Albacete,2021/09,4.2
+Albacete,2021/10,6
+Alicante/Alacant,2020/01,1.1
+Alicante/Alacant,2020/02,0.7
+Alicante/Alacant,2020/03,-0.2
+Alicante/Alacant,2020/04,-0.9
+Alicante/Alacant,2020/05,-1.1
+Alicante/Alacant,2020/06,-0.6
+Alicante/Alacant,2020/07,-0.8
+Alicante/Alacant,2020/08,-0.7
+Alicante/Alacant,2020/09,-0.4
+Alicante/Alacant,2020/10,-1
+Alicante/Alacant,2020/11,-0.9
+Alicante/Alacant,2020/12,-0.6
+Alicante/Alacant,2021/01,0.6
+Alicante/Alacant,2021/02,0.2
+Alicante/Alacant,2021/03,1.7
+Alicante/Alacant,2021/04,2.5
+Alicante/Alacant,2021/05,3.1
+Alicante/Alacant,2021/06,3.1
+Alicante/Alacant,2021/07,3.1
+Alicante/Alacant,2021/08,3.6
+Alicante/Alacant,2021/09,4.3
+Alicante/Alacant,2021/10,5.8
+Almería,2020/01,1.5
+Almería,2020/02,1.2
+Almería,2020/03,0.2
+Almería,2020/04,-0.5
+Almería,2020/05,-0.8
+Almería,2020/06,0
+Almería,2020/07,-0.4
+Almería,2020/08,-0.3
+Almería,2020/09,-0.2
+Almería,2020/10,-0.5
+Almería,2020/11,-0.4
+Almería,2020/12,-0.2
+Almería,2021/01,0.5
+Almería,2021/02,0
+Almería,2021/03,1.4
+Almería,2021/04,2.2
+Almería,2021/05,2.7
+Almería,2021/06,2.5
+Almería,2021/07,2.7
+Almería,2021/08,3
+Almería,2021/09,3.8
+Almería,2021/10,4.8
+Araba/Álava,2020/01,1.3
+Araba/Álava,2020/02,0.7
+Araba/Álava,2020/03,0
+Araba/Álava,2020/04,-0.7
+Araba/Álava,2020/05,-1.1
+Araba/Álava,2020/06,-0.2
+Araba/Álava,2020/07,-0.8
+Araba/Álava,2020/08,-0.5
+Araba/Álava,2020/09,-0.3
+Araba/Álava,2020/10,-0.7
+Araba/Álava,2020/11,-0.9
+Araba/Álava,2020/12,-0.6
+Araba/Álava,2021/01,0.3
+Araba/Álava,2021/02,0.1
+Araba/Álava,2021/03,1.5
+Araba/Álava,2021/04,2.5
+Araba/Álava,2021/05,2.9
+Araba/Álava,2021/06,2.8
+Araba/Álava,2021/07,2.9
+Araba/Álava,2021/08,3.4
+Araba/Álava,2021/09,4.1
+Araba/Álava,2021/10,5.3
+Asturias,2020/01,0.9
+Asturias,2020/02,0.4
+Asturias,2020/03,-0.3
+Asturias,2020/04,-0.9
+Asturias,2020/05,-1.3
+Asturias,2020/06,-0.8
+Asturias,2020/07,-0.9
+Asturias,2020/08,-0.6
+Asturias,2020/09,-0.3
+Asturias,2020/10,-0.8
+Asturias,2020/11,-0.8
+Asturias,2020/12,-0.6
+Asturias,2021/01,0.4
+Asturias,2021/02,-0.1
+Asturias,2021/03,1.5
+Asturias,2021/04,2.5
+Asturias,2021/05,2.7
+Asturias,2021/06,2.9
+Asturias,2021/07,2.7
+Asturias,2021/08,3.2
+Asturias,2021/09,3.9
+Asturias,2021/10,5.3
+Ávila,2020/01,1.5
+Ávila,2020/02,1
+Ávila,2020/03,0.2
+Ávila,2020/04,-1.1
+Ávila,2020/05,-1.5
+Ávila,2020/06,-0.7
+Ávila,2020/07,-0.8
+Ávila,2020/08,-0.5
+Ávila,2020/09,-0.5
+Ávila,2020/10,-1.1
+Ávila,2020/11,-1
+Ávila,2020/12,-0.5
+Ávila,2021/01,0.4
+Ávila,2021/02,0
+Ávila,2021/03,1.6
+Ávila,2021/04,2.8
+Ávila,2021/05,3.6
+Ávila,2021/06,3.7
+Ávila,2021/07,4.1
+Ávila,2021/08,4.3
+Ávila,2021/09,5
+Ávila,2021/10,6.7
+Badajoz,2020/01,1
+Badajoz,2020/02,0.7
+Badajoz,2020/03,-0.1
+Badajoz,2020/04,-0.8
+Badajoz,2020/05,-1
+Badajoz,2020/06,-0.3
+Badajoz,2020/07,-0.4
+Badajoz,2020/08,-0.2
+Badajoz,2020/09,0.1
+Badajoz,2020/10,-0.8
+Badajoz,2020/11,-0.9
+Badajoz,2020/12,-0.5
+Badajoz,2021/01,0.6
+Badajoz,2021/02,0.1
+Badajoz,2021/03,1.5
+Badajoz,2021/04,2.5
+Badajoz,2021/05,2.9
+Badajoz,2021/06,3.1
+Badajoz,2021/07,3.2
+Badajoz,2021/08,3.8
+Badajoz,2021/09,4.4
+Badajoz,2021/10,5.8
+"Balears, Illes",2020/01,1.1
+"Balears, Illes",2020/02,1
+"Balears, Illes",2020/03,0.2
+"Balears, Illes",2020/04,-0.8
+"Balears, Illes",2020/05,-1
+"Balears, Illes",2020/06,-0.5
+"Balears, Illes",2020/07,-0.6
+"Balears, Illes",2020/08,-0.7
+"Balears, Illes",2020/09,-0.5
+"Balears, Illes",2020/10,-0.7
+"Balears, Illes",2020/11,-0.5
+"Balears, Illes",2020/12,-0.4
+"Balears, Illes",2021/01,0.7
+"Balears, Illes",2021/02,0.2
+"Balears, Illes",2021/03,1.6
+"Balears, Illes",2021/04,2.6
+"Balears, Illes",2021/05,3.1
+"Balears, Illes",2021/06,3.2
+"Balears, Illes",2021/07,3
+"Balears, Illes",2021/08,3.4
+"Balears, Illes",2021/09,4.2
+"Balears, Illes",2021/10,5.6
+Barcelona,2020/01,1.1
+Barcelona,2020/02,0.8
+Barcelona,2020/03,0.1
+Barcelona,2020/04,-0.5
+Barcelona,2020/05,-0.7
+Barcelona,2020/06,-0.4
+Barcelona,2020/07,-0.7
+Barcelona,2020/08,-0.7
+Barcelona,2020/09,-0.4
+Barcelona,2020/10,-0.9
+Barcelona,2020/11,-0.8
+Barcelona,2020/12,-0.6
+Barcelona,2021/01,0.5
+Barcelona,2021/02,-0.1
+Barcelona,2021/03,1.2
+Barcelona,2021/04,1.8
+Barcelona,2021/05,2.3
+Barcelona,2021/06,2.3
+Barcelona,2021/07,2.5
+Barcelona,2021/08,2.9
+Barcelona,2021/09,3.5
+Barcelona,2021/10,4.9
+Bizkaia,2020/01,1.4
+Bizkaia,2020/02,0.8
+Bizkaia,2020/03,0.2
+Bizkaia,2020/04,-0.5
+Bizkaia,2020/05,-0.6
+Bizkaia,2020/06,-0.1
+Bizkaia,2020/07,-0.6
+Bizkaia,2020/08,-0.4
+Bizkaia,2020/09,0
+Bizkaia,2020/10,-0.3
+Bizkaia,2020/11,-0.4
+Bizkaia,2020/12,-0.1
+Bizkaia,2021/01,0.8
+Bizkaia,2021/02,0.3
+Bizkaia,2021/03,1.4
+Bizkaia,2021/04,2.5
+Bizkaia,2021/05,2.8
+Bizkaia,2021/06,2.9
+Bizkaia,2021/07,2.9
+Bizkaia,2021/08,3.2
+Bizkaia,2021/09,3.8
+Bizkaia,2021/10,4.9
+Burgos,2020/01,0.8
+Burgos,2020/02,0.4
+Burgos,2020/03,-0.5
+Burgos,2020/04,-1.1
+Burgos,2020/05,-1
+Burgos,2020/06,-0.7
+Burgos,2020/07,-1
+Burgos,2020/08,-0.6
+Burgos,2020/09,-0.3
+Burgos,2020/10,-0.7
+Burgos,2020/11,-0.9
+Burgos,2020/12,-0.6
+Burgos,2021/01,0.4
+Burgos,2021/02,-0.1
+Burgos,2021/03,1.3
+Burgos,2021/04,2.3
+Burgos,2021/05,2.7
+Burgos,2021/06,3
+Burgos,2021/07,3.2
+Burgos,2021/08,3.6
+Burgos,2021/09,4
+Burgos,2021/10,5.7
+Cáceres,2020/01,1.1
+Cáceres,2020/02,0.8
+Cáceres,2020/03,0
+Cáceres,2020/04,-0.5
+Cáceres,2020/05,-0.6
+Cáceres,2020/06,-0.1
+Cáceres,2020/07,-0.1
+Cáceres,2020/08,0.1
+Cáceres,2020/09,0.2
+Cáceres,2020/10,-0.2
+Cáceres,2020/11,-0.5
+Cáceres,2020/12,-0.3
+Cáceres,2021/01,0.6
+Cáceres,2021/02,0.1
+Cáceres,2021/03,1.7
+Cáceres,2021/04,2.4
+Cáceres,2021/05,2.7
+Cáceres,2021/06,2.9
+Cáceres,2021/07,2.9
+Cáceres,2021/08,3.3
+Cáceres,2021/09,4.1
+Cáceres,2021/10,5.3
+Cádiz,2020/01,0.7
+Cádiz,2020/02,0.4
+Cádiz,2020/03,-0.1
+Cádiz,2020/04,-0.4
+Cádiz,2020/05,-0.6
+Cádiz,2020/06,0
+Cádiz,2020/07,-0.3
+Cádiz,2020/08,-0.2
+Cádiz,2020/09,-0.4
+Cádiz,2020/10,-0.7
+Cádiz,2020/11,-0.5
+Cádiz,2020/12,-0.3
+Cádiz,2021/01,0.7
+Cádiz,2021/02,0.2
+Cádiz,2021/03,1.3
+Cádiz,2021/04,2.1
+Cádiz,2021/05,2.2
+Cádiz,2021/06,2.3
+Cádiz,2021/07,2.5
+Cádiz,2021/08,2.9
+Cádiz,2021/09,3.7
+Cádiz,2021/10,4.8
+Cantabria,2020/01,1.1
+Cantabria,2020/02,0.8
+Cantabria,2020/03,0
+Cantabria,2020/04,-0.7
+Cantabria,2020/05,-1.1
+Cantabria,2020/06,-0.5
+Cantabria,2020/07,-0.4
+Cantabria,2020/08,-0.6
+Cantabria,2020/09,-0.4
+Cantabria,2020/10,-0.8
+Cantabria,2020/11,-0.9
+Cantabria,2020/12,-0.5
+Cantabria,2021/01,0.5
+Cantabria,2021/02,-0.1
+Cantabria,2021/03,1.5
+Cantabria,2021/04,2.3
+Cantabria,2021/05,2.7
+Cantabria,2021/06,3.1
+Cantabria,2021/07,3
+Cantabria,2021/08,3.5
+Cantabria,2021/09,4.5
+Cantabria,2021/10,5.5
+Castellón/Castelló,2020/01,1.5
+Castellón/Castelló,2020/02,1.2
+Castellón/Castelló,2020/03,0
+Castellón/Castelló,2020/04,-0.7
+Castellón/Castelló,2020/05,-1
+Castellón/Castelló,2020/06,-0.4
+Castellón/Castelló,2020/07,-0.6
+Castellón/Castelló,2020/08,-0.4
+Castellón/Castelló,2020/09,-0.3
+Castellón/Castelló,2020/10,-0.8
+Castellón/Castelló,2020/11,-0.6
+Castellón/Castelló,2020/12,-0.4
+Castellón/Castelló,2021/01,0.4
+Castellón/Castelló,2021/02,-0.3
+Castellón/Castelló,2021/03,1.4
+Castellón/Castelló,2021/04,2.6
+Castellón/Castelló,2021/05,3
+Castellón/Castelló,2021/06,3.3
+Castellón/Castelló,2021/07,3.2
+Castellón/Castelló,2021/08,3.5
+Castellón/Castelló,2021/09,4.3
+Castellón/Castelló,2021/10,5.9
+Ceuta,2020/01,0.3
+Ceuta,2020/02,0.1
+Ceuta,2020/03,-0.7
+Ceuta,2020/04,-1.1
+Ceuta,2020/05,-0.9
+Ceuta,2020/06,-0.2
+Ceuta,2020/07,-0.3
+Ceuta,2020/08,-0.2
+Ceuta,2020/09,-0.3
+Ceuta,2020/10,-0.5
+Ceuta,2020/11,-0.7
+Ceuta,2020/12,-0.4
+Ceuta,2021/01,0.6
+Ceuta,2021/02,0.3
+Ceuta,2021/03,1.4
+Ceuta,2021/04,1.8
+Ceuta,2021/05,2.1
+Ceuta,2021/06,2.1
+Ceuta,2021/07,2.2
+Ceuta,2021/08,2.8
+Ceuta,2021/09,3.6
+Ceuta,2021/10,4.6
+Ciudad Real,2020/01,1.3
+Ciudad Real,2020/02,1
+Ciudad Real,2020/03,-0.3
+Ciudad Real,2020/04,-1.4
+Ciudad Real,2020/05,-1.7
+Ciudad Real,2020/06,-0.8
+Ciudad Real,2020/07,-1
+Ciudad Real,2020/08,-0.8
+Ciudad Real,2020/09,-0.5
+Ciudad Real,2020/10,-1.3
+Ciudad Real,2020/11,-1.3
+Ciudad Real,2020/12,-0.8
+Ciudad Real,2021/01,0.3
+Ciudad Real,2021/02,-0.3
+Ciudad Real,2021/03,1.6
+Ciudad Real,2021/04,2.9
+Ciudad Real,2021/05,3.7
+Ciudad Real,2021/06,3.6
+Ciudad Real,2021/07,3.9
+Ciudad Real,2021/08,4.1
+Ciudad Real,2021/09,4.7
+Ciudad Real,2021/10,6.4
+Córdoba,2020/01,1
+Córdoba,2020/02,0.8
+Córdoba,2020/03,-0.1
+Córdoba,2020/04,-0.7
+Córdoba,2020/05,-0.9
+Córdoba,2020/06,-0.1
+Córdoba,2020/07,-0.5
+Córdoba,2020/08,-0.5
+Córdoba,2020/09,-0.4
+Córdoba,2020/10,-0.8
+Córdoba,2020/11,-0.6
+Córdoba,2020/12,-0.3
+Córdoba,2021/01,0.6
+Córdoba,2021/02,-0.3
+Córdoba,2021/03,1.4
+Córdoba,2021/04,2.6
+Córdoba,2021/05,3
+Córdoba,2021/06,3
+Córdoba,2021/07,3.3
+Córdoba,2021/08,4
+Córdoba,2021/09,4.6
+Córdoba,2021/10,6.3
+"Coruña, A",2020/01,1
+"Coruña, A",2020/02,0.7
+"Coruña, A",2020/03,-0.3
+"Coruña, A",2020/04,-0.8
+"Coruña, A",2020/05,-1
+"Coruña, A",2020/06,-0.2
+"Coruña, A",2020/07,-0.7
+"Coruña, A",2020/08,-0.2
+"Coruña, A",2020/09,-0.2
+"Coruña, A",2020/10,-0.6
+"Coruña, A",2020/11,-0.7
+"Coruña, A",2020/12,-0.3
+"Coruña, A",2021/01,0.6
+"Coruña, A",2021/02,0.3
+"Coruña, A",2021/03,1.8
+"Coruña, A",2021/04,2.6
+"Coruña, A",2021/05,3.1
+"Coruña, A",2021/06,3
+"Coruña, A",2021/07,3.3
+"Coruña, A",2021/08,3.6
+"Coruña, A",2021/09,4.3
+"Coruña, A",2021/10,5.4
+Cuenca,2020/01,1.9
+Cuenca,2020/02,1.4
+Cuenca,2020/03,0
+Cuenca,2020/04,-1.3
+Cuenca,2020/05,-1.5
+Cuenca,2020/06,-0.7
+Cuenca,2020/07,-0.8
+Cuenca,2020/08,-0.8
+Cuenca,2020/09,-0.9
+Cuenca,2020/10,-1.3
+Cuenca,2020/11,-1.3
+Cuenca,2020/12,-1
+Cuenca,2021/01,0
+Cuenca,2021/02,-0.2
+Cuenca,2021/03,1.7
+Cuenca,2021/04,3
+Cuenca,2021/05,3.5
+Cuenca,2021/06,3.4
+Cuenca,2021/07,3.4
+Cuenca,2021/08,4
+Cuenca,2021/09,4.8
+Cuenca,2021/10,6.4
+Gipuzkoa,2020/01,1.3
+Gipuzkoa,2020/02,0.8
+Gipuzkoa,2020/03,0.2
+Gipuzkoa,2020/04,-0.5
+Gipuzkoa,2020/05,-0.7
+Gipuzkoa,2020/06,-0.2
+Gipuzkoa,2020/07,-0.5
+Gipuzkoa,2020/08,-0.4
+Gipuzkoa,2020/09,-0.4
+Gipuzkoa,2020/10,-0.7
+Gipuzkoa,2020/11,-0.6
+Gipuzkoa,2020/12,-0.4
+Gipuzkoa,2021/01,0.5
+Gipuzkoa,2021/02,0.3
+Gipuzkoa,2021/03,1.4
+Gipuzkoa,2021/04,2.4
+Gipuzkoa,2021/05,2.6
+Gipuzkoa,2021/06,2.9
+Gipuzkoa,2021/07,2.9
+Gipuzkoa,2021/08,3.3
+Gipuzkoa,2021/09,4.1
+Gipuzkoa,2021/10,5
+Girona,2020/01,1.4
+Girona,2020/02,0.9
+Girona,2020/03,-0.1
+Girona,2020/04,-1.3
+Girona,2020/05,-1.7
+Girona,2020/06,-1
+Girona,2020/07,-1.1
+Girona,2020/08,-1
+Girona,2020/09,-1.1
+Girona,2020/10,-1.7
+Girona,2020/11,-1.5
+Girona,2020/12,-1.1
+Girona,2021/01,0
+Girona,2021/02,-0.3
+Girona,2021/03,1.2
+Girona,2021/04,2.5
+Girona,2021/05,3.1
+Girona,2021/06,3.1
+Girona,2021/07,3.1
+Girona,2021/08,3.4
+Girona,2021/09,4.4
+Girona,2021/10,6
+Granada,2020/01,0.9
+Granada,2020/02,0.7
+Granada,2020/03,-0.2
+Granada,2020/04,-0.8
+Granada,2020/05,-1
+Granada,2020/06,-0.2
+Granada,2020/07,-0.4
+Granada,2020/08,-0.2
+Granada,2020/09,-0.2
+Granada,2020/10,-0.6
+Granada,2020/11,-0.7
+Granada,2020/12,-0.4
+Granada,2021/01,0.5
+Granada,2021/02,0
+Granada,2021/03,1.3
+Granada,2021/04,2.2
+Granada,2021/05,2.6
+Granada,2021/06,2.6
+Granada,2021/07,2.6
+Granada,2021/08,3.1
+Granada,2021/09,3.8
+Granada,2021/10,5
+Guadalajara,2020/01,1.1
+Guadalajara,2020/02,0.6
+Guadalajara,2020/03,-0.6
+Guadalajara,2020/04,-1.3
+Guadalajara,2020/05,-1.3
+Guadalajara,2020/06,-0.5
+Guadalajara,2020/07,-0.7
+Guadalajara,2020/08,-0.6
+Guadalajara,2020/09,-0.9
+Guadalajara,2020/10,-1.4
+Guadalajara,2020/11,-1.3
+Guadalajara,2020/12,-1
+Guadalajara,2021/01,0
+Guadalajara,2021/02,-0.4
+Guadalajara,2021/03,1.6
+Guadalajara,2021/04,2.4
+Guadalajara,2021/05,2.9
+Guadalajara,2021/06,2.7
+Guadalajara,2021/07,3.1
+Guadalajara,2021/08,3.7
+Guadalajara,2021/09,5
+Guadalajara,2021/10,6.6
+Huelva,2020/01,1.1
+Huelva,2020/02,0.6
+Huelva,2020/03,0
+Huelva,2020/04,-0.7
+Huelva,2020/05,-0.9
+Huelva,2020/06,-0.3
+Huelva,2020/07,-0.2
+Huelva,2020/08,-0.2
+Huelva,2020/09,-0.1
+Huelva,2020/10,-0.6
+Huelva,2020/11,-0.9
+Huelva,2020/12,-0.3
+Huelva,2021/01,0.5
+Huelva,2021/02,-0.1
+Huelva,2021/03,1
+Huelva,2021/04,2.2
+Huelva,2021/05,2.5
+Huelva,2021/06,2.7
+Huelva,2021/07,2.8
+Huelva,2021/08,3.3
+Huelva,2021/09,4.3
+Huelva,2021/10,5.3
+Huesca,2020/01,0.8
+Huesca,2020/02,0.2
+Huesca,2020/03,-0.5
+Huesca,2020/04,-2.1
+Huesca,2020/05,-1.9
+Huesca,2020/06,-0.9
+Huesca,2020/07,-1.2
+Huesca,2020/08,-1.2
+Huesca,2020/09,-1.1
+Huesca,2020/10,-1.3
+Huesca,2020/11,-1.3
+Huesca,2020/12,-1.2
+Huesca,2021/01,-0.1
+Huesca,2021/02,-0.2
+Huesca,2021/03,1.4
+Huesca,2021/04,3
+Huesca,2021/05,3.6
+Huesca,2021/06,3.6
+Huesca,2021/07,4
+Huesca,2021/08,4.2
+Huesca,2021/09,5.2
+Huesca,2021/10,6.7
+Jaén,2020/01,0.9
+Jaén,2020/02,0.7
+Jaén,2020/03,-0.1
+Jaén,2020/04,-0.8
+Jaén,2020/05,-1
+Jaén,2020/06,-0.1
+Jaén,2020/07,-0.2
+Jaén,2020/08,0
+Jaén,2020/09,0
+Jaén,2020/10,-0.2
+Jaén,2020/11,-0.3
+Jaén,2020/12,-0.2
+Jaén,2021/01,0.7
+Jaén,2021/02,0
+Jaén,2021/03,1.6
+Jaén,2021/04,2.5
+Jaén,2021/05,3
+Jaén,2021/06,2.9
+Jaén,2021/07,3
+Jaén,2021/08,3.4
+Jaén,2021/09,4.3
+Jaén,2021/10,5.5
+León,2020/01,1
+León,2020/02,0.4
+León,2020/03,-0.6
+León,2020/04,-1.5
+León,2020/05,-2.1
+León,2020/06,-1.3
+León,2020/07,-1.4
+León,2020/08,-1
+León,2020/09,-0.9
+León,2020/10,-1.4
+León,2020/11,-1.1
+León,2020/12,-0.8
+León,2021/01,0.5
+León,2021/02,0.1
+León,2021/03,1.9
+León,2021/04,3.2
+León,2021/05,4.1
+León,2021/06,4.2
+León,2021/07,4.2
+León,2021/08,4.4
+León,2021/09,5.1
+León,2021/10,6.8
+Lleida,2020/01,1.7
+Lleida,2020/02,1.3
+Lleida,2020/03,0.1
+Lleida,2020/04,-1
+Lleida,2020/05,-1.2
+Lleida,2020/06,-0.6
+Lleida,2020/07,-0.8
+Lleida,2020/08,-0.8
+Lleida,2020/09,-0.5
+Lleida,2020/10,-1.3
+Lleida,2020/11,-1.2
+Lleida,2020/12,-0.8
+Lleida,2021/01,0.3
+Lleida,2021/02,-0.1
+Lleida,2021/03,1.5
+Lleida,2021/04,2.8
+Lleida,2021/05,3.3
+Lleida,2021/06,3.3
+Lleida,2021/07,3.5
+Lleida,2021/08,3.8
+Lleida,2021/09,4.7
+Lleida,2021/10,6.2
+Lugo,2020/01,1.3
+Lugo,2020/02,0.7
+Lugo,2020/03,-0.3
+Lugo,2020/04,-1.2
+Lugo,2020/05,-1.3
+Lugo,2020/06,-0.5
+Lugo,2020/07,-0.9
+Lugo,2020/08,-0.5
+Lugo,2020/09,-0.5
+Lugo,2020/10,-0.8
+Lugo,2020/11,-0.8
+Lugo,2020/12,-0.4
+Lugo,2021/01,0
+Lugo,2021/02,0
+Lugo,2021/03,1.5
+Lugo,2021/04,2.5
+Lugo,2021/05,3.1
+Lugo,2021/06,3.3
+Lugo,2021/07,3.5
+Lugo,2021/08,3.9
+Lugo,2021/09,4.5
+Lugo,2021/10,5.6
+Madrid,2020/01,0.9
+Madrid,2020/02,0.6
+Madrid,2020/03,0.1
+Madrid,2020/04,-0.5
+Madrid,2020/05,-0.7
+Madrid,2020/06,-0.1
+Madrid,2020/07,-0.6
+Madrid,2020/08,-0.5
+Madrid,2020/09,-0.5
+Madrid,2020/10,-1.1
+Madrid,2020/11,-1.1
+Madrid,2020/12,-0.8
+Madrid,2021/01,0.4
+Madrid,2021/02,-0.1
+Madrid,2021/03,0.9
+Madrid,2021/04,1.7
+Madrid,2021/05,2.1
+Madrid,2021/06,2.1
+Madrid,2021/07,2.6
+Madrid,2021/08,3
+Madrid,2021/09,3.6
+Madrid,2021/10,5.1
+Málaga,2020/01,1.3
+Málaga,2020/02,0.8
+Málaga,2020/03,0.1
+Málaga,2020/04,-0.6
+Málaga,2020/05,-0.9
+Málaga,2020/06,-0.3
+Málaga,2020/07,-0.5
+Málaga,2020/08,-0.4
+Málaga,2020/09,-0.2
+Málaga,2020/10,-0.5
+Málaga,2020/11,-0.6
+Málaga,2020/12,-0.3
+Málaga,2021/01,0.8
+Málaga,2021/02,0.3
+Málaga,2021/03,1.6
+Málaga,2021/04,2.6
+Málaga,2021/05,3.2
+Málaga,2021/06,3.2
+Málaga,2021/07,3.1
+Málaga,2021/08,3.6
+Málaga,2021/09,4.3
+Málaga,2021/10,5.5
+Melilla,2020/01,0.8
+Melilla,2020/02,0.7
+Melilla,2020/03,-0.3
+Melilla,2020/04,-0.3
+Melilla,2020/05,-0.1
+Melilla,2020/06,0.4
+Melilla,2020/07,-0.2
+Melilla,2020/08,0
+Melilla,2020/09,0
+Melilla,2020/10,-0.2
+Melilla,2020/11,0.1
+Melilla,2020/12,0.1
+Melilla,2021/01,1.6
+Melilla,2021/02,1.3
+Melilla,2021/03,3
+Melilla,2021/04,3
+Melilla,2021/05,3.4
+Melilla,2021/06,3.5
+Melilla,2021/07,3.4
+Melilla,2021/08,3.9
+Melilla,2021/09,4.8
+Melilla,2021/10,5.9
+Murcia,2020/01,1.2
+Murcia,2020/02,0.9
+Murcia,2020/03,0
+Murcia,2020/04,-0.7
+Murcia,2020/05,-0.9
+Murcia,2020/06,-0.4
+Murcia,2020/07,-0.5
+Murcia,2020/08,-0.5
+Murcia,2020/09,-0.4
+Murcia,2020/10,-0.5
+Murcia,2020/11,-0.8
+Murcia,2020/12,-0.4
+Murcia,2021/01,0.4
+Murcia,2021/02,0
+Murcia,2021/03,1.4
+Murcia,2021/04,2.3
+Murcia,2021/05,2.8
+Murcia,2021/06,2.6
+Murcia,2021/07,2.7
+Murcia,2021/08,3.2
+Murcia,2021/09,3.9
+Murcia,2021/10,5.1
+Navarra,2020/01,1.2
+Navarra,2020/02,0.6
+Navarra,2020/03,-0.3
+Navarra,2020/04,-1
+Navarra,2020/05,-1.3
+Navarra,2020/06,-0.7
+Navarra,2020/07,-1.3
+Navarra,2020/08,-0.9
+Navarra,2020/09,-0.7
+Navarra,2020/10,-1
+Navarra,2020/11,-1
+Navarra,2020/12,-0.6
+Navarra,2021/01,0.4
+Navarra,2021/02,0.3
+Navarra,2021/03,1.8
+Navarra,2021/04,2.7
+Navarra,2021/05,3.3
+Navarra,2021/06,3.2
+Navarra,2021/07,3.3
+Navarra,2021/08,3.6
+Navarra,2021/09,4.1
+Navarra,2021/10,5.6
+Ourense,2020/01,1.1
+Ourense,2020/02,0.6
+Ourense,2020/03,-0.3
+Ourense,2020/04,-0.9
+Ourense,2020/05,-1.3
+Ourense,2020/06,-0.7
+Ourense,2020/07,-0.7
+Ourense,2020/08,-0.5
+Ourense,2020/09,-0.3
+Ourense,2020/10,-0.8
+Ourense,2020/11,-0.8
+Ourense,2020/12,-0.4
+Ourense,2021/01,0.3
+Ourense,2021/02,0.1
+Ourense,2021/03,1.6
+Ourense,2021/04,2.7
+Ourense,2021/05,3.4
+Ourense,2021/06,3.3
+Ourense,2021/07,3.6
+Ourense,2021/08,4.3
+Ourense,2021/09,4.8
+Ourense,2021/10,5.8
+Palencia,2020/01,1.2
+Palencia,2020/02,0.9
+Palencia,2020/03,-0.2
+Palencia,2020/04,-1.1
+Palencia,2020/05,-1.2
+Palencia,2020/06,-0.4
+Palencia,2020/07,-0.9
+Palencia,2020/08,-0.8
+Palencia,2020/09,-0.6
+Palencia,2020/10,-1
+Palencia,2020/11,-1.2
+Palencia,2020/12,-0.8
+Palencia,2021/01,0.2
+Palencia,2021/02,-0.2
+Palencia,2021/03,1.3
+Palencia,2021/04,2.2
+Palencia,2021/05,2.9
+Palencia,2021/06,2.7
+Palencia,2021/07,3.2
+Palencia,2021/08,3.5
+Palencia,2021/09,4
+Palencia,2021/10,5.6
+Las Palmas,2020/01,1
+Las Palmas,2020/02,1
+Las Palmas,2020/03,1
+Las Palmas,2020/04,0.9
+Las Palmas,2020/05,1
+Las Palmas,2020/06,1.1
+Las Palmas,2020/07,1
+Las Palmas,2020/08,0.6
+Las Palmas,2020/09,0.5
+Las Palmas,2020/10,0.5
+Las Palmas,2020/11,0.2
+Las Palmas,2020/12,-0.2
+Las Palmas,2021/01,0
+Las Palmas,2021/02,-0.8
+Las Palmas,2021/03,-0.1
+Las Palmas,2021/04,0.8
+Las Palmas,2021/05,1.2
+Las Palmas,2021/06,1.3
+Las Palmas,2021/07,1.5
+Las Palmas,2021/08,2.2
+Las Palmas,2021/09,2.9
+Las Palmas,2021/10,3.9
+Pontevedra,2020/01,1.3
+Pontevedra,2020/02,0.8
+Pontevedra,2020/03,-0.2
+Pontevedra,2020/04,-1
+Pontevedra,2020/05,-1.2
+Pontevedra,2020/06,-0.6
+Pontevedra,2020/07,-0.7
+Pontevedra,2020/08,-0.5
+Pontevedra,2020/09,-0.3
+Pontevedra,2020/10,-0.8
+Pontevedra,2020/11,-0.7
+Pontevedra,2020/12,-0.5
+Pontevedra,2021/01,0.2
+Pontevedra,2021/02,0.2
+Pontevedra,2021/03,1.7
+Pontevedra,2021/04,3
+Pontevedra,2021/05,3.5
+Pontevedra,2021/06,3.7
+Pontevedra,2021/07,3.7
+Pontevedra,2021/08,4.3
+Pontevedra,2021/09,5
+Pontevedra,2021/10,6.1
+"Rioja, La",2020/01,1.1
+"Rioja, La",2020/02,0.6
+"Rioja, La",2020/03,0
+"Rioja, La",2020/04,-0.9
+"Rioja, La",2020/05,-1.1
+"Rioja, La",2020/06,-0.7
+"Rioja, La",2020/07,-1
+"Rioja, La",2020/08,-0.7
+"Rioja, La",2020/09,-0.7
+"Rioja, La",2020/10,-1.2
+"Rioja, La",2020/11,-1.3
+"Rioja, La",2020/12,-0.8
+"Rioja, La",2021/01,0.3
+"Rioja, La",2021/02,-0.2
+"Rioja, La",2021/03,1.2
+"Rioja, La",2021/04,2.3
+"Rioja, La",2021/05,2.6
+"Rioja, La",2021/06,2.8
+"Rioja, La",2021/07,3.1
+"Rioja, La",2021/08,3.5
+"Rioja, La",2021/09,4.3
+"Rioja, La",2021/10,5.9
+Salamanca,2020/01,1.1
+Salamanca,2020/02,1.1
+Salamanca,2020/03,0.1
+Salamanca,2020/04,-1.2
+Salamanca,2020/05,-1.4
+Salamanca,2020/06,-0.5
+Salamanca,2020/07,-0.8
+Salamanca,2020/08,-0.3
+Salamanca,2020/09,-0.7
+Salamanca,2020/10,-1
+Salamanca,2020/11,-0.8
+Salamanca,2020/12,-0.6
+Salamanca,2021/01,0.4
+Salamanca,2021/02,-0.3
+Salamanca,2021/03,1.3
+Salamanca,2021/04,2.3
+Salamanca,2021/05,2.9
+Salamanca,2021/06,3.2
+Salamanca,2021/07,3.3
+Salamanca,2021/08,3.4
+Salamanca,2021/09,4.3
+Salamanca,2021/10,6
+Santa Cruz de Tenerife,2020/01,1.3
+Santa Cruz de Tenerife,2020/02,1.2
+Santa Cruz de Tenerife,2020/03,0.6
+Santa Cruz de Tenerife,2020/04,-0.2
+Santa Cruz de Tenerife,2020/05,-0.2
+Santa Cruz de Tenerife,2020/06,0.4
+Santa Cruz de Tenerife,2020/07,0.3
+Santa Cruz de Tenerife,2020/08,0.5
+Santa Cruz de Tenerife,2020/09,0.2
+Santa Cruz de Tenerife,2020/10,0.1
+Santa Cruz de Tenerife,2020/11,-0.1
+Santa Cruz de Tenerife,2020/12,-0.1
+Santa Cruz de Tenerife,2021/01,0.4
+Santa Cruz de Tenerife,2021/02,0
+Santa Cruz de Tenerife,2021/03,1
+Santa Cruz de Tenerife,2021/04,1.7
+Santa Cruz de Tenerife,2021/05,2.2
+Santa Cruz de Tenerife,2021/06,1.8
+Santa Cruz de Tenerife,2021/07,2.1
+Santa Cruz de Tenerife,2021/08,2.7
+Santa Cruz de Tenerife,2021/09,3.5
+Santa Cruz de Tenerife,2021/10,4.6
+Segovia,2020/01,1.2
+Segovia,2020/02,0.8
+Segovia,2020/03,0
+Segovia,2020/04,-0.8
+Segovia,2020/05,-1
+Segovia,2020/06,-0.3
+Segovia,2020/07,-0.6
+Segovia,2020/08,-0.7
+Segovia,2020/09,-0.4
+Segovia,2020/10,-0.7
+Segovia,2020/11,-0.8
+Segovia,2020/12,-0.5
+Segovia,2021/01,0.8
+Segovia,2021/02,0.2
+Segovia,2021/03,1.7
+Segovia,2021/04,2.8
+Segovia,2021/05,3.3
+Segovia,2021/06,3.4
+Segovia,2021/07,3.4
+Segovia,2021/08,3.9
+Segovia,2021/09,4.7
+Segovia,2021/10,6.2
+Sevilla,2020/01,0.9
+Sevilla,2020/02,0.6
+Sevilla,2020/03,-0.1
+Sevilla,2020/04,-0.6
+Sevilla,2020/05,-0.6
+Sevilla,2020/06,-0.3
+Sevilla,2020/07,-0.7
+Sevilla,2020/08,-0.4
+Sevilla,2020/09,-0.5
+Sevilla,2020/10,-0.6
+Sevilla,2020/11,-0.7
+Sevilla,2020/12,-0.4
+Sevilla,2021/01,0.6
+Sevilla,2021/02,0
+Sevilla,2021/03,1.4
+Sevilla,2021/04,2.2
+Sevilla,2021/05,2.6
+Sevilla,2021/06,2.7
+Sevilla,2021/07,2.8
+Sevilla,2021/08,3.3
+Sevilla,2021/09,4
+Sevilla,2021/10,5.3
+Soria,2020/01,1.3
+Soria,2020/02,0.8
+Soria,2020/03,0
+Soria,2020/04,-1.1
+Soria,2020/05,-1.6
+Soria,2020/06,-0.7
+Soria,2020/07,-1.1
+Soria,2020/08,-1
+Soria,2020/09,-1.3
+Soria,2020/10,-1.2
+Soria,2020/11,-1
+Soria,2020/12,-0.7
+Soria,2021/01,0.4
+Soria,2021/02,0
+Soria,2021/03,1.7
+Soria,2021/04,2.8
+Soria,2021/05,3.5
+Soria,2021/06,3.5
+Soria,2021/07,3.7
+Soria,2021/08,4.1
+Soria,2021/09,5
+Soria,2021/10,6.2
+Tarragona,2020/01,0.9
+Tarragona,2020/02,0.6
+Tarragona,2020/03,-0.3
+Tarragona,2020/04,-1.5
+Tarragona,2020/05,-1.8
+Tarragona,2020/06,-1.2
+Tarragona,2020/07,-1.3
+Tarragona,2020/08,-1.1
+Tarragona,2020/09,-0.5
+Tarragona,2020/10,-1.2
+Tarragona,2020/11,-1.1
+Tarragona,2020/12,-0.7
+Tarragona,2021/01,0.3
+Tarragona,2021/02,-0.2
+Tarragona,2021/03,1.5
+Tarragona,2021/04,2.8
+Tarragona,2021/05,3.4
+Tarragona,2021/06,3.3
+Tarragona,2021/07,3.3
+Tarragona,2021/08,3.6
+Tarragona,2021/09,4
+Tarragona,2021/10,5.8
+Teruel,2020/01,1.3
+Teruel,2020/02,0.9
+Teruel,2020/03,-0.1
+Teruel,2020/04,-1
+Teruel,2020/05,-1.1
+Teruel,2020/06,-0.7
+Teruel,2020/07,-1
+Teruel,2020/08,-0.6
+Teruel,2020/09,-0.3
+Teruel,2020/10,-0.7
+Teruel,2020/11,-1
+Teruel,2020/12,-1
+Teruel,2021/01,-0.1
+Teruel,2021/02,-0.3
+Teruel,2021/03,1.4
+Teruel,2021/04,2.3
+Teruel,2021/05,3
+Teruel,2021/06,2.9
+Teruel,2021/07,3.2
+Teruel,2021/08,3.4
+Teruel,2021/09,3.9
+Teruel,2021/10,5.3
+Toledo,2020/01,1.6
+Toledo,2020/02,0.9
+Toledo,2020/03,-0.2
+Toledo,2020/04,-1.2
+Toledo,2020/05,-1.6
+Toledo,2020/06,-0.7
+Toledo,2020/07,-1.1
+Toledo,2020/08,-0.7
+Toledo,2020/09,-0.7
+Toledo,2020/10,-1.3
+Toledo,2020/11,-1.5
+Toledo,2020/12,-1
+Toledo,2021/01,0
+Toledo,2021/02,-0.3
+Toledo,2021/03,1.5
+Toledo,2021/04,2.8
+Toledo,2021/05,3.8
+Toledo,2021/06,3.6
+Toledo,2021/07,4.1
+Toledo,2021/08,4.4
+Toledo,2021/09,5.3
+Toledo,2021/10,6.8
+Valencia/València,2020/01,0.8
+Valencia/València,2020/02,0.5
+Valencia/València,2020/03,-0.3
+Valencia/València,2020/04,-1
+Valencia/València,2020/05,-1.1
+Valencia/València,2020/06,-0.5
+Valencia/València,2020/07,-0.5
+Valencia/València,2020/08,-0.6
+Valencia/València,2020/09,-0.3
+Valencia/València,2020/10,-0.8
+Valencia/València,2020/11,-0.6
+Valencia/València,2020/12,-0.5
+Valencia/València,2021/01,0.5
+Valencia/València,2021/02,0.2
+Valencia/València,2021/03,1.8
+Valencia/València,2021/04,2.5
+Valencia/València,2021/05,3.1
+Valencia/València,2021/06,2.9
+Valencia/València,2021/07,2.8
+Valencia/València,2021/08,3.3
+Valencia/València,2021/09,4
+Valencia/València,2021/10,5.4
+Valladolid,2020/01,1.2
+Valladolid,2020/02,0.8
+Valladolid,2020/03,-0.1
+Valladolid,2020/04,-1
+Valladolid,2020/05,-1
+Valladolid,2020/06,-0.5
+Valladolid,2020/07,-0.8
+Valladolid,2020/08,-0.7
+Valladolid,2020/09,-0.6
+Valladolid,2020/10,-1.2
+Valladolid,2020/11,-1.2
+Valladolid,2020/12,-1
+Valladolid,2021/01,0.2
+Valladolid,2021/02,-0.4
+Valladolid,2021/03,1.1
+Valladolid,2021/04,2.2
+Valladolid,2021/05,2.7
+Valladolid,2021/06,2.8
+Valladolid,2021/07,3.1
+Valladolid,2021/08,3.5
+Valladolid,2021/09,4.4
+Valladolid,2021/10,5.7
+Zamora,2020/01,1.2
+Zamora,2020/02,0.9
+Zamora,2020/03,-0.2
+Zamora,2020/04,-0.8
+Zamora,2020/05,-1.1
+Zamora,2020/06,-0.3
+Zamora,2020/07,-0.8
+Zamora,2020/08,-0.5
+Zamora,2020/09,-0.2
+Zamora,2020/10,-0.5
+Zamora,2020/11,-0.7
+Zamora,2020/12,-0.4
+Zamora,2021/01,0.6
+Zamora,2021/02,0.1
+Zamora,2021/03,1.6
+Zamora,2021/04,2.3
+Zamora,2021/05,3.1
+Zamora,2021/06,2.7
+Zamora,2021/07,3.3
+Zamora,2021/08,3.7
+Zamora,2021/09,4.4
+Zamora,2021/10,5.8
+Zaragoza,2020/01,1
+Zaragoza,2020/02,0.7
+Zaragoza,2020/03,-0.1
+Zaragoza,2020/04,-1
+Zaragoza,2020/05,-1.2
+Zaragoza,2020/06,-0.5
+Zaragoza,2020/07,-0.6
+Zaragoza,2020/08,-0.6
+Zaragoza,2020/09,-0.4
+Zaragoza,2020/10,-0.7
+Zaragoza,2020/11,-0.7
+Zaragoza,2020/12,-0.5
+Zaragoza,2021/01,0.7
+Zaragoza,2021/02,-0.1
+Zaragoza,2021/03,1.6
+Zaragoza,2021/04,2.5
+Zaragoza,2021/05,3.2
+Zaragoza,2021/06,3.1
+Zaragoza,2021/07,3.1
+Zaragoza,2021/08,3.6
+Zaragoza,2021/09,4.2
+Zaragoza,2021/10,5.7

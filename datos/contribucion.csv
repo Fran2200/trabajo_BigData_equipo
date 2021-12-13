@@ -1,0 +1,3829 @@
+componente,date,value
+Bread and cereals,2020/01,0.02
+Bread and cereals,2020/02,0.02
+Bread and cereals,2020/03,0.029999999999999999
+Bread and cereals,2020/04,0.040000000000000001
+Bread and cereals,2020/05,0.040000000000000001
+Bread and cereals,2020/06,0.029999999999999999
+Bread and cereals,2020/07,0.02
+Bread and cereals,2020/08,0.01
+Bread and cereals,2020/09,0.01
+Bread and cereals,2020/10,0.01
+Bread and cereals,2020/11,0.01
+Bread and cereals,2020/12,0.01
+Bread and cereals,2021/01,0.02
+Bread and cereals,2021/02,0.02
+Bread and cereals,2021/03,0.02
+Bread and cereals,2021/04,0
+Bread and cereals,2021/05,0.01
+Bread and cereals,2021/06,0.01
+Bread and cereals,2021/07,0.029999999999999999
+Bread and cereals,2021/08,0.040000000000000001
+Bread and cereals,2021/09,0.050000000000000003
+Bread and cereals,2021/10,0.059999999999999998
+Rice,2020/01,0
+Rice,2020/02,0
+Rice,2020/03,0
+Rice,2020/04,0
+Rice,2020/05,0
+Rice,2020/06,0
+Rice,2020/07,0
+Rice,2020/08,0
+Rice,2020/09,0
+Rice,2020/10,0
+Rice,2020/11,0
+Rice,2020/12,0
+Rice,2021/01,0
+Rice,2021/02,0
+Rice,2021/03,0
+Rice,2021/04,0
+Rice,2021/05,0
+Rice,2021/06,0
+Rice,2021/07,0
+Rice,2021/08,0
+Rice,2021/09,0
+Rice,2021/10,0
+Flours and other cereals,2020/01,0
+Flours and other cereals,2020/02,0
+Flours and other cereals,2020/03,0
+Flours and other cereals,2020/04,0
+Flours and other cereals,2020/05,0
+Flours and other cereals,2020/06,0
+Flours and other cereals,2020/07,0
+Flours and other cereals,2020/08,0
+Flours and other cereals,2020/09,0
+Flours and other cereals,2020/10,0
+Flours and other cereals,2020/11,0
+Flours and other cereals,2020/12,0
+Flours and other cereals,2021/01,0
+Flours and other cereals,2021/02,0
+Flours and other cereals,2021/03,0
+Flours and other cereals,2021/04,0
+Flours and other cereals,2021/05,0
+Flours and other cereals,2021/06,0
+Flours and other cereals,2021/07,0
+Flours and other cereals,2021/08,0
+Flours and other cereals,2021/09,0
+Flours and other cereals,2021/10,0
+Bread,2020/01,0.01
+Bread,2020/02,0.01
+Bread,2020/03,0.01
+Bread,2020/04,0.02
+Bread,2020/05,0.01
+Bread,2020/06,0.01
+Bread,2020/07,0.01
+Bread,2020/08,0
+Bread,2020/09,0
+Bread,2020/10,0
+Bread,2020/11,0
+Bread,2020/12,0
+Bread,2021/01,0.01
+Bread,2021/02,0.01
+Bread,2021/03,0.01
+Bread,2021/04,0
+Bread,2021/05,0.01
+Bread,2021/06,0.01
+Bread,2021/07,0.02
+Bread,2021/08,0.02
+Bread,2021/09,0.029999999999999999
+Bread,2021/10,0.029999999999999999
+Other bakery products,2020/01,0.01
+Other bakery products,2020/02,0.01
+Other bakery products,2020/03,0.01
+Other bakery products,2020/04,0.01
+Other bakery products,2020/05,0.01
+Other bakery products,2020/06,0.01
+Other bakery products,2020/07,0
+Other bakery products,2020/08,0
+Other bakery products,2020/09,0
+Other bakery products,2020/10,0
+Other bakery products,2020/11,0
+Other bakery products,2020/12,0
+Other bakery products,2021/01,0
+Other bakery products,2021/02,0
+Other bakery products,2021/03,0
+Other bakery products,2021/04,0
+Other bakery products,2021/05,0
+Other bakery products,2021/06,0
+Other bakery products,2021/07,0.01
+Other bakery products,2021/08,0.01
+Other bakery products,2021/09,0.01
+Other bakery products,2021/10,0.01
+Pizza and quiche,2020/01,0
+Pizza and quiche,2020/02,0
+Pizza and quiche,2020/03,0
+Pizza and quiche,2020/04,0
+Pizza and quiche,2020/05,0
+Pizza and quiche,2020/06,0
+Pizza and quiche,2020/07,0
+Pizza and quiche,2020/08,0
+Pizza and quiche,2020/09,0
+Pizza and quiche,2020/10,0
+Pizza and quiche,2020/11,0
+Pizza and quiche,2020/12,0
+Pizza and quiche,2021/01,0
+Pizza and quiche,2021/02,0
+Pizza and quiche,2021/03,0
+Pizza and quiche,2021/04,0
+Pizza and quiche,2021/05,0
+Pizza and quiche,2021/06,0
+Pizza and quiche,2021/07,0
+Pizza and quiche,2021/08,0
+Pizza and quiche,2021/09,0
+Pizza and quiche,2021/10,0
+Pasta products and couscous,2020/01,0
+Pasta products and couscous,2020/02,0
+Pasta products and couscous,2020/03,0
+Pasta products and couscous,2020/04,0.01
+Pasta products and couscous,2020/05,0.01
+Pasta products and couscous,2020/06,0
+Pasta products and couscous,2020/07,0
+Pasta products and couscous,2020/08,0
+Pasta products and couscous,2020/09,0
+Pasta products and couscous,2020/10,0
+Pasta products and couscous,2020/11,0
+Pasta products and couscous,2020/12,0
+Pasta products and couscous,2021/01,0
+Pasta products and couscous,2021/02,0
+Pasta products and couscous,2021/03,0
+Pasta products and couscous,2021/04,0
+Pasta products and couscous,2021/05,0
+Pasta products and couscous,2021/06,0
+Pasta products and couscous,2021/07,0
+Pasta products and couscous,2021/08,0
+Pasta products and couscous,2021/09,0
+Pasta products and couscous,2021/10,0.01
+Breakfast cereals,2020/01,0
+Breakfast cereals,2020/02,0
+Breakfast cereals,2020/03,0
+Breakfast cereals,2020/04,0
+Breakfast cereals,2020/05,0
+Breakfast cereals,2020/06,0
+Breakfast cereals,2020/07,0
+Breakfast cereals,2020/08,0
+Breakfast cereals,2020/09,0
+Breakfast cereals,2020/10,0
+Breakfast cereals,2020/11,0
+Breakfast cereals,2020/12,0
+Breakfast cereals,2021/01,0
+Breakfast cereals,2021/02,0
+Breakfast cereals,2021/03,0
+Breakfast cereals,2021/04,0
+Breakfast cereals,2021/05,0
+Breakfast cereals,2021/06,0
+Breakfast cereals,2021/07,0
+Breakfast cereals,2021/08,0
+Breakfast cereals,2021/09,0
+Breakfast cereals,2021/10,0
+Other cereal products,2020/01,0
+Other cereal products,2020/02,0
+Other cereal products,2020/03,0
+Other cereal products,2020/04,0
+Other cereal products,2020/05,0
+Other cereal products,2020/06,0
+Other cereal products,2020/07,0
+Other cereal products,2020/08,0
+Other cereal products,2020/09,0
+Other cereal products,2020/10,0
+Other cereal products,2020/11,0
+Other cereal products,2020/12,0
+Other cereal products,2021/01,0
+Other cereal products,2021/02,0
+Other cereal products,2021/03,0
+Other cereal products,2021/04,0
+Other cereal products,2021/05,0
+Other cereal products,2021/06,0
+Other cereal products,2021/07,0
+Other cereal products,2021/08,0
+Other cereal products,2021/09,0
+Other cereal products,2021/10,0
+Meat,2020/01,0.13
+Meat,2020/02,0.14999999999999999
+Meat,2020/03,0.17000000000000001
+Meat,2020/04,0.17999999999999999
+Meat,2020/05,0.16
+Meat,2020/06,0.14000000000000001
+Meat,2020/07,0.11
+Meat,2020/08,0.10000000000000001
+Meat,2020/09,0.089999999999999997
+Meat,2020/10,0.080000000000000002
+Meat,2020/11,0.070000000000000007
+Meat,2020/12,0.050000000000000003
+Meat,2021/01,0.040000000000000001
+Meat,2021/02,0.029999999999999999
+Meat,2021/03,0.02
+Meat,2021/04,0.01
+Meat,2021/05,0.02
+Meat,2021/06,0.02
+Meat,2021/07,0.050000000000000003
+Meat,2021/08,0.050000000000000003
+Meat,2021/09,0.059999999999999998
+Meat,2021/10,0.070000000000000007
+Beef and veal,2020/01,0.01
+Beef and veal,2020/02,0.01
+Beef and veal,2020/03,0.01
+Beef and veal,2020/04,0.01
+Beef and veal,2020/05,0.01
+Beef and veal,2020/06,0.01
+Beef and veal,2020/07,0.01
+Beef and veal,2020/08,0.01
+Beef and veal,2020/09,0.01
+Beef and veal,2020/10,0.01
+Beef and veal,2020/11,0.01
+Beef and veal,2020/12,0.01
+Beef and veal,2021/01,0.01
+Beef and veal,2021/02,0.01
+Beef and veal,2021/03,0
+Beef and veal,2021/04,0
+Beef and veal,2021/05,0
+Beef and veal,2021/06,0
+Beef and veal,2021/07,0.01
+Beef and veal,2021/08,0.01
+Beef and veal,2021/09,0.01
+Beef and veal,2021/10,0.02
+Pork,2020/01,0.029999999999999999
+Pork,2020/02,0.029999999999999999
+Pork,2020/03,0.040000000000000001
+Pork,2020/04,0.040000000000000001
+Pork,2020/05,0.029999999999999999
+Pork,2020/06,0.029999999999999999
+Pork,2020/07,0.02
+Pork,2020/08,0.02
+Pork,2020/09,0.02
+Pork,2020/10,0.02
+Pork,2020/11,0.01
+Pork,2020/12,0.01
+Pork,2021/01,0
+Pork,2021/02,0
+Pork,2021/03,0
+Pork,2021/04,-0.01
+Pork,2021/05,0
+Pork,2021/06,0
+Pork,2021/07,0
+Pork,2021/08,0
+Pork,2021/09,0
+Pork,2021/10,0
+Lamb and goat,2020/01,0
+Lamb and goat,2020/02,0
+Lamb and goat,2020/03,0
+Lamb and goat,2020/04,0
+Lamb and goat,2020/05,0
+Lamb and goat,2020/06,0
+Lamb and goat,2020/07,0
+Lamb and goat,2020/08,0
+Lamb and goat,2020/09,0
+Lamb and goat,2020/10,0
+Lamb and goat,2020/11,0
+Lamb and goat,2020/12,0
+Lamb and goat,2021/01,0
+Lamb and goat,2021/02,0
+Lamb and goat,2021/03,0
+Lamb and goat,2021/04,0
+Lamb and goat,2021/05,0
+Lamb and goat,2021/06,0.01
+Lamb and goat,2021/07,0
+Lamb and goat,2021/08,0
+Lamb and goat,2021/09,0
+Lamb and goat,2021/10,0.01
+Poultry,2020/01,0.01
+Poultry,2020/02,0.01
+Poultry,2020/03,0.01
+Poultry,2020/04,0.02
+Poultry,2020/05,0.01
+Poultry,2020/06,0.01
+Poultry,2020/07,0.01
+Poultry,2020/08,0.01
+Poultry,2020/09,0
+Poultry,2020/10,0
+Poultry,2020/11,0
+Poultry,2020/12,0
+Poultry,2021/01,0
+Poultry,2021/02,0
+Poultry,2021/03,0
+Poultry,2021/04,0
+Poultry,2021/05,0.01
+Poultry,2021/06,0.01
+Poultry,2021/07,0.01
+Poultry,2021/08,0.02
+Poultry,2021/09,0.02
+Poultry,2021/10,0.02
+Other meats,2020/01,0
+Other meats,2020/02,0
+Other meats,2020/03,0
+Other meats,2020/04,0
+Other meats,2020/05,0
+Other meats,2020/06,0
+Other meats,2020/07,0
+Other meats,2020/08,0
+Other meats,2020/09,0
+Other meats,2020/10,0
+Other meats,2020/11,0
+Other meats,2020/12,0
+Other meats,2021/01,0
+Other meats,2021/02,0
+Other meats,2021/03,0
+Other meats,2021/04,0
+Other meats,2021/05,0
+Other meats,2021/06,0
+Other meats,2021/07,0
+Other meats,2021/08,0
+Other meats,2021/09,0
+Other meats,2021/10,0
+Edible offal,2020/01,0
+Edible offal,2020/02,0
+Edible offal,2020/03,0
+Edible offal,2020/04,0
+Edible offal,2020/05,0
+Edible offal,2020/06,0
+Edible offal,2020/07,0
+Edible offal,2020/08,0
+Edible offal,2020/09,0
+Edible offal,2020/10,0
+Edible offal,2020/11,0
+Edible offal,2020/12,0
+Edible offal,2021/01,0
+Edible offal,2021/02,0
+Edible offal,2021/03,0
+Edible offal,2021/04,0
+Edible offal,2021/05,0
+Edible offal,2021/06,0
+Edible offal,2021/07,0
+Edible offal,2021/08,0
+Edible offal,2021/09,0
+Edible offal,2021/10,0
+"Dried, salted or smoked meat",2020/01,0.059999999999999998
+"Dried, salted or smoked meat",2020/02,0.080000000000000002
+"Dried, salted or smoked meat",2020/03,0.080000000000000002
+"Dried, salted or smoked meat",2020/04,0.080000000000000002
+"Dried, salted or smoked meat",2020/05,0.080000000000000002
+"Dried, salted or smoked meat",2020/06,0.070000000000000007
+"Dried, salted or smoked meat",2020/07,0.059999999999999998
+"Dried, salted or smoked meat",2020/08,0.050000000000000003
+"Dried, salted or smoked meat",2020/09,0.040000000000000001
+"Dried, salted or smoked meat",2020/10,0.040000000000000001
+"Dried, salted or smoked meat",2020/11,0.040000000000000001
+"Dried, salted or smoked meat",2020/12,0.029999999999999999
+"Dried, salted or smoked meat",2021/01,0.02
+"Dried, salted or smoked meat",2021/02,0.01
+"Dried, salted or smoked meat",2021/03,0.01
+"Dried, salted or smoked meat",2021/04,0
+"Dried, salted or smoked meat",2021/05,0
+"Dried, salted or smoked meat",2021/06,0
+"Dried, salted or smoked meat",2021/07,0.01
+"Dried, salted or smoked meat",2021/08,0.01
+"Dried, salted or smoked meat",2021/09,0.01
+"Dried, salted or smoked meat",2021/10,0.02
+Other meat preparations,2020/01,0.02
+Other meat preparations,2020/02,0.02
+Other meat preparations,2020/03,0.02
+Other meat preparations,2020/04,0.02
+Other meat preparations,2020/05,0.02
+Other meat preparations,2020/06,0.02
+Other meat preparations,2020/07,0.02
+Other meat preparations,2020/08,0.01
+Other meat preparations,2020/09,0.01
+Other meat preparations,2020/10,0.01
+Other meat preparations,2020/11,0.01
+Other meat preparations,2020/12,0.01
+Other meat preparations,2021/01,0.01
+Other meat preparations,2021/02,0
+Other meat preparations,2021/03,0
+Other meat preparations,2021/04,0
+Other meat preparations,2021/05,0
+Other meat preparations,2021/06,0
+Other meat preparations,2021/07,0.01
+Other meat preparations,2021/08,0.01
+Other meat preparations,2021/09,0.01
+Other meat preparations,2021/10,0.01
+Fish and seafood,2020/01,0.02
+Fish and seafood,2020/02,0.02
+Fish and seafood,2020/03,0.029999999999999999
+Fish and seafood,2020/04,0.040000000000000001
+Fish and seafood,2020/05,0.02
+Fish and seafood,2020/06,0.02
+Fish and seafood,2020/07,0.01
+Fish and seafood,2020/08,0.01
+Fish and seafood,2020/09,0.01
+Fish and seafood,2020/10,0.01
+Fish and seafood,2020/11,0.01
+Fish and seafood,2020/12,0.01
+Fish and seafood,2021/01,0
+Fish and seafood,2021/02,0.01
+Fish and seafood,2021/03,0
+Fish and seafood,2021/04,-0.01
+Fish and seafood,2021/05,0
+Fish and seafood,2021/06,0.01
+Fish and seafood,2021/07,0.02
+Fish and seafood,2021/08,0.02
+Fish and seafood,2021/09,0.02
+Fish and seafood,2021/10,0.029999999999999999
+Fresh or chilled fish,2020/01,0.02
+Fresh or chilled fish,2020/02,0.01
+Fresh or chilled fish,2020/03,0.02
+Fresh or chilled fish,2020/04,0.029999999999999999
+Fresh or chilled fish,2020/05,0.01
+Fresh or chilled fish,2020/06,0.01
+Fresh or chilled fish,2020/07,0
+Fresh or chilled fish,2020/08,0
+Fresh or chilled fish,2020/09,0
+Fresh or chilled fish,2020/10,0
+Fresh or chilled fish,2020/11,0
+Fresh or chilled fish,2020/12,0.01
+Fresh or chilled fish,2021/01,0
+Fresh or chilled fish,2021/02,0
+Fresh or chilled fish,2021/03,0
+Fresh or chilled fish,2021/04,-0.01
+Fresh or chilled fish,2021/05,0
+Fresh or chilled fish,2021/06,0
+Fresh or chilled fish,2021/07,0.01
+Fresh or chilled fish,2021/08,0.01
+Fresh or chilled fish,2021/09,0.01
+Fresh or chilled fish,2021/10,0.02
+Frozen fish,2020/01,0
+Frozen fish,2020/02,0
+Frozen fish,2020/03,0
+Frozen fish,2020/04,0
+Frozen fish,2020/05,0
+Frozen fish,2020/06,0
+Frozen fish,2020/07,0
+Frozen fish,2020/08,0
+Frozen fish,2020/09,0
+Frozen fish,2020/10,0
+Frozen fish,2020/11,0
+Frozen fish,2020/12,0
+Frozen fish,2021/01,0
+Frozen fish,2021/02,0
+Frozen fish,2021/03,0
+Frozen fish,2021/04,0
+Frozen fish,2021/05,0
+Frozen fish,2021/06,0
+Frozen fish,2021/07,0
+Frozen fish,2021/08,0
+Frozen fish,2021/09,0
+Frozen fish,2021/10,0
+Fresh or chilled seafood,2020/01,0
+Fresh or chilled seafood,2020/02,0
+Fresh or chilled seafood,2020/03,0
+Fresh or chilled seafood,2020/04,0
+Fresh or chilled seafood,2020/05,0
+Fresh or chilled seafood,2020/06,0
+Fresh or chilled seafood,2020/07,0
+Fresh or chilled seafood,2020/08,0
+Fresh or chilled seafood,2020/09,0
+Fresh or chilled seafood,2020/10,0
+Fresh or chilled seafood,2020/11,0
+Fresh or chilled seafood,2020/12,0
+Fresh or chilled seafood,2021/01,0
+Fresh or chilled seafood,2021/02,0
+Fresh or chilled seafood,2021/03,0
+Fresh or chilled seafood,2021/04,0
+Fresh or chilled seafood,2021/05,0
+Fresh or chilled seafood,2021/06,0
+Fresh or chilled seafood,2021/07,0
+Fresh or chilled seafood,2021/08,0
+Fresh or chilled seafood,2021/09,0
+Fresh or chilled seafood,2021/10,0
+Frozen seafood,2020/01,0
+Frozen seafood,2020/02,0
+Frozen seafood,2020/03,0
+Frozen seafood,2020/04,0
+Frozen seafood,2020/05,0
+Frozen seafood,2020/06,0
+Frozen seafood,2020/07,0
+Frozen seafood,2020/08,0
+Frozen seafood,2020/09,0
+Frozen seafood,2020/10,0
+Frozen seafood,2020/11,0
+Frozen seafood,2020/12,0
+Frozen seafood,2021/01,0
+Frozen seafood,2021/02,0
+Frozen seafood,2021/03,0
+Frozen seafood,2021/04,0
+Frozen seafood,2021/05,0
+Frozen seafood,2021/06,0
+Frozen seafood,2021/07,0
+Frozen seafood,2021/08,0
+Frozen seafood,2021/09,0
+Frozen seafood,2021/10,0
+"Dried, smoked or salted fish and seafood",2020/01,0
+"Dried, smoked or salted fish and seafood",2020/02,0
+"Dried, smoked or salted fish and seafood",2020/03,0
+"Dried, smoked or salted fish and seafood",2020/04,0
+"Dried, smoked or salted fish and seafood",2020/05,0
+"Dried, smoked or salted fish and seafood",2020/06,0
+"Dried, smoked or salted fish and seafood",2020/07,0
+"Dried, smoked or salted fish and seafood",2020/08,0
+"Dried, smoked or salted fish and seafood",2020/09,0
+"Dried, smoked or salted fish and seafood",2020/10,0
+"Dried, smoked or salted fish and seafood",2020/11,0
+"Dried, smoked or salted fish and seafood",2020/12,0
+"Dried, smoked or salted fish and seafood",2021/01,0
+"Dried, smoked or salted fish and seafood",2021/02,0
+"Dried, smoked or salted fish and seafood",2021/03,0
+"Dried, smoked or salted fish and seafood",2021/04,0
+"Dried, smoked or salted fish and seafood",2021/05,0
+"Dried, smoked or salted fish and seafood",2021/06,0
+"Dried, smoked or salted fish and seafood",2021/07,0
+"Dried, smoked or salted fish and seafood",2021/08,0
+"Dried, smoked or salted fish and seafood",2021/09,0
+"Dried, smoked or salted fish and seafood",2021/10,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/01,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/02,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/03,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/04,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/05,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/06,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/07,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/08,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/09,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/10,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/11,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2020/12,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/01,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/02,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/03,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/04,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/05,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/06,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/07,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/08,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/09,0
+Other preserved or processed fish and seafood and fish and seafood preparations,2021/10,0
+"Milk, cheese and eggs",2020/01,0.02
+"Milk, cheese and eggs",2020/02,0.02
+"Milk, cheese and eggs",2020/03,0.02
+"Milk, cheese and eggs",2020/04,0.029999999999999999
+"Milk, cheese and eggs",2020/05,0.029999999999999999
+"Milk, cheese and eggs",2020/06,0.029999999999999999
+"Milk, cheese and eggs",2020/07,0.01
+"Milk, cheese and eggs",2020/08,0.01
+"Milk, cheese and eggs",2020/09,0.01
+"Milk, cheese and eggs",2020/10,0.01
+"Milk, cheese and eggs",2020/11,0
+"Milk, cheese and eggs",2020/12,0.01
+"Milk, cheese and eggs",2021/01,0.01
+"Milk, cheese and eggs",2021/02,0.02
+"Milk, cheese and eggs",2021/03,0.01
+"Milk, cheese and eggs",2021/04,0.01
+"Milk, cheese and eggs",2021/05,0.01
+"Milk, cheese and eggs",2021/06,0.02
+"Milk, cheese and eggs",2021/07,0.029999999999999999
+"Milk, cheese and eggs",2021/08,0.029999999999999999
+"Milk, cheese and eggs",2021/09,0.040000000000000001
+"Milk, cheese and eggs",2021/10,0.050000000000000003
+Fresh whole milk,2020/01,0
+Fresh whole milk,2020/02,0
+Fresh whole milk,2020/03,0
+Fresh whole milk,2020/04,0
+Fresh whole milk,2020/05,0
+Fresh whole milk,2020/06,0
+Fresh whole milk,2020/07,0
+Fresh whole milk,2020/08,0
+Fresh whole milk,2020/09,0
+Fresh whole milk,2020/10,0
+Fresh whole milk,2020/11,0
+Fresh whole milk,2020/12,0
+Fresh whole milk,2021/01,0
+Fresh whole milk,2021/02,0
+Fresh whole milk,2021/03,0
+Fresh whole milk,2021/04,0
+Fresh whole milk,2021/05,0
+Fresh whole milk,2021/06,0
+Fresh whole milk,2021/07,0
+Fresh whole milk,2021/08,0
+Fresh whole milk,2021/09,0
+Fresh whole milk,2021/10,0
+Fresh low fat milk,2020/01,0
+Fresh low fat milk,2020/02,0
+Fresh low fat milk,2020/03,0
+Fresh low fat milk,2020/04,0
+Fresh low fat milk,2020/05,0
+Fresh low fat milk,2020/06,0
+Fresh low fat milk,2020/07,0
+Fresh low fat milk,2020/08,0
+Fresh low fat milk,2020/09,0
+Fresh low fat milk,2020/10,0
+Fresh low fat milk,2020/11,0
+Fresh low fat milk,2020/12,0
+Fresh low fat milk,2021/01,0
+Fresh low fat milk,2021/02,0
+Fresh low fat milk,2021/03,0
+Fresh low fat milk,2021/04,0
+Fresh low fat milk,2021/05,0
+Fresh low fat milk,2021/06,0
+Fresh low fat milk,2021/07,0
+Fresh low fat milk,2021/08,0
+Fresh low fat milk,2021/09,0
+Fresh low fat milk,2021/10,0.01
+Preserved milk,2020/01,0
+Preserved milk,2020/02,0
+Preserved milk,2020/03,0
+Preserved milk,2020/04,0
+Preserved milk,2020/05,0
+Preserved milk,2020/06,0
+Preserved milk,2020/07,0
+Preserved milk,2020/08,0
+Preserved milk,2020/09,0
+Preserved milk,2020/10,0
+Preserved milk,2020/11,0
+Preserved milk,2020/12,0
+Preserved milk,2021/01,0
+Preserved milk,2021/02,0
+Preserved milk,2021/03,0
+Preserved milk,2021/04,0
+Preserved milk,2021/05,0
+Preserved milk,2021/06,0
+Preserved milk,2021/07,0
+Preserved milk,2021/08,0
+Preserved milk,2021/09,0
+Preserved milk,2021/10,0
+Yoghurt,2020/01,0
+Yoghurt,2020/02,0
+Yoghurt,2020/03,0
+Yoghurt,2020/04,0
+Yoghurt,2020/05,0.01
+Yoghurt,2020/06,0
+Yoghurt,2020/07,0
+Yoghurt,2020/08,0
+Yoghurt,2020/09,0
+Yoghurt,2020/10,0
+Yoghurt,2020/11,0
+Yoghurt,2020/12,0
+Yoghurt,2021/01,0
+Yoghurt,2021/02,0
+Yoghurt,2021/03,0
+Yoghurt,2021/04,0
+Yoghurt,2021/05,0
+Yoghurt,2021/06,0
+Yoghurt,2021/07,0
+Yoghurt,2021/08,0
+Yoghurt,2021/09,0
+Yoghurt,2021/10,0
+Cheese and curd,2020/01,0.01
+Cheese and curd,2020/02,0.01
+Cheese and curd,2020/03,0.01
+Cheese and curd,2020/04,0.01
+Cheese and curd,2020/05,0.01
+Cheese and curd,2020/06,0.01
+Cheese and curd,2020/07,0
+Cheese and curd,2020/08,0
+Cheese and curd,2020/09,0
+Cheese and curd,2020/10,0
+Cheese and curd,2020/11,0
+Cheese and curd,2020/12,0
+Cheese and curd,2021/01,0.01
+Cheese and curd,2021/02,0.01
+Cheese and curd,2021/03,0.01
+Cheese and curd,2021/04,0.01
+Cheese and curd,2021/05,0.01
+Cheese and curd,2021/06,0.01
+Cheese and curd,2021/07,0.02
+Cheese and curd,2021/08,0.02
+Cheese and curd,2021/09,0.02
+Cheese and curd,2021/10,0.02
+Other milk products,2020/01,0
+Other milk products,2020/02,0
+Other milk products,2020/03,0
+Other milk products,2020/04,0
+Other milk products,2020/05,0
+Other milk products,2020/06,0
+Other milk products,2020/07,0
+Other milk products,2020/08,0
+Other milk products,2020/09,0
+Other milk products,2020/10,0
+Other milk products,2020/11,0
+Other milk products,2020/12,0
+Other milk products,2021/01,0
+Other milk products,2021/02,0
+Other milk products,2021/03,0
+Other milk products,2021/04,0
+Other milk products,2021/05,0
+Other milk products,2021/06,0
+Other milk products,2021/07,0
+Other milk products,2021/08,0
+Other milk products,2021/09,0
+Other milk products,2021/10,0
+Eggs,2020/01,0
+Eggs,2020/02,0
+Eggs,2020/03,0
+Eggs,2020/04,0
+Eggs,2020/05,0
+Eggs,2020/06,0
+Eggs,2020/07,0
+Eggs,2020/08,0
+Eggs,2020/09,0
+Eggs,2020/10,0
+Eggs,2020/11,0
+Eggs,2020/12,0
+Eggs,2021/01,0
+Eggs,2021/02,0
+Eggs,2021/03,0
+Eggs,2021/04,0
+Eggs,2021/05,0
+Eggs,2021/06,0
+Eggs,2021/07,0.01
+Eggs,2021/08,0.01
+Eggs,2021/09,0.01
+Eggs,2021/10,0.01
+Oils and fats,2020/01,-0.01
+Oils and fats,2020/02,-0.01
+Oils and fats,2020/03,-0.01
+Oils and fats,2020/04,-0.01
+Oils and fats,2020/05,-0.01
+Oils and fats,2020/06,-0.01
+Oils and fats,2020/07,-0.01
+Oils and fats,2020/08,-0.01
+Oils and fats,2020/09,-0.01
+Oils and fats,2020/10,-0.01
+Oils and fats,2020/11,-0.01
+Oils and fats,2020/12,-0.01
+Oils and fats,2021/01,-0.01
+Oils and fats,2021/02,0
+Oils and fats,2021/03,0
+Oils and fats,2021/04,0.01
+Oils and fats,2021/05,0.01
+Oils and fats,2021/06,0.02
+Oils and fats,2021/07,0.029999999999999999
+Oils and fats,2021/08,0.029999999999999999
+Oils and fats,2021/09,0.040000000000000001
+Oils and fats,2021/10,0.040000000000000001
+Butter,2020/01,-0.01
+Butter,2020/02,-0.01
+Butter,2020/03,0
+Butter,2020/04,0
+Butter,2020/05,0
+Butter,2020/06,0
+Butter,2020/07,0
+Butter,2020/08,0
+Butter,2020/09,0
+Butter,2020/10,0
+Butter,2020/11,0
+Butter,2020/12,0
+Butter,2021/01,0
+Butter,2021/02,0
+Butter,2021/03,0
+Butter,2021/04,0
+Butter,2021/05,0
+Butter,2021/06,0
+Butter,2021/07,0
+Butter,2021/08,0
+Butter,2021/09,0
+Butter,2021/10,0
+Margarine and other vegetable fats,2020/01,0
+Margarine and other vegetable fats,2020/02,0
+Margarine and other vegetable fats,2020/03,0
+Margarine and other vegetable fats,2020/04,0
+Margarine and other vegetable fats,2020/05,0
+Margarine and other vegetable fats,2020/06,0
+Margarine and other vegetable fats,2020/07,0
+Margarine and other vegetable fats,2020/08,0
+Margarine and other vegetable fats,2020/09,0
+Margarine and other vegetable fats,2020/10,0
+Margarine and other vegetable fats,2020/11,0
+Margarine and other vegetable fats,2020/12,0
+Margarine and other vegetable fats,2021/01,0
+Margarine and other vegetable fats,2021/02,0
+Margarine and other vegetable fats,2021/03,0
+Margarine and other vegetable fats,2021/04,0
+Margarine and other vegetable fats,2021/05,0
+Margarine and other vegetable fats,2021/06,0
+Margarine and other vegetable fats,2021/07,0
+Margarine and other vegetable fats,2021/08,0
+Margarine and other vegetable fats,2021/09,0
+Margarine and other vegetable fats,2021/10,0
+Olive oil,2020/01,-0.01
+Olive oil,2020/02,-0.01
+Olive oil,2020/03,-0.01
+Olive oil,2020/04,-0.01
+Olive oil,2020/05,-0.01
+Olive oil,2020/06,-0.01
+Olive oil,2020/07,-0.01
+Olive oil,2020/08,-0.01
+Olive oil,2020/09,-0.01
+Olive oil,2020/10,-0.01
+Olive oil,2020/11,-0.01
+Olive oil,2020/12,-0.01
+Olive oil,2021/01,-0.01
+Olive oil,2021/02,0
+Olive oil,2021/03,0
+Olive oil,2021/04,0
+Olive oil,2021/05,0
+Olive oil,2021/06,0
+Olive oil,2021/07,0.01
+Olive oil,2021/08,0.02
+Olive oil,2021/09,0.02
+Olive oil,2021/10,0.02
+Other edible oils,2020/01,0
+Other edible oils,2020/02,0
+Other edible oils,2020/03,0
+Other edible oils,2020/04,0
+Other edible oils,2020/05,0
+Other edible oils,2020/06,0
+Other edible oils,2020/07,0
+Other edible oils,2020/08,0
+Other edible oils,2020/09,0
+Other edible oils,2020/10,0
+Other edible oils,2020/11,0
+Other edible oils,2020/12,0
+Other edible oils,2021/01,0
+Other edible oils,2021/02,0
+Other edible oils,2021/03,0
+Other edible oils,2021/04,0.01
+Other edible oils,2021/05,0.01
+Other edible oils,2021/06,0.01
+Other edible oils,2021/07,0.01
+Other edible oils,2021/08,0.01
+Other edible oils,2021/09,0.01
+Other edible oils,2021/10,0.01
+Other edible animal fats,2020/01,0
+Other edible animal fats,2020/02,0
+Other edible animal fats,2020/03,0
+Other edible animal fats,2020/04,0
+Other edible animal fats,2020/05,0
+Other edible animal fats,2020/06,0
+Other edible animal fats,2020/07,0
+Other edible animal fats,2020/08,0
+Other edible animal fats,2020/09,0
+Other edible animal fats,2020/10,0
+Other edible animal fats,2020/11,0
+Other edible animal fats,2020/12,0
+Other edible animal fats,2021/01,0
+Other edible animal fats,2021/02,0
+Other edible animal fats,2021/03,0
+Other edible animal fats,2021/04,0
+Other edible animal fats,2021/05,0
+Other edible animal fats,2021/06,0
+Other edible animal fats,2021/07,0
+Other edible animal fats,2021/08,0
+Other edible animal fats,2021/09,0
+Other edible animal fats,2021/10,0
+Fruit,2020/01,0.050000000000000003
+Fruit,2020/02,0.070000000000000007
+Fruit,2020/03,0.070000000000000007
+Fruit,2020/04,0.12
+Fruit,2020/05,0.14999999999999999
+Fruit,2020/06,0.14000000000000001
+Fruit,2020/07,0.10000000000000001
+Fruit,2020/08,0.10000000000000001
+Fruit,2020/09,0.10000000000000001
+Fruit,2020/10,0.089999999999999997
+Fruit,2020/11,0.070000000000000007
+Fruit,2020/12,0.059999999999999998
+Fruit,2021/01,0.040000000000000001
+Fruit,2021/02,0.040000000000000001
+Fruit,2021/03,0.050000000000000003
+Fruit,2021/04,0.01
+Fruit,2021/05,0
+Fruit,2021/06,-0.01
+Fruit,2021/07,0.01
+Fruit,2021/08,0.02
+Fruit,2021/09,0.02
+Fruit,2021/10,0.01
+Fresh or chilled fruit,2020/01,0.050000000000000003
+Fresh or chilled fruit,2020/02,0.059999999999999998
+Fresh or chilled fruit,2020/03,0.070000000000000007
+Fresh or chilled fruit,2020/04,0.11
+Fresh or chilled fruit,2020/05,0.14000000000000001
+Fresh or chilled fruit,2020/06,0.14000000000000001
+Fresh or chilled fruit,2020/07,0.10000000000000001
+Fresh or chilled fruit,2020/08,0.089999999999999997
+Fresh or chilled fruit,2020/09,0.10000000000000001
+Fresh or chilled fruit,2020/10,0.089999999999999997
+Fresh or chilled fruit,2020/11,0.059999999999999998
+Fresh or chilled fruit,2020/12,0.059999999999999998
+Fresh or chilled fruit,2021/01,0.040000000000000001
+Fresh or chilled fruit,2021/02,0.040000000000000001
+Fresh or chilled fruit,2021/03,0.050000000000000003
+Fresh or chilled fruit,2021/04,0.01
+Fresh or chilled fruit,2021/05,0
+Fresh or chilled fruit,2021/06,-0.01
+Fresh or chilled fruit,2021/07,0.01
+Fresh or chilled fruit,2021/08,0.02
+Fresh or chilled fruit,2021/09,0.02
+Fresh or chilled fruit,2021/10,0
+Frozen fruit,2020/01,0
+Frozen fruit,2020/02,0
+Frozen fruit,2020/03,0
+Frozen fruit,2020/04,0
+Frozen fruit,2020/05,0
+Frozen fruit,2020/06,0
+Frozen fruit,2020/07,0
+Frozen fruit,2020/08,0
+Frozen fruit,2020/09,0
+Frozen fruit,2020/10,0
+Frozen fruit,2020/11,0
+Frozen fruit,2020/12,0
+Frozen fruit,2021/01,0
+Frozen fruit,2021/02,0
+Frozen fruit,2021/03,0
+Frozen fruit,2021/04,0
+Frozen fruit,2021/05,0
+Frozen fruit,2021/06,0
+Frozen fruit,2021/07,0
+Frozen fruit,2021/08,0
+Frozen fruit,2021/09,0
+Frozen fruit,2021/10,0
+Dried fruit and nuts,2020/01,0
+Dried fruit and nuts,2020/02,0
+Dried fruit and nuts,2020/03,0
+Dried fruit and nuts,2020/04,0
+Dried fruit and nuts,2020/05,0
+Dried fruit and nuts,2020/06,0
+Dried fruit and nuts,2020/07,0
+Dried fruit and nuts,2020/08,0
+Dried fruit and nuts,2020/09,0
+Dried fruit and nuts,2020/10,0
+Dried fruit and nuts,2020/11,0
+Dried fruit and nuts,2020/12,0
+Dried fruit and nuts,2021/01,0
+Dried fruit and nuts,2021/02,0
+Dried fruit and nuts,2021/03,0
+Dried fruit and nuts,2021/04,0
+Dried fruit and nuts,2021/05,0
+Dried fruit and nuts,2021/06,0
+Dried fruit and nuts,2021/07,0
+Dried fruit and nuts,2021/08,0
+Dried fruit and nuts,2021/09,0
+Dried fruit and nuts,2021/10,0
+Preserved fruit and fruit-based products,2020/01,0
+Preserved fruit and fruit-based products,2020/02,0
+Preserved fruit and fruit-based products,2020/03,0
+Preserved fruit and fruit-based products,2020/04,0
+Preserved fruit and fruit-based products,2020/05,0
+Preserved fruit and fruit-based products,2020/06,0
+Preserved fruit and fruit-based products,2020/07,0
+Preserved fruit and fruit-based products,2020/08,0
+Preserved fruit and fruit-based products,2020/09,0
+Preserved fruit and fruit-based products,2020/10,0
+Preserved fruit and fruit-based products,2020/11,0
+Preserved fruit and fruit-based products,2020/12,0
+Preserved fruit and fruit-based products,2021/01,0
+Preserved fruit and fruit-based products,2021/02,0
+Preserved fruit and fruit-based products,2021/03,0
+Preserved fruit and fruit-based products,2021/04,0
+Preserved fruit and fruit-based products,2021/05,0
+Preserved fruit and fruit-based products,2021/06,0
+Preserved fruit and fruit-based products,2021/07,0
+Preserved fruit and fruit-based products,2021/08,0
+Preserved fruit and fruit-based products,2021/09,0
+Preserved fruit and fruit-based products,2021/10,0
+Vegetables,2020/01,-0.01
+Vegetables,2020/02,-0.01
+Vegetables,2020/03,0.01
+Vegetables,2020/04,0.11
+Vegetables,2020/05,0.080000000000000002
+Vegetables,2020/06,0.050000000000000003
+Vegetables,2020/07,-0.029999999999999999
+Vegetables,2020/08,-0.050000000000000003
+Vegetables,2020/09,-0.02
+Vegetables,2020/10,0.050000000000000003
+Vegetables,2020/11,0.080000000000000002
+Vegetables,2020/12,0
+Vegetables,2021/01,0.029999999999999999
+Vegetables,2021/02,0.01
+Vegetables,2021/03,0.02
+Vegetables,2021/04,-0.02
+Vegetables,2021/05,-0.01
+Vegetables,2021/06,-0.02
+Vegetables,2021/07,0.050000000000000003
+Vegetables,2021/08,0.080000000000000002
+Vegetables,2021/09,0.070000000000000007
+Vegetables,2021/10,0.02
+Fresh or chilled vegetables other than potatoes and other tubers,2020/01,-0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2020/02,-0.02
+Fresh or chilled vegetables other than potatoes and other tubers,2020/03,0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2020/04,0.11
+Fresh or chilled vegetables other than potatoes and other tubers,2020/05,0.080000000000000002
+Fresh or chilled vegetables other than potatoes and other tubers,2020/06,0.050000000000000003
+Fresh or chilled vegetables other than potatoes and other tubers,2020/07,-0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2020/08,-0.029999999999999999
+Fresh or chilled vegetables other than potatoes and other tubers,2020/09,-0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2020/10,0.059999999999999998
+Fresh or chilled vegetables other than potatoes and other tubers,2020/11,0.089999999999999997
+Fresh or chilled vegetables other than potatoes and other tubers,2020/12,0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2021/01,0.040000000000000001
+Fresh or chilled vegetables other than potatoes and other tubers,2021/02,0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2021/03,0.02
+Fresh or chilled vegetables other than potatoes and other tubers,2021/04,-0.01
+Fresh or chilled vegetables other than potatoes and other tubers,2021/05,0
+Fresh or chilled vegetables other than potatoes and other tubers,2021/06,-0.02
+Fresh or chilled vegetables other than potatoes and other tubers,2021/07,0.029999999999999999
+Fresh or chilled vegetables other than potatoes and other tubers,2021/08,0.059999999999999998
+Fresh or chilled vegetables other than potatoes and other tubers,2021/09,0.050000000000000003
+Fresh or chilled vegetables other than potatoes and other tubers,2021/10,-0.01
+Frozen vegetables other than potatoes and other tubers,2020/01,0
+Frozen vegetables other than potatoes and other tubers,2020/02,0
+Frozen vegetables other than potatoes and other tubers,2020/03,0
+Frozen vegetables other than potatoes and other tubers,2020/04,0
+Frozen vegetables other than potatoes and other tubers,2020/05,0
+Frozen vegetables other than potatoes and other tubers,2020/06,0
+Frozen vegetables other than potatoes and other tubers,2020/07,0
+Frozen vegetables other than potatoes and other tubers,2020/08,0
+Frozen vegetables other than potatoes and other tubers,2020/09,0
+Frozen vegetables other than potatoes and other tubers,2020/10,0
+Frozen vegetables other than potatoes and other tubers,2020/11,0
+Frozen vegetables other than potatoes and other tubers,2020/12,0
+Frozen vegetables other than potatoes and other tubers,2021/01,0
+Frozen vegetables other than potatoes and other tubers,2021/02,0
+Frozen vegetables other than potatoes and other tubers,2021/03,0
+Frozen vegetables other than potatoes and other tubers,2021/04,0
+Frozen vegetables other than potatoes and other tubers,2021/05,0
+Frozen vegetables other than potatoes and other tubers,2021/06,0
+Frozen vegetables other than potatoes and other tubers,2021/07,0
+Frozen vegetables other than potatoes and other tubers,2021/08,0
+Frozen vegetables other than potatoes and other tubers,2021/09,0
+Frozen vegetables other than potatoes and other tubers,2021/10,0
+"Dried vegetables, other preserved or processed vegetables",2020/01,0
+"Dried vegetables, other preserved or processed vegetables",2020/02,0
+"Dried vegetables, other preserved or processed vegetables",2020/03,0.01
+"Dried vegetables, other preserved or processed vegetables",2020/04,0.01
+"Dried vegetables, other preserved or processed vegetables",2020/05,0.01
+"Dried vegetables, other preserved or processed vegetables",2020/06,0.01
+"Dried vegetables, other preserved or processed vegetables",2020/07,0.01
+"Dried vegetables, other preserved or processed vegetables",2020/08,0
+"Dried vegetables, other preserved or processed vegetables",2020/09,0
+"Dried vegetables, other preserved or processed vegetables",2020/10,0
+"Dried vegetables, other preserved or processed vegetables",2020/11,0
+"Dried vegetables, other preserved or processed vegetables",2020/12,0
+"Dried vegetables, other preserved or processed vegetables",2021/01,0
+"Dried vegetables, other preserved or processed vegetables",2021/02,0
+"Dried vegetables, other preserved or processed vegetables",2021/03,0
+"Dried vegetables, other preserved or processed vegetables",2021/04,0
+"Dried vegetables, other preserved or processed vegetables",2021/05,0
+"Dried vegetables, other preserved or processed vegetables",2021/06,0
+"Dried vegetables, other preserved or processed vegetables",2021/07,0.01
+"Dried vegetables, other preserved or processed vegetables",2021/08,0.01
+"Dried vegetables, other preserved or processed vegetables",2021/09,0.01
+"Dried vegetables, other preserved or processed vegetables",2021/10,0.01
+Potatoes,2020/01,0
+Potatoes,2020/02,0
+Potatoes,2020/03,0
+Potatoes,2020/04,-0.01
+Potatoes,2020/05,-0.01
+Potatoes,2020/06,-0.02
+Potatoes,2020/07,-0.02
+Potatoes,2020/08,-0.02
+Potatoes,2020/09,-0.02
+Potatoes,2020/10,-0.01
+Potatoes,2020/11,-0.01
+Potatoes,2020/12,-0.01
+Potatoes,2021/01,-0.01
+Potatoes,2021/02,-0.01
+Potatoes,2021/03,-0.01
+Potatoes,2021/04,-0.01
+Potatoes,2021/05,-0.01
+Potatoes,2021/06,-0.01
+Potatoes,2021/07,0
+Potatoes,2021/08,0.02
+Potatoes,2021/09,0.02
+Potatoes,2021/10,0.01
+Crisps,2020/01,0
+Crisps,2020/02,0
+Crisps,2020/03,0
+Crisps,2020/04,0
+Crisps,2020/05,0
+Crisps,2020/06,0
+Crisps,2020/07,0
+Crisps,2020/08,0
+Crisps,2020/09,0
+Crisps,2020/10,0
+Crisps,2020/11,0
+Crisps,2020/12,0
+Crisps,2021/01,0
+Crisps,2021/02,0
+Crisps,2021/03,0
+Crisps,2021/04,0
+Crisps,2021/05,0
+Crisps,2021/06,0
+Crisps,2021/07,0
+Crisps,2021/08,0
+Crisps,2021/09,0
+Crisps,2021/10,0
+Other tubers and products of tuber vegetables,2020/01,0
+Other tubers and products of tuber vegetables,2020/02,0
+Other tubers and products of tuber vegetables,2020/03,0
+Other tubers and products of tuber vegetables,2020/04,0
+Other tubers and products of tuber vegetables,2020/05,0
+Other tubers and products of tuber vegetables,2020/06,0
+Other tubers and products of tuber vegetables,2020/07,0
+Other tubers and products of tuber vegetables,2020/08,0
+Other tubers and products of tuber vegetables,2020/09,0
+Other tubers and products of tuber vegetables,2020/10,0
+Other tubers and products of tuber vegetables,2020/11,0
+Other tubers and products of tuber vegetables,2020/12,0
+Other tubers and products of tuber vegetables,2021/01,0
+Other tubers and products of tuber vegetables,2021/02,0
+Other tubers and products of tuber vegetables,2021/03,0
+Other tubers and products of tuber vegetables,2021/04,0
+Other tubers and products of tuber vegetables,2021/05,0
+Other tubers and products of tuber vegetables,2021/06,0
+Other tubers and products of tuber vegetables,2021/07,0
+Other tubers and products of tuber vegetables,2021/08,0
+Other tubers and products of tuber vegetables,2021/09,0
+Other tubers and products of tuber vegetables,2021/10,0
+"Sugar, jam, honey, chocolate and confectionery",2020/01,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/02,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/03,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/04,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/05,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/06,0.01
+"Sugar, jam, honey, chocolate and confectionery",2020/07,0
+"Sugar, jam, honey, chocolate and confectionery",2020/08,0
+"Sugar, jam, honey, chocolate and confectionery",2020/09,0
+"Sugar, jam, honey, chocolate and confectionery",2020/10,0
+"Sugar, jam, honey, chocolate and confectionery",2020/11,0
+"Sugar, jam, honey, chocolate and confectionery",2020/12,0
+"Sugar, jam, honey, chocolate and confectionery",2021/01,0
+"Sugar, jam, honey, chocolate and confectionery",2021/02,0
+"Sugar, jam, honey, chocolate and confectionery",2021/03,0
+"Sugar, jam, honey, chocolate and confectionery",2021/04,0.01
+"Sugar, jam, honey, chocolate and confectionery",2021/05,0
+"Sugar, jam, honey, chocolate and confectionery",2021/06,0
+"Sugar, jam, honey, chocolate and confectionery",2021/07,0.01
+"Sugar, jam, honey, chocolate and confectionery",2021/08,0.01
+"Sugar, jam, honey, chocolate and confectionery",2021/09,0.01
+"Sugar, jam, honey, chocolate and confectionery",2021/10,0.01
+Sugar,2020/01,0
+Sugar,2020/02,0
+Sugar,2020/03,0
+Sugar,2020/04,0
+Sugar,2020/05,0
+Sugar,2020/06,0
+Sugar,2020/07,0
+Sugar,2020/08,0
+Sugar,2020/09,0
+Sugar,2020/10,0
+Sugar,2020/11,0
+Sugar,2020/12,0
+Sugar,2021/01,0
+Sugar,2021/02,0
+Sugar,2021/03,0
+Sugar,2021/04,0
+Sugar,2021/05,0
+Sugar,2021/06,0
+Sugar,2021/07,0
+Sugar,2021/08,0
+Sugar,2021/09,0
+Sugar,2021/10,0
+"Jams, marmalades and honey",2020/01,0
+"Jams, marmalades and honey",2020/02,0
+"Jams, marmalades and honey",2020/03,0
+"Jams, marmalades and honey",2020/04,0
+"Jams, marmalades and honey",2020/05,0
+"Jams, marmalades and honey",2020/06,0
+"Jams, marmalades and honey",2020/07,0
+"Jams, marmalades and honey",2020/08,0
+"Jams, marmalades and honey",2020/09,0
+"Jams, marmalades and honey",2020/10,0
+"Jams, marmalades and honey",2020/11,0
+"Jams, marmalades and honey",2020/12,0
+"Jams, marmalades and honey",2021/01,0
+"Jams, marmalades and honey",2021/02,0
+"Jams, marmalades and honey",2021/03,0
+"Jams, marmalades and honey",2021/04,0
+"Jams, marmalades and honey",2021/05,0
+"Jams, marmalades and honey",2021/06,0
+"Jams, marmalades and honey",2021/07,0
+"Jams, marmalades and honey",2021/08,0
+"Jams, marmalades and honey",2021/09,0
+"Jams, marmalades and honey",2021/10,0
+Chocolate,2020/01,0
+Chocolate,2020/02,0
+Chocolate,2020/03,0
+Chocolate,2020/04,0
+Chocolate,2020/05,0
+Chocolate,2020/06,0
+Chocolate,2020/07,0
+Chocolate,2020/08,0
+Chocolate,2020/09,0
+Chocolate,2020/10,0
+Chocolate,2020/11,0
+Chocolate,2020/12,0
+Chocolate,2021/01,0
+Chocolate,2021/02,0
+Chocolate,2021/03,0
+Chocolate,2021/04,0.01
+Chocolate,2021/05,0
+Chocolate,2021/06,0
+Chocolate,2021/07,0.01
+Chocolate,2021/08,0
+Chocolate,2021/09,0
+Chocolate,2021/10,0
+Confectionery products,2020/01,0
+Confectionery products,2020/02,0
+Confectionery products,2020/03,0
+Confectionery products,2020/04,0
+Confectionery products,2020/05,0
+Confectionery products,2020/06,0
+Confectionery products,2020/07,0
+Confectionery products,2020/08,0
+Confectionery products,2020/09,0
+Confectionery products,2020/10,0
+Confectionery products,2020/11,0
+Confectionery products,2020/12,0
+Confectionery products,2021/01,0
+Confectionery products,2021/02,0
+Confectionery products,2021/03,0
+Confectionery products,2021/04,0
+Confectionery products,2021/05,0
+Confectionery products,2021/06,0
+Confectionery products,2021/07,0
+Confectionery products,2021/08,0
+Confectionery products,2021/09,0
+Confectionery products,2021/10,0
+Edible ices and ice cream,2020/01,0
+Edible ices and ice cream,2020/02,0
+Edible ices and ice cream,2020/03,0
+Edible ices and ice cream,2020/04,0
+Edible ices and ice cream,2020/05,0
+Edible ices and ice cream,2020/06,0
+Edible ices and ice cream,2020/07,0
+Edible ices and ice cream,2020/08,0
+Edible ices and ice cream,2020/09,0
+Edible ices and ice cream,2020/10,0
+Edible ices and ice cream,2020/11,0
+Edible ices and ice cream,2020/12,0
+Edible ices and ice cream,2021/01,0
+Edible ices and ice cream,2021/02,0
+Edible ices and ice cream,2021/03,0
+Edible ices and ice cream,2021/04,0
+Edible ices and ice cream,2021/05,0
+Edible ices and ice cream,2021/06,0
+Edible ices and ice cream,2021/07,0
+Edible ices and ice cream,2021/08,0
+Edible ices and ice cream,2021/09,0
+Edible ices and ice cream,2021/10,0
+Artificial sugar substitutes,2020/01,0
+Artificial sugar substitutes,2020/02,0
+Artificial sugar substitutes,2020/03,0
+Artificial sugar substitutes,2020/04,0
+Artificial sugar substitutes,2020/05,0
+Artificial sugar substitutes,2020/06,0
+Artificial sugar substitutes,2020/07,0
+Artificial sugar substitutes,2020/08,0
+Artificial sugar substitutes,2020/09,0
+Artificial sugar substitutes,2020/10,0
+Artificial sugar substitutes,2020/11,0
+Artificial sugar substitutes,2020/12,0
+Artificial sugar substitutes,2021/01,0
+Artificial sugar substitutes,2021/02,0
+Artificial sugar substitutes,2021/03,0
+Artificial sugar substitutes,2021/04,0
+Artificial sugar substitutes,2021/05,0
+Artificial sugar substitutes,2021/06,0
+Artificial sugar substitutes,2021/07,0
+Artificial sugar substitutes,2021/08,0
+Artificial sugar substitutes,2021/09,0
+Artificial sugar substitutes,2021/10,0
+Food products n.e.c.,2020/01,0
+Food products n.e.c.,2020/02,0
+Food products n.e.c.,2020/03,0.01
+Food products n.e.c.,2020/04,0.01
+Food products n.e.c.,2020/05,0.01
+Food products n.e.c.,2020/06,0.01
+Food products n.e.c.,2020/07,0
+Food products n.e.c.,2020/08,0
+Food products n.e.c.,2020/09,0
+Food products n.e.c.,2020/10,0
+Food products n.e.c.,2020/11,0
+Food products n.e.c.,2020/12,0
+Food products n.e.c.,2021/01,0
+Food products n.e.c.,2021/02,0
+Food products n.e.c.,2021/03,0
+Food products n.e.c.,2021/04,0
+Food products n.e.c.,2021/05,0
+Food products n.e.c.,2021/06,0
+Food products n.e.c.,2021/07,0.01
+Food products n.e.c.,2021/08,0.01
+Food products n.e.c.,2021/09,0.01
+Food products n.e.c.,2021/10,0.01
+"Sauces, condiments",2020/01,0
+"Sauces, condiments",2020/02,0
+"Sauces, condiments",2020/03,0
+"Sauces, condiments",2020/04,0
+"Sauces, condiments",2020/05,0
+"Sauces, condiments",2020/06,0
+"Sauces, condiments",2020/07,0
+"Sauces, condiments",2020/08,0
+"Sauces, condiments",2020/09,0
+"Sauces, condiments",2020/10,0
+"Sauces, condiments",2020/11,0
+"Sauces, condiments",2020/12,0
+"Sauces, condiments",2021/01,0
+"Sauces, condiments",2021/02,0
+"Sauces, condiments",2021/03,0
+"Sauces, condiments",2021/04,0
+"Sauces, condiments",2021/05,0
+"Sauces, condiments",2021/06,0
+"Sauces, condiments",2021/07,0
+"Sauces, condiments",2021/08,0
+"Sauces, condiments",2021/09,0
+"Sauces, condiments",2021/10,0
+"Salt, spices and culinary herbs",2020/01,0
+"Salt, spices and culinary herbs",2020/02,0
+"Salt, spices and culinary herbs",2020/03,0
+"Salt, spices and culinary herbs",2020/04,0
+"Salt, spices and culinary herbs",2020/05,0
+"Salt, spices and culinary herbs",2020/06,0
+"Salt, spices and culinary herbs",2020/07,0
+"Salt, spices and culinary herbs",2020/08,0
+"Salt, spices and culinary herbs",2020/09,0
+"Salt, spices and culinary herbs",2020/10,0
+"Salt, spices and culinary herbs",2020/11,0
+"Salt, spices and culinary herbs",2020/12,0
+"Salt, spices and culinary herbs",2021/01,0
+"Salt, spices and culinary herbs",2021/02,0
+"Salt, spices and culinary herbs",2021/03,0
+"Salt, spices and culinary herbs",2021/04,0
+"Salt, spices and culinary herbs",2021/05,0
+"Salt, spices and culinary herbs",2021/06,0
+"Salt, spices and culinary herbs",2021/07,0
+"Salt, spices and culinary herbs",2021/08,0
+"Salt, spices and culinary herbs",2021/09,0
+"Salt, spices and culinary herbs",2021/10,0
+Baby food,2020/01,0
+Baby food,2020/02,0
+Baby food,2020/03,0
+Baby food,2020/04,0
+Baby food,2020/05,0
+Baby food,2020/06,0
+Baby food,2020/07,0
+Baby food,2020/08,0
+Baby food,2020/09,0
+Baby food,2020/10,0
+Baby food,2020/11,0
+Baby food,2020/12,0
+Baby food,2021/01,0
+Baby food,2021/02,0
+Baby food,2021/03,0
+Baby food,2021/04,0
+Baby food,2021/05,0
+Baby food,2021/06,0
+Baby food,2021/07,0
+Baby food,2021/08,0
+Baby food,2021/09,0
+Baby food,2021/10,0
+Ready-made meals,2020/01,0
+Ready-made meals,2020/02,0
+Ready-made meals,2020/03,0
+Ready-made meals,2020/04,0
+Ready-made meals,2020/05,0
+Ready-made meals,2020/06,0
+Ready-made meals,2020/07,0
+Ready-made meals,2020/08,0
+Ready-made meals,2020/09,0
+Ready-made meals,2020/10,0
+Ready-made meals,2020/11,0
+Ready-made meals,2020/12,0
+Ready-made meals,2021/01,0
+Ready-made meals,2021/02,0
+Ready-made meals,2021/03,0
+Ready-made meals,2021/04,0
+Ready-made meals,2021/05,0
+Ready-made meals,2021/06,0
+Ready-made meals,2021/07,0
+Ready-made meals,2021/08,0
+Ready-made meals,2021/09,0
+Ready-made meals,2021/10,0
+Other food products n.e.c.,2020/01,0
+Other food products n.e.c.,2020/02,0
+Other food products n.e.c.,2020/03,0
+Other food products n.e.c.,2020/04,0
+Other food products n.e.c.,2020/05,0
+Other food products n.e.c.,2020/06,0
+Other food products n.e.c.,2020/07,0
+Other food products n.e.c.,2020/08,0
+Other food products n.e.c.,2020/09,0
+Other food products n.e.c.,2020/10,0
+Other food products n.e.c.,2020/11,0
+Other food products n.e.c.,2020/12,0
+Other food products n.e.c.,2021/01,0
+Other food products n.e.c.,2021/02,0
+Other food products n.e.c.,2021/03,0
+Other food products n.e.c.,2021/04,0
+Other food products n.e.c.,2021/05,0
+Other food products n.e.c.,2021/06,0
+Other food products n.e.c.,2021/07,0
+Other food products n.e.c.,2021/08,0
+Other food products n.e.c.,2021/09,0
+Other food products n.e.c.,2021/10,0
+"Coffee, tea and cocoa",2020/01,0
+"Coffee, tea and cocoa",2020/02,0
+"Coffee, tea and cocoa",2020/03,0
+"Coffee, tea and cocoa",2020/04,0
+"Coffee, tea and cocoa",2020/05,0
+"Coffee, tea and cocoa",2020/06,0
+"Coffee, tea and cocoa",2020/07,0
+"Coffee, tea and cocoa",2020/08,0
+"Coffee, tea and cocoa",2020/09,0
+"Coffee, tea and cocoa",2020/10,0
+"Coffee, tea and cocoa",2020/11,0
+"Coffee, tea and cocoa",2020/12,0
+"Coffee, tea and cocoa",2021/01,0
+"Coffee, tea and cocoa",2021/02,0
+"Coffee, tea and cocoa",2021/03,0
+"Coffee, tea and cocoa",2021/04,0
+"Coffee, tea and cocoa",2021/05,0
+"Coffee, tea and cocoa",2021/06,0
+"Coffee, tea and cocoa",2021/07,0.01
+"Coffee, tea and cocoa",2021/08,0
+"Coffee, tea and cocoa",2021/09,0.01
+"Coffee, tea and cocoa",2021/10,0.01
+Coffee,2020/01,0
+Coffee,2020/02,0
+Coffee,2020/03,0
+Coffee,2020/04,0
+Coffee,2020/05,0
+Coffee,2020/06,0
+Coffee,2020/07,0
+Coffee,2020/08,0
+Coffee,2020/09,0
+Coffee,2020/10,0
+Coffee,2020/11,0
+Coffee,2020/12,0
+Coffee,2021/01,0
+Coffee,2021/02,0
+Coffee,2021/03,0
+Coffee,2021/04,0
+Coffee,2021/05,0
+Coffee,2021/06,0
+Coffee,2021/07,0
+Coffee,2021/08,0
+Coffee,2021/09,0.01
+Coffee,2021/10,0.01
+Tea,2020/01,0
+Tea,2020/02,0
+Tea,2020/03,0
+Tea,2020/04,0
+Tea,2020/05,0
+Tea,2020/06,0
+Tea,2020/07,0
+Tea,2020/08,0
+Tea,2020/09,0
+Tea,2020/10,0
+Tea,2020/11,0
+Tea,2020/12,0
+Tea,2021/01,0
+Tea,2021/02,0
+Tea,2021/03,0
+Tea,2021/04,0
+Tea,2021/05,0
+Tea,2021/06,0
+Tea,2021/07,0
+Tea,2021/08,0
+Tea,2021/09,0
+Tea,2021/10,0
+Cocoa and powdered chocolate,2020/01,0
+Cocoa and powdered chocolate,2020/02,0
+Cocoa and powdered chocolate,2020/03,0
+Cocoa and powdered chocolate,2020/04,0
+Cocoa and powdered chocolate,2020/05,0
+Cocoa and powdered chocolate,2020/06,0
+Cocoa and powdered chocolate,2020/07,0
+Cocoa and powdered chocolate,2020/08,0
+Cocoa and powdered chocolate,2020/09,0
+Cocoa and powdered chocolate,2020/10,0
+Cocoa and powdered chocolate,2020/11,0
+Cocoa and powdered chocolate,2020/12,0
+Cocoa and powdered chocolate,2021/01,0
+Cocoa and powdered chocolate,2021/02,0
+Cocoa and powdered chocolate,2021/03,0
+Cocoa and powdered chocolate,2021/04,0
+Cocoa and powdered chocolate,2021/05,0
+Cocoa and powdered chocolate,2021/06,0
+Cocoa and powdered chocolate,2021/07,0
+Cocoa and powdered chocolate,2021/08,0
+Cocoa and powdered chocolate,2021/09,0
+Cocoa and powdered chocolate,2021/10,0
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/01,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/02,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/03,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/04,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/05,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/06,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/07,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/08,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/09,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/10,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/11,0
+"Mineral waters, soft drinks, fruit and vegetable juices",2020/12,0
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/01,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/02,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/03,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/04,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/05,0.01
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/06,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/07,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/08,0.02
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/09,0.029999999999999999
+"Mineral waters, soft drinks, fruit and vegetable juices",2021/10,0.02
+Mineral or spring waters,2020/01,0
+Mineral or spring waters,2020/02,0
+Mineral or spring waters,2020/03,0
+Mineral or spring waters,2020/04,0.01
+Mineral or spring waters,2020/05,0
+Mineral or spring waters,2020/06,0
+Mineral or spring waters,2020/07,0
+Mineral or spring waters,2020/08,0
+Mineral or spring waters,2020/09,0
+Mineral or spring waters,2020/10,0
+Mineral or spring waters,2020/11,0
+Mineral or spring waters,2020/12,0
+Mineral or spring waters,2021/01,0
+Mineral or spring waters,2021/02,0
+Mineral or spring waters,2021/03,0
+Mineral or spring waters,2021/04,0
+Mineral or spring waters,2021/05,0
+Mineral or spring waters,2021/06,0.01
+Mineral or spring waters,2021/07,0.01
+Mineral or spring waters,2021/08,0.01
+Mineral or spring waters,2021/09,0.01
+Mineral or spring waters,2021/10,0.01
+Soft drinks,2020/01,0.01
+Soft drinks,2020/02,0.01
+Soft drinks,2020/03,0.01
+Soft drinks,2020/04,0.01
+Soft drinks,2020/05,0.01
+Soft drinks,2020/06,0.01
+Soft drinks,2020/07,0
+Soft drinks,2020/08,0.01
+Soft drinks,2020/09,0
+Soft drinks,2020/10,0
+Soft drinks,2020/11,0
+Soft drinks,2020/12,0
+Soft drinks,2021/01,0.01
+Soft drinks,2021/02,0.01
+Soft drinks,2021/03,0.01
+Soft drinks,2021/04,0.01
+Soft drinks,2021/05,0.01
+Soft drinks,2021/06,0.01
+Soft drinks,2021/07,0.01
+Soft drinks,2021/08,0.01
+Soft drinks,2021/09,0.01
+Soft drinks,2021/10,0.01
+Fruit and vegetables juices,2020/01,0
+Fruit and vegetables juices,2020/02,0
+Fruit and vegetables juices,2020/03,0
+Fruit and vegetables juices,2020/04,0
+Fruit and vegetables juices,2020/05,0
+Fruit and vegetables juices,2020/06,0
+Fruit and vegetables juices,2020/07,0
+Fruit and vegetables juices,2020/08,0
+Fruit and vegetables juices,2020/09,0
+Fruit and vegetables juices,2020/10,0
+Fruit and vegetables juices,2020/11,0
+Fruit and vegetables juices,2020/12,0
+Fruit and vegetables juices,2021/01,0
+Fruit and vegetables juices,2021/02,0
+Fruit and vegetables juices,2021/03,0
+Fruit and vegetables juices,2021/04,0
+Fruit and vegetables juices,2021/05,0
+Fruit and vegetables juices,2021/06,0
+Fruit and vegetables juices,2021/07,0
+Fruit and vegetables juices,2021/08,0
+Fruit and vegetables juices,2021/09,0
+Fruit and vegetables juices,2021/10,0
+Alcoholic beverages,2020/01,0.02
+Alcoholic beverages,2020/02,0.01
+Alcoholic beverages,2020/03,0.01
+Alcoholic beverages,2020/04,0.01
+Alcoholic beverages,2020/05,0.01
+Alcoholic beverages,2020/06,0.01
+Alcoholic beverages,2020/07,0
+Alcoholic beverages,2020/08,0
+Alcoholic beverages,2020/09,0
+Alcoholic beverages,2020/10,0
+Alcoholic beverages,2020/11,0
+Alcoholic beverages,2020/12,0
+Alcoholic beverages,2021/01,0.01
+Alcoholic beverages,2021/02,0.01
+Alcoholic beverages,2021/03,0.01
+Alcoholic beverages,2021/04,0.02
+Alcoholic beverages,2021/05,0.01
+Alcoholic beverages,2021/06,0.01
+Alcoholic beverages,2021/07,0.029999999999999999
+Alcoholic beverages,2021/08,0.029999999999999999
+Alcoholic beverages,2021/09,0.029999999999999999
+Alcoholic beverages,2021/10,0.029999999999999999
+Spirits,2020/01,0.01
+Spirits,2020/02,0.01
+Spirits,2020/03,0.01
+Spirits,2020/04,0
+Spirits,2020/05,0
+Spirits,2020/06,0
+Spirits,2020/07,0
+Spirits,2020/08,0
+Spirits,2020/09,0
+Spirits,2020/10,0
+Spirits,2020/11,0
+Spirits,2020/12,0
+Spirits,2021/01,0
+Spirits,2021/02,0.01
+Spirits,2021/03,0
+Spirits,2021/04,0.01
+Spirits,2021/05,0
+Spirits,2021/06,0
+Spirits,2021/07,0.01
+Spirits,2021/08,0.01
+Spirits,2021/09,0.01
+Spirits,2021/10,0.01
+Spirits and liqueurs,2020/01,0.01
+Spirits and liqueurs,2020/02,0.01
+Spirits and liqueurs,2020/03,0.01
+Spirits and liqueurs,2020/04,0
+Spirits and liqueurs,2020/05,0
+Spirits and liqueurs,2020/06,0
+Spirits and liqueurs,2020/07,0
+Spirits and liqueurs,2020/08,0
+Spirits and liqueurs,2020/09,0
+Spirits and liqueurs,2020/10,0
+Spirits and liqueurs,2020/11,0
+Spirits and liqueurs,2020/12,0
+Spirits and liqueurs,2021/01,0
+Spirits and liqueurs,2021/02,0.01
+Spirits and liqueurs,2021/03,0
+Spirits and liqueurs,2021/04,0
+Spirits and liqueurs,2021/05,0
+Spirits and liqueurs,2021/06,0
+Spirits and liqueurs,2021/07,0.01
+Spirits and liqueurs,2021/08,0.01
+Spirits and liqueurs,2021/09,0.01
+Spirits and liqueurs,2021/10,0.01
+Alcoholic soft drinks,2020/01,0
+Alcoholic soft drinks,2020/02,0
+Alcoholic soft drinks,2020/03,0
+Alcoholic soft drinks,2020/04,0
+Alcoholic soft drinks,2020/05,0
+Alcoholic soft drinks,2020/06,0
+Alcoholic soft drinks,2020/07,0
+Alcoholic soft drinks,2020/08,0
+Alcoholic soft drinks,2020/09,0
+Alcoholic soft drinks,2020/10,0
+Alcoholic soft drinks,2020/11,0
+Alcoholic soft drinks,2020/12,0
+Alcoholic soft drinks,2021/01,0
+Alcoholic soft drinks,2021/02,0
+Alcoholic soft drinks,2021/03,0
+Alcoholic soft drinks,2021/04,0
+Alcoholic soft drinks,2021/05,0
+Alcoholic soft drinks,2021/06,0
+Alcoholic soft drinks,2021/07,0
+Alcoholic soft drinks,2021/08,0
+Alcoholic soft drinks,2021/09,0
+Alcoholic soft drinks,2021/10,0
+Wine,2020/01,0.01
+Wine,2020/02,0
+Wine,2020/03,0.01
+Wine,2020/04,0.01
+Wine,2020/05,0.01
+Wine,2020/06,0.01
+Wine,2020/07,0
+Wine,2020/08,0
+Wine,2020/09,0
+Wine,2020/10,0
+Wine,2020/11,0
+Wine,2020/12,0
+Wine,2021/01,0
+Wine,2021/02,0
+Wine,2021/03,0
+Wine,2021/04,0.01
+Wine,2021/05,0
+Wine,2021/06,0
+Wine,2021/07,0.01
+Wine,2021/08,0.01
+Wine,2021/09,0.01
+Wine,2021/10,0.01
+Wine from grapes,2020/01,0.01
+Wine from grapes,2020/02,0
+Wine from grapes,2020/03,0.01
+Wine from grapes,2020/04,0.01
+Wine from grapes,2020/05,0.01
+Wine from grapes,2020/06,0.01
+Wine from grapes,2020/07,0
+Wine from grapes,2020/08,0
+Wine from grapes,2020/09,0
+Wine from grapes,2020/10,0
+Wine from grapes,2020/11,0
+Wine from grapes,2020/12,0
+Wine from grapes,2021/01,0
+Wine from grapes,2021/02,0
+Wine from grapes,2021/03,0
+Wine from grapes,2021/04,0
+Wine from grapes,2021/05,0
+Wine from grapes,2021/06,0
+Wine from grapes,2021/07,0.01
+Wine from grapes,2021/08,0.01
+Wine from grapes,2021/09,0.01
+Wine from grapes,2021/10,0.01
+Wine from other fruits,2020/01,0
+Wine from other fruits,2020/02,0
+Wine from other fruits,2020/03,0
+Wine from other fruits,2020/04,0
+Wine from other fruits,2020/05,0
+Wine from other fruits,2020/06,0
+Wine from other fruits,2020/07,0
+Wine from other fruits,2020/08,0
+Wine from other fruits,2020/09,0
+Wine from other fruits,2020/10,0
+Wine from other fruits,2020/11,0
+Wine from other fruits,2020/12,0
+Wine from other fruits,2021/01,0
+Wine from other fruits,2021/02,0
+Wine from other fruits,2021/03,0
+Wine from other fruits,2021/04,0
+Wine from other fruits,2021/05,0
+Wine from other fruits,2021/06,0
+Wine from other fruits,2021/07,0
+Wine from other fruits,2021/08,0
+Wine from other fruits,2021/09,0
+Wine from other fruits,2021/10,0
+Fortified wines,2020/01,0
+Fortified wines,2020/02,0
+Fortified wines,2020/03,0
+Fortified wines,2020/04,0
+Fortified wines,2020/05,0
+Fortified wines,2020/06,0
+Fortified wines,2020/07,0
+Fortified wines,2020/08,0
+Fortified wines,2020/09,0
+Fortified wines,2020/10,0
+Fortified wines,2020/11,0
+Fortified wines,2020/12,0
+Fortified wines,2021/01,0
+Fortified wines,2021/02,0
+Fortified wines,2021/03,0
+Fortified wines,2021/04,0
+Fortified wines,2021/05,0
+Fortified wines,2021/06,0
+Fortified wines,2021/07,0
+Fortified wines,2021/08,0
+Fortified wines,2021/09,0
+Fortified wines,2021/10,0
+Wine-based drinks,2020/01,0
+Wine-based drinks,2020/02,0
+Wine-based drinks,2020/03,0
+Wine-based drinks,2020/04,0
+Wine-based drinks,2020/05,0
+Wine-based drinks,2020/06,0
+Wine-based drinks,2020/07,0
+Wine-based drinks,2020/08,0
+Wine-based drinks,2020/09,0
+Wine-based drinks,2020/10,0
+Wine-based drinks,2020/11,0
+Wine-based drinks,2020/12,0
+Wine-based drinks,2021/01,0
+Wine-based drinks,2021/02,0
+Wine-based drinks,2021/03,0
+Wine-based drinks,2021/04,0
+Wine-based drinks,2021/05,0
+Wine-based drinks,2021/06,0
+Wine-based drinks,2021/07,0
+Wine-based drinks,2021/08,0
+Wine-based drinks,2021/09,0
+Wine-based drinks,2021/10,0
+Beer,2020/01,0.01
+Beer,2020/02,0
+Beer,2020/03,0
+Beer,2020/04,0
+Beer,2020/05,0
+Beer,2020/06,0
+Beer,2020/07,0
+Beer,2020/08,0
+Beer,2020/09,0
+Beer,2020/10,0
+Beer,2020/11,0
+Beer,2020/12,0
+Beer,2021/01,0
+Beer,2021/02,0.01
+Beer,2021/03,0.01
+Beer,2021/04,0.01
+Beer,2021/05,0
+Beer,2021/06,0
+Beer,2021/07,0.01
+Beer,2021/08,0.01
+Beer,2021/09,0.01
+Beer,2021/10,0.01
+Lager beer,2020/01,0
+Lager beer,2020/02,0
+Lager beer,2020/03,0
+Lager beer,2020/04,0
+Lager beer,2020/05,0
+Lager beer,2020/06,0
+Lager beer,2020/07,0
+Lager beer,2020/08,0
+Lager beer,2020/09,0
+Lager beer,2020/10,0
+Lager beer,2020/11,0
+Lager beer,2020/12,0
+Lager beer,2021/01,0
+Lager beer,2021/02,0
+Lager beer,2021/03,0.01
+Lager beer,2021/04,0
+Lager beer,2021/05,0
+Lager beer,2021/06,0
+Lager beer,2021/07,0.01
+Lager beer,2021/08,0.01
+Lager beer,2021/09,0.01
+Lager beer,2021/10,0.01
+Other alcoholic beer,2020/01,0
+Other alcoholic beer,2020/02,0
+Other alcoholic beer,2020/03,0
+Other alcoholic beer,2020/04,0
+Other alcoholic beer,2020/05,0
+Other alcoholic beer,2020/06,0
+Other alcoholic beer,2020/07,0
+Other alcoholic beer,2020/08,0
+Other alcoholic beer,2020/09,0
+Other alcoholic beer,2020/10,0
+Other alcoholic beer,2020/11,0
+Other alcoholic beer,2020/12,0
+Other alcoholic beer,2021/01,0
+Other alcoholic beer,2021/02,0
+Other alcoholic beer,2021/03,0
+Other alcoholic beer,2021/04,0
+Other alcoholic beer,2021/05,0
+Other alcoholic beer,2021/06,0
+Other alcoholic beer,2021/07,0
+Other alcoholic beer,2021/08,0
+Other alcoholic beer,2021/09,0
+Other alcoholic beer,2021/10,0
+Low and non-alcoholic beer,2020/01,0
+Low and non-alcoholic beer,2020/02,0
+Low and non-alcoholic beer,2020/03,0
+Low and non-alcoholic beer,2020/04,0
+Low and non-alcoholic beer,2020/05,0
+Low and non-alcoholic beer,2020/06,0
+Low and non-alcoholic beer,2020/07,0
+Low and non-alcoholic beer,2020/08,0
+Low and non-alcoholic beer,2020/09,0
+Low and non-alcoholic beer,2020/10,0
+Low and non-alcoholic beer,2020/11,0
+Low and non-alcoholic beer,2020/12,0
+Low and non-alcoholic beer,2021/01,0
+Low and non-alcoholic beer,2021/02,0
+Low and non-alcoholic beer,2021/03,0
+Low and non-alcoholic beer,2021/04,0
+Low and non-alcoholic beer,2021/05,0
+Low and non-alcoholic beer,2021/06,0
+Low and non-alcoholic beer,2021/07,0
+Low and non-alcoholic beer,2021/08,0
+Low and non-alcoholic beer,2021/09,0
+Low and non-alcoholic beer,2021/10,0
+Beer-based drinks,2020/01,0
+Beer-based drinks,2020/02,0
+Beer-based drinks,2020/03,0
+Beer-based drinks,2020/04,0
+Beer-based drinks,2020/05,0
+Beer-based drinks,2020/06,0
+Beer-based drinks,2020/07,0
+Beer-based drinks,2020/08,0
+Beer-based drinks,2020/09,0
+Beer-based drinks,2020/10,0
+Beer-based drinks,2020/11,0
+Beer-based drinks,2020/12,0
+Beer-based drinks,2021/01,0
+Beer-based drinks,2021/02,0
+Beer-based drinks,2021/03,0
+Beer-based drinks,2021/04,0
+Beer-based drinks,2021/05,0
+Beer-based drinks,2021/06,0
+Beer-based drinks,2021/07,0
+Beer-based drinks,2021/08,0
+Beer-based drinks,2021/09,0
+Beer-based drinks,2021/10,0
+Cigarettes,2020/01,0.10000000000000001
+Cigarettes,2020/02,0.089999999999999997
+Cigarettes,2020/03,0.080000000000000002
+Cigarettes,2020/04,0.089999999999999997
+Cigarettes,2020/05,0.089999999999999997
+Cigarettes,2020/06,0.11
+Cigarettes,2020/07,0.11
+Cigarettes,2020/08,0.11
+Cigarettes,2020/09,0.11
+Cigarettes,2020/10,0.11
+Cigarettes,2020/11,0.10000000000000001
+Cigarettes,2020/12,0.10000000000000001
+Cigarettes,2021/01,0.10000000000000001
+Cigarettes,2021/02,0.10000000000000001
+Cigarettes,2021/03,0.080000000000000002
+Cigarettes,2021/04,0.080000000000000002
+Cigarettes,2021/05,0.070000000000000007
+Cigarettes,2021/06,0.059999999999999998
+Cigarettes,2021/07,0.059999999999999998
+Cigarettes,2021/08,0.059999999999999998
+Cigarettes,2021/09,0.059999999999999998
+Cigarettes,2021/10,0.059999999999999998
+Cigars,2020/01,0
+Cigars,2020/02,0
+Cigars,2020/03,0
+Cigars,2020/04,0
+Cigars,2020/05,0
+Cigars,2020/06,0
+Cigars,2020/07,0
+Cigars,2020/08,0
+Cigars,2020/09,0
+Cigars,2020/10,0
+Cigars,2020/11,0
+Cigars,2020/12,0
+Cigars,2021/01,0
+Cigars,2021/02,0
+Cigars,2021/03,0
+Cigars,2021/04,0
+Cigars,2021/05,0
+Cigars,2021/06,0
+Cigars,2021/07,0
+Cigars,2021/08,0
+Cigars,2021/09,0
+Cigars,2021/10,0
+Other tobacco products,2020/01,0.02
+Other tobacco products,2020/02,0.02
+Other tobacco products,2020/03,0.02
+Other tobacco products,2020/04,0.02
+Other tobacco products,2020/05,0.029999999999999999
+Other tobacco products,2020/06,0.02
+Other tobacco products,2020/07,0.029999999999999999
+Other tobacco products,2020/08,0.029999999999999999
+Other tobacco products,2020/09,0.02
+Other tobacco products,2020/10,0.02
+Other tobacco products,2020/11,0.02
+Other tobacco products,2020/12,0.02
+Other tobacco products,2021/01,0.02
+Other tobacco products,2021/02,0.02
+Other tobacco products,2021/03,0.02
+Other tobacco products,2021/04,0.02
+Other tobacco products,2021/05,0.02
+Other tobacco products,2021/06,0.02
+Other tobacco products,2021/07,0.02
+Other tobacco products,2021/08,0.02
+Other tobacco products,2021/09,0.02
+Other tobacco products,2021/10,0.02
+Clothing,2020/01,0.050000000000000003
+Clothing,2020/02,0.059999999999999998
+Clothing,2020/03,0.050000000000000003
+Clothing,2020/04,0
+Clothing,2020/05,-0.02
+Clothing,2020/06,-0.029999999999999999
+Clothing,2020/07,0.29999999999999999
+Clothing,2020/08,-0.02
+Clothing,2020/09,-0.059999999999999998
+Clothing,2020/10,-0.02
+Clothing,2020/11,-0.040000000000000001
+Clothing,2020/12,-0.10000000000000001
+Clothing,2021/01,0.14999999999999999
+Clothing,2021/02,0.080000000000000002
+Clothing,2021/03,-0.050000000000000003
+Clothing,2021/04,-0.02
+Clothing,2021/05,0.02
+Clothing,2021/06,0.089999999999999997
+Clothing,2021/07,-0.11
+Clothing,2021/08,0.19
+Clothing,2021/09,0.080000000000000002
+Clothing,2021/10,0.029999999999999999
+Clothing materials,2020/01,0
+Clothing materials,2020/02,0
+Clothing materials,2020/03,0
+Clothing materials,2020/04,0
+Clothing materials,2020/05,0
+Clothing materials,2020/06,0
+Clothing materials,2020/07,0
+Clothing materials,2020/08,0
+Clothing materials,2020/09,0
+Clothing materials,2020/10,0
+Clothing materials,2020/11,0
+Clothing materials,2020/12,0
+Clothing materials,2021/01,0
+Clothing materials,2021/02,0
+Clothing materials,2021/03,0
+Clothing materials,2021/04,0
+Clothing materials,2021/05,0
+Clothing materials,2021/06,0
+Clothing materials,2021/07,0
+Clothing materials,2021/08,0
+Clothing materials,2021/09,0
+Clothing materials,2021/10,0
+Garments,2020/01,0.040000000000000001
+Garments,2020/02,0.050000000000000003
+Garments,2020/03,0.050000000000000003
+Garments,2020/04,-0.01
+Garments,2020/05,-0.02
+Garments,2020/06,-0.029999999999999999
+Garments,2020/07,0.28999999999999998
+Garments,2020/08,-0.02
+Garments,2020/09,-0.059999999999999998
+Garments,2020/10,-0.02
+Garments,2020/11,-0.040000000000000001
+Garments,2020/12,-0.10000000000000001
+Garments,2021/01,0.14000000000000001
+Garments,2021/02,0.080000000000000002
+Garments,2021/03,-0.050000000000000003
+Garments,2021/04,-0.02
+Garments,2021/05,0.02
+Garments,2021/06,0.080000000000000002
+Garments,2021/07,-0.11
+Garments,2021/08,0.17000000000000001
+Garments,2021/09,0.070000000000000007
+Garments,2021/10,0.029999999999999999
+Garments for men,2020/01,0.01
+Garments for men,2020/02,0.01
+Garments for men,2020/03,0.02
+Garments for men,2020/04,0
+Garments for men,2020/05,-0.02
+Garments for men,2020/06,-0.02
+Garments for men,2020/07,0.080000000000000002
+Garments for men,2020/08,-0.01
+Garments for men,2020/09,-0.02
+Garments for men,2020/10,-0.01
+Garments for men,2020/11,-0.02
+Garments for men,2020/12,-0.040000000000000001
+Garments for men,2021/01,0.040000000000000001
+Garments for men,2021/02,0.01
+Garments for men,2021/03,-0.02
+Garments for men,2021/04,-0.01
+Garments for men,2021/05,0.01
+Garments for men,2021/06,0.029999999999999999
+Garments for men,2021/07,-0.02
+Garments for men,2021/08,0.059999999999999998
+Garments for men,2021/09,0.02
+Garments for men,2021/10,0.01
+Garments for women,2020/01,0.02
+Garments for women,2020/02,0.029999999999999999
+Garments for women,2020/03,0.02
+Garments for women,2020/04,-0.01
+Garments for women,2020/05,0
+Garments for women,2020/06,-0.01
+Garments for women,2020/07,0.14000000000000001
+Garments for women,2020/08,0
+Garments for women,2020/09,-0.029999999999999999
+Garments for women,2020/10,0
+Garments for women,2020/11,-0.02
+Garments for women,2020/12,-0.050000000000000003
+Garments for women,2021/01,0.080000000000000002
+Garments for women,2021/02,0.040000000000000001
+Garments for women,2021/03,-0.02
+Garments for women,2021/04,-0.01
+Garments for women,2021/05,0
+Garments for women,2021/06,0.040000000000000001
+Garments for women,2021/07,-0.050000000000000003
+Garments for women,2021/08,0.080000000000000002
+Garments for women,2021/09,0.029999999999999999
+Garments for women,2021/10,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/01,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/02,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/03,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/04,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/05,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/06,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/07,0.070000000000000007
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/08,-0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/09,-0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/10,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/11,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2020/12,-0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/01,0.029999999999999999
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/02,0.02
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/03,0
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/04,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/05,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/06,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/07,-0.040000000000000001
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/08,0.029999999999999999
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/09,0.01
+Garments for infants (0 to 2 years) and children (3 to 13 years),2021/10,0.01
+Other articles of clothing and clothing accessories,2020/01,0
+Other articles of clothing and clothing accessories,2020/02,0
+Other articles of clothing and clothing accessories,2020/03,0
+Other articles of clothing and clothing accessories,2020/04,0
+Other articles of clothing and clothing accessories,2020/05,0
+Other articles of clothing and clothing accessories,2020/06,0
+Other articles of clothing and clothing accessories,2020/07,0.01
+Other articles of clothing and clothing accessories,2020/08,0
+Other articles of clothing and clothing accessories,2020/09,0
+Other articles of clothing and clothing accessories,2020/10,0
+Other articles of clothing and clothing accessories,2020/11,0
+Other articles of clothing and clothing accessories,2020/12,-0.01
+Other articles of clothing and clothing accessories,2021/01,0.01
+Other articles of clothing and clothing accessories,2021/02,0
+Other articles of clothing and clothing accessories,2021/03,0
+Other articles of clothing and clothing accessories,2021/04,0
+Other articles of clothing and clothing accessories,2021/05,0
+Other articles of clothing and clothing accessories,2021/06,0
+Other articles of clothing and clothing accessories,2021/07,0
+Other articles of clothing and clothing accessories,2021/08,0.01
+Other articles of clothing and clothing accessories,2021/09,0
+Other articles of clothing and clothing accessories,2021/10,0
+Other articles of clothing,2020/01,0
+Other articles of clothing,2020/02,0
+Other articles of clothing,2020/03,0
+Other articles of clothing,2020/04,0
+Other articles of clothing,2020/05,0
+Other articles of clothing,2020/06,0
+Other articles of clothing,2020/07,0.01
+Other articles of clothing,2020/08,0
+Other articles of clothing,2020/09,0
+Other articles of clothing,2020/10,0
+Other articles of clothing,2020/11,0
+Other articles of clothing,2020/12,-0.01
+Other articles of clothing,2021/01,0.01
+Other articles of clothing,2021/02,0
+Other articles of clothing,2021/03,0
+Other articles of clothing,2021/04,0
+Other articles of clothing,2021/05,0
+Other articles of clothing,2021/06,0
+Other articles of clothing,2021/07,0
+Other articles of clothing,2021/08,0.01
+Other articles of clothing,2021/09,0
+Other articles of clothing,2021/10,0
+Clothing accessories,2020/01,0
+Clothing accessories,2020/02,0
+Clothing accessories,2020/03,0
+Clothing accessories,2020/04,0
+Clothing accessories,2020/05,0
+Clothing accessories,2020/06,0
+Clothing accessories,2020/07,0
+Clothing accessories,2020/08,0
+Clothing accessories,2020/09,0
+Clothing accessories,2020/10,0
+Clothing accessories,2020/11,0
+Clothing accessories,2020/12,0
+Clothing accessories,2021/01,0
+Clothing accessories,2021/02,0
+Clothing accessories,2021/03,0
+Clothing accessories,2021/04,0
+Clothing accessories,2021/05,0
+Clothing accessories,2021/06,0
+Clothing accessories,2021/07,0
+Clothing accessories,2021/08,0
+Clothing accessories,2021/09,0
+Clothing accessories,2021/10,0
+"Cleaning, repair and hire of clothing",2020/01,0
+"Cleaning, repair and hire of clothing",2020/02,0
+"Cleaning, repair and hire of clothing",2020/03,0
+"Cleaning, repair and hire of clothing",2020/04,0
+"Cleaning, repair and hire of clothing",2020/05,0
+"Cleaning, repair and hire of clothing",2020/06,0
+"Cleaning, repair and hire of clothing",2020/07,0
+"Cleaning, repair and hire of clothing",2020/08,0
+"Cleaning, repair and hire of clothing",2020/09,0
+"Cleaning, repair and hire of clothing",2020/10,0
+"Cleaning, repair and hire of clothing",2020/11,0
+"Cleaning, repair and hire of clothing",2020/12,0
+"Cleaning, repair and hire of clothing",2021/01,0
+"Cleaning, repair and hire of clothing",2021/02,0
+"Cleaning, repair and hire of clothing",2021/03,0
+"Cleaning, repair and hire of clothing",2021/04,0
+"Cleaning, repair and hire of clothing",2021/05,0
+"Cleaning, repair and hire of clothing",2021/06,0
+"Cleaning, repair and hire of clothing",2021/07,0
+"Cleaning, repair and hire of clothing",2021/08,0
+"Cleaning, repair and hire of clothing",2021/09,0
+"Cleaning, repair and hire of clothing",2021/10,0
+Cleaning of clothing,2020/01,0
+Cleaning of clothing,2020/02,0
+Cleaning of clothing,2020/03,0
+Cleaning of clothing,2020/04,0
+Cleaning of clothing,2020/05,0
+Cleaning of clothing,2020/06,0
+Cleaning of clothing,2020/07,0
+Cleaning of clothing,2020/08,0
+Cleaning of clothing,2020/09,0
+Cleaning of clothing,2020/10,0
+Cleaning of clothing,2020/11,0
+Cleaning of clothing,2020/12,0
+Cleaning of clothing,2021/01,0
+Cleaning of clothing,2021/02,0
+Cleaning of clothing,2021/03,0
+Cleaning of clothing,2021/04,0
+Cleaning of clothing,2021/05,0
+Cleaning of clothing,2021/06,0
+Cleaning of clothing,2021/07,0
+Cleaning of clothing,2021/08,0
+Cleaning of clothing,2021/09,0
+Cleaning of clothing,2021/10,0
+Repair and hire of clothing,2020/01,0
+Repair and hire of clothing,2020/02,0
+Repair and hire of clothing,2020/03,0
+Repair and hire of clothing,2020/04,0
+Repair and hire of clothing,2020/05,0
+Repair and hire of clothing,2020/06,0
+Repair and hire of clothing,2020/07,0
+Repair and hire of clothing,2020/08,0
+Repair and hire of clothing,2020/09,0
+Repair and hire of clothing,2020/10,0
+Repair and hire of clothing,2020/11,0
+Repair and hire of clothing,2020/12,0
+Repair and hire of clothing,2021/01,0
+Repair and hire of clothing,2021/02,0
+Repair and hire of clothing,2021/03,0
+Repair and hire of clothing,2021/04,0
+Repair and hire of clothing,2021/05,0
+Repair and hire of clothing,2021/06,0
+Repair and hire of clothing,2021/07,0
+Repair and hire of clothing,2021/08,0
+Repair and hire of clothing,2021/09,0
+Repair and hire of clothing,2021/10,0
+Footwear,2020/01,-0.01
+Footwear,2020/02,0.01
+Footwear,2020/03,0.01
+Footwear,2020/04,-0.02
+Footwear,2020/05,-0.02
+Footwear,2020/06,-0.02
+Footwear,2020/07,0.040000000000000001
+Footwear,2020/08,-0.02
+Footwear,2020/09,-0.02
+Footwear,2020/10,-0.01
+Footwear,2020/11,-0.01
+Footwear,2020/12,-0.029999999999999999
+Footwear,2021/01,0.029999999999999999
+Footwear,2021/02,0.01
+Footwear,2021/03,-0.02
+Footwear,2021/04,0
+Footwear,2021/05,-0.01
+Footwear,2021/06,0.01
+Footwear,2021/07,-0.02
+Footwear,2021/08,0.040000000000000001
+Footwear,2021/09,0.02
+Footwear,2021/10,0.01
+Other actual rentals,2020/01,0.01
+Other actual rentals,2020/02,0.01
+Other actual rentals,2020/03,0.01
+Other actual rentals,2020/04,0.01
+Other actual rentals,2020/05,0.01
+Other actual rentals,2020/06,0.01
+Other actual rentals,2020/07,0.01
+Other actual rentals,2020/08,0.01
+Other actual rentals,2020/09,0.01
+Other actual rentals,2020/10,0.01
+Other actual rentals,2020/11,0.01
+Other actual rentals,2020/12,0
+Other actual rentals,2021/01,0.01
+Other actual rentals,2021/02,0.01
+Other actual rentals,2021/03,0
+Other actual rentals,2021/04,0
+Other actual rentals,2021/05,0
+Other actual rentals,2021/06,0
+Other actual rentals,2021/07,0
+Other actual rentals,2021/08,0
+Other actual rentals,2021/09,0
+Other actual rentals,2021/10,0
+Maintenance and repair of the dwelling,2020/01,0.029999999999999999
+Maintenance and repair of the dwelling,2020/02,0.029999999999999999
+Maintenance and repair of the dwelling,2020/03,0.029999999999999999
+Maintenance and repair of the dwelling,2020/04,0.02
+Maintenance and repair of the dwelling,2020/05,0.02
+Maintenance and repair of the dwelling,2020/06,0.02
+Maintenance and repair of the dwelling,2020/07,0.02
+Maintenance and repair of the dwelling,2020/08,0.02
+Maintenance and repair of the dwelling,2020/09,0.02
+Maintenance and repair of the dwelling,2020/10,0.01
+Maintenance and repair of the dwelling,2020/11,0.01
+Maintenance and repair of the dwelling,2020/12,0.01
+Maintenance and repair of the dwelling,2021/01,0.02
+Maintenance and repair of the dwelling,2021/02,0.02
+Maintenance and repair of the dwelling,2021/03,0.02
+Maintenance and repair of the dwelling,2021/04,0.029999999999999999
+Maintenance and repair of the dwelling,2021/05,0.029999999999999999
+Maintenance and repair of the dwelling,2021/06,0.029999999999999999
+Maintenance and repair of the dwelling,2021/07,0.040000000000000001
+Maintenance and repair of the dwelling,2021/08,0.050000000000000003
+Maintenance and repair of the dwelling,2021/09,0.050000000000000003
+Maintenance and repair of the dwelling,2021/10,0.059999999999999998
+Water supply and miscellaneous services relating to the dwelling,2020/01,0.040000000000000001
+Water supply and miscellaneous services relating to the dwelling,2020/02,0.040000000000000001
+Water supply and miscellaneous services relating to the dwelling,2020/03,0.040000000000000001
+Water supply and miscellaneous services relating to the dwelling,2020/04,0.029999999999999999
+Water supply and miscellaneous services relating to the dwelling,2020/05,0.029999999999999999
+Water supply and miscellaneous services relating to the dwelling,2020/06,0.029999999999999999
+Water supply and miscellaneous services relating to the dwelling,2020/07,0.029999999999999999
+Water supply and miscellaneous services relating to the dwelling,2020/08,0.02
+Water supply and miscellaneous services relating to the dwelling,2020/09,0.02
+Water supply and miscellaneous services relating to the dwelling,2020/10,0.02
+Water supply and miscellaneous services relating to the dwelling,2020/11,0.029999999999999999
+Water supply and miscellaneous services relating to the dwelling,2020/12,0.02
+Water supply and miscellaneous services relating to the dwelling,2021/01,0.040000000000000001
+Water supply and miscellaneous services relating to the dwelling,2021/02,0.050000000000000003
+Water supply and miscellaneous services relating to the dwelling,2021/03,0.050000000000000003
+Water supply and miscellaneous services relating to the dwelling,2021/04,0.050000000000000003
+Water supply and miscellaneous services relating to the dwelling,2021/05,0.050000000000000003
+Water supply and miscellaneous services relating to the dwelling,2021/06,0.050000000000000003
+Water supply and miscellaneous services relating to the dwelling,2021/07,0.059999999999999998
+Water supply and miscellaneous services relating to the dwelling,2021/08,0.059999999999999998
+Water supply and miscellaneous services relating to the dwelling,2021/09,0.059999999999999998
+Water supply and miscellaneous services relating to the dwelling,2021/10,0.059999999999999998
+Electricity,2020/01,-0.02
+Electricity,2020/02,-0.01
+Electricity,2020/03,-0.02
+Electricity,2020/04,-0.059999999999999998
+Electricity,2020/05,-0.059999999999999998
+Electricity,2020/06,-0.059999999999999998
+Electricity,2020/07,-0.070000000000000007
+Electricity,2020/08,-0.050000000000000003
+Electricity,2020/09,-0.029999999999999999
+Electricity,2020/10,-0.029999999999999999
+Electricity,2020/11,-0.02
+Electricity,2020/12,0.01
+Electricity,2021/01,0.089999999999999997
+Electricity,2021/02,0.02
+Electricity,2021/03,0.089999999999999997
+Electricity,2021/04,0.20000000000000001
+Electricity,2021/05,0.22
+Electricity,2021/06,0.23000000000000001
+Electricity,2021/07,0.22
+Electricity,2021/08,0.26000000000000001
+Electricity,2021/09,0.31
+Electricity,2021/10,0.42999999999999999
+Gas,2020/01,-0.070000000000000007
+Gas,2020/02,-0.080000000000000002
+Gas,2020/03,-0.089999999999999997
+Gas,2020/04,-0.089999999999999997
+Gas,2020/05,-0.089999999999999997
+Gas,2020/06,-0.089999999999999997
+Gas,2020/07,-0.089999999999999997
+Gas,2020/08,-0.080000000000000002
+Gas,2020/09,-0.080000000000000002
+Gas,2020/10,-0.059999999999999998
+Gas,2020/11,-0.059999999999999998
+Gas,2020/12,-0.059999999999999998
+Gas,2021/01,-0.02
+Gas,2021/02,0
+Gas,2021/03,0.02
+Gas,2021/04,0.080000000000000002
+Gas,2021/05,0.089999999999999997
+Gas,2021/06,0.11
+Gas,2021/07,0.25
+Gas,2021/08,0.28000000000000003
+Gas,2021/09,0.31
+Gas,2021/10,0.44
+Natural gas and town gas,2020/01,-0.070000000000000007
+Natural gas and town gas,2020/02,-0.080000000000000002
+Natural gas and town gas,2020/03,-0.089999999999999997
+Natural gas and town gas,2020/04,-0.089999999999999997
+Natural gas and town gas,2020/05,-0.089999999999999997
+Natural gas and town gas,2020/06,-0.089999999999999997
+Natural gas and town gas,2020/07,-0.089999999999999997
+Natural gas and town gas,2020/08,-0.089999999999999997
+Natural gas and town gas,2020/09,-0.080000000000000002
+Natural gas and town gas,2020/10,-0.059999999999999998
+Natural gas and town gas,2020/11,-0.059999999999999998
+Natural gas and town gas,2020/12,-0.059999999999999998
+Natural gas and town gas,2021/01,-0.029999999999999999
+Natural gas and town gas,2021/02,-0.01
+Natural gas and town gas,2021/03,0.02
+Natural gas and town gas,2021/04,0.080000000000000002
+Natural gas and town gas,2021/05,0.080000000000000002
+Natural gas and town gas,2021/06,0.10000000000000001
+Natural gas and town gas,2021/07,0.23999999999999999
+Natural gas and town gas,2021/08,0.26000000000000001
+Natural gas and town gas,2021/09,0.28999999999999998
+Natural gas and town gas,2021/10,0.40999999999999998
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/01,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/02,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/03,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/04,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/05,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/06,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/07,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/08,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/09,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/10,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/11,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2020/12,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/01,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/02,0
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/03,0.01
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/04,0.01
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/05,0.01
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/06,0.01
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/07,0.01
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/08,0.02
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/09,0.02
+"Liquefied hydrocarbons (butane, propane, etc.)",2021/10,0.029999999999999999
+Liquid fuels,2020/01,0.02
+Liquid fuels,2020/02,-0.040000000000000001
+Liquid fuels,2020/03,-0.10000000000000001
+Liquid fuels,2020/04,-0.14999999999999999
+Liquid fuels,2020/05,-0.20000000000000001
+Liquid fuels,2020/06,-0.14999999999999999
+Liquid fuels,2020/07,-0.16
+Liquid fuels,2020/08,-0.16
+Liquid fuels,2020/09,-0.19
+Liquid fuels,2020/10,-0.20000000000000001
+Liquid fuels,2020/11,-0.19
+Liquid fuels,2020/12,-0.14999999999999999
+Liquid fuels,2021/01,-0.12
+Liquid fuels,2021/02,-0.050000000000000003
+Liquid fuels,2021/03,0.040000000000000001
+Liquid fuels,2021/04,0.070000000000000007
+Liquid fuels,2021/05,0.12
+Liquid fuels,2021/06,0.13
+Liquid fuels,2021/07,0.14999999999999999
+Liquid fuels,2021/08,0.14999999999999999
+Liquid fuels,2021/09,0.20000000000000001
+Liquid fuels,2021/10,0.28999999999999998
+Solid fuels,2020/01,0
+Solid fuels,2020/02,0
+Solid fuels,2020/03,0
+Solid fuels,2020/04,0
+Solid fuels,2020/05,0
+Solid fuels,2020/06,0
+Solid fuels,2020/07,0
+Solid fuels,2020/08,0
+Solid fuels,2020/09,0
+Solid fuels,2020/10,0
+Solid fuels,2020/11,0
+Solid fuels,2020/12,0
+Solid fuels,2021/01,0
+Solid fuels,2021/02,0
+Solid fuels,2021/03,0
+Solid fuels,2021/04,0
+Solid fuels,2021/05,0
+Solid fuels,2021/06,0
+Solid fuels,2021/07,0
+Solid fuels,2021/08,0
+Solid fuels,2021/09,0
+Solid fuels,2021/10,0.01
+Coal,2020/01,0
+Coal,2020/02,0
+Coal,2020/03,0
+Coal,2020/04,0
+Coal,2020/05,0
+Coal,2020/06,0
+Coal,2020/07,0
+Coal,2020/08,0
+Coal,2020/09,0
+Coal,2020/10,0
+Coal,2020/11,0
+Coal,2020/12,0
+Coal,2021/01,0
+Coal,2021/02,0
+Coal,2021/03,0
+Coal,2021/04,0
+Coal,2021/05,0
+Coal,2021/06,0
+Coal,2021/07,0
+Coal,2021/08,0
+Coal,2021/09,0
+Coal,2021/10,0
+Other solid fuels,2020/01,0
+Other solid fuels,2020/02,0
+Other solid fuels,2020/03,0
+Other solid fuels,2020/04,0
+Other solid fuels,2020/05,0
+Other solid fuels,2020/06,0
+Other solid fuels,2020/07,0
+Other solid fuels,2020/08,0
+Other solid fuels,2020/09,0
+Other solid fuels,2020/10,0
+Other solid fuels,2020/11,0
+Other solid fuels,2020/12,0
+Other solid fuels,2021/01,0
+Other solid fuels,2021/02,0
+Other solid fuels,2021/03,0
+Other solid fuels,2021/04,0
+Other solid fuels,2021/05,0
+Other solid fuels,2021/06,0
+Other solid fuels,2021/07,0
+Other solid fuels,2021/08,0
+Other solid fuels,2021/09,0
+Other solid fuels,2021/10,0
+Heat energy,2020/01,0
+Heat energy,2020/02,0
+Heat energy,2020/03,0
+Heat energy,2020/04,0
+Heat energy,2020/05,-0.01
+Heat energy,2020/06,-0.01
+Heat energy,2020/07,-0.01
+Heat energy,2020/08,-0.01
+Heat energy,2020/09,-0.01
+Heat energy,2020/10,-0.01
+Heat energy,2020/11,-0.01
+Heat energy,2020/12,-0.01
+Heat energy,2021/01,-0.01
+Heat energy,2021/02,-0.01
+Heat energy,2021/03,0
+Heat energy,2021/04,0
+Heat energy,2021/05,0
+Heat energy,2021/06,0
+Heat energy,2021/07,0.01
+Heat energy,2021/08,0.01
+Heat energy,2021/09,0.02
+Heat energy,2021/10,0.029999999999999999
+"Furnishings, household equipment and routine household maintenance",2020/01,0.029999999999999999
+"Furnishings, household equipment and routine household maintenance",2020/02,0.040000000000000001
+"Furnishings, household equipment and routine household maintenance",2020/03,0.040000000000000001
+"Furnishings, household equipment and routine household maintenance",2020/04,0.050000000000000003
+"Furnishings, household equipment and routine household maintenance",2020/05,0.040000000000000001
+"Furnishings, household equipment and routine household maintenance",2020/06,0.040000000000000001
+"Furnishings, household equipment and routine household maintenance",2020/07,0.050000000000000003
+"Furnishings, household equipment and routine household maintenance",2020/08,0.02
+"Furnishings, household equipment and routine household maintenance",2020/09,0.01
+"Furnishings, household equipment and routine household maintenance",2020/10,0.01
+"Furnishings, household equipment and routine household maintenance",2020/11,0
+"Furnishings, household equipment and routine household maintenance",2020/12,0.01
+"Furnishings, household equipment and routine household maintenance",2021/01,0.080000000000000002
+"Furnishings, household equipment and routine household maintenance",2021/02,0.050000000000000003
+"Furnishings, household equipment and routine household maintenance",2021/03,0.050000000000000003
+"Furnishings, household equipment and routine household maintenance",2021/04,0.050000000000000003
+"Furnishings, household equipment and routine household maintenance",2021/05,0.059999999999999998
+"Furnishings, household equipment and routine household maintenance",2021/06,0.070000000000000007
+"Furnishings, household equipment and routine household maintenance",2021/07,0.089999999999999997
+"Furnishings, household equipment and routine household maintenance",2021/08,0.13
+"Furnishings, household equipment and routine household maintenance",2021/09,0.14000000000000001
+"Furnishings, household equipment and routine household maintenance",2021/10,0.14999999999999999
+Household textiles,2020/01,0
+Household textiles,2020/02,0
+Household textiles,2020/03,0
+Household textiles,2020/04,0
+Household textiles,2020/05,0
+Household textiles,2020/06,0
+Household textiles,2020/07,0.01
+Household textiles,2020/08,0
+Household textiles,2020/09,0
+Household textiles,2020/10,0
+Household textiles,2020/11,0
+Household textiles,2020/12,0
+Household textiles,2021/01,0.01
+Household textiles,2021/02,0
+Household textiles,2021/03,0
+Household textiles,2021/04,0
+Household textiles,2021/05,0
+Household textiles,2021/06,0
+Household textiles,2021/07,0
+Household textiles,2021/08,0.01
+Household textiles,2021/09,0.01
+Household textiles,2021/10,0.01
+Household appliances,2020/01,-0.01
+Household appliances,2020/02,0
+Household appliances,2020/03,0
+Household appliances,2020/04,0
+Household appliances,2020/05,0
+Household appliances,2020/06,0
+Household appliances,2020/07,0
+Household appliances,2020/08,-0.01
+Household appliances,2020/09,-0.01
+Household appliances,2020/10,0
+Household appliances,2020/11,0
+Household appliances,2020/12,0
+Household appliances,2021/01,0.01
+Household appliances,2021/02,0.01
+Household appliances,2021/03,0.01
+Household appliances,2021/04,0.01
+Household appliances,2021/05,0
+Household appliances,2021/06,0.01
+Household appliances,2021/07,0
+Household appliances,2021/08,0.02
+Household appliances,2021/09,0.01
+Household appliances,2021/10,0.02
+Small electric household appliances,2020/01,0
+Small electric household appliances,2020/02,0
+Small electric household appliances,2020/03,0
+Small electric household appliances,2020/04,0
+Small electric household appliances,2020/05,0
+Small electric household appliances,2020/06,0
+Small electric household appliances,2020/07,0
+Small electric household appliances,2020/08,0
+Small electric household appliances,2020/09,0
+Small electric household appliances,2020/10,0
+Small electric household appliances,2020/11,0
+Small electric household appliances,2020/12,0
+Small electric household appliances,2021/01,0.01
+Small electric household appliances,2021/02,0.01
+Small electric household appliances,2021/03,0
+Small electric household appliances,2021/04,0
+Small electric household appliances,2021/05,0
+Small electric household appliances,2021/06,0
+Small electric household appliances,2021/07,0
+Small electric household appliances,2021/08,0
+Small electric household appliances,2021/09,0
+Small electric household appliances,2021/10,0
+"Glassware, tableware and household utensils",2020/01,0
+"Glassware, tableware and household utensils",2020/02,0
+"Glassware, tableware and household utensils",2020/03,0
+"Glassware, tableware and household utensils",2020/04,0
+"Glassware, tableware and household utensils",2020/05,0
+"Glassware, tableware and household utensils",2020/06,0
+"Glassware, tableware and household utensils",2020/07,0
+"Glassware, tableware and household utensils",2020/08,0
+"Glassware, tableware and household utensils",2020/09,0
+"Glassware, tableware and household utensils",2020/10,0
+"Glassware, tableware and household utensils",2020/11,0
+"Glassware, tableware and household utensils",2020/12,0
+"Glassware, tableware and household utensils",2021/01,0.01
+"Glassware, tableware and household utensils",2021/02,0.01
+"Glassware, tableware and household utensils",2021/03,0.01
+"Glassware, tableware and household utensils",2021/04,0.01
+"Glassware, tableware and household utensils",2021/05,0.01
+"Glassware, tableware and household utensils",2021/06,0.01
+"Glassware, tableware and household utensils",2021/07,0.01
+"Glassware, tableware and household utensils",2021/08,0.01
+"Glassware, tableware and household utensils",2021/09,0.01
+"Glassware, tableware and household utensils",2021/10,0.01
+Tools and equipment for house and garden,2020/01,0
+Tools and equipment for house and garden,2020/02,0
+Tools and equipment for house and garden,2020/03,0
+Tools and equipment for house and garden,2020/04,0
+Tools and equipment for house and garden,2020/05,0
+Tools and equipment for house and garden,2020/06,0
+Tools and equipment for house and garden,2020/07,0
+Tools and equipment for house and garden,2020/08,0
+Tools and equipment for house and garden,2020/09,0
+Tools and equipment for house and garden,2020/10,0
+Tools and equipment for house and garden,2020/11,0
+Tools and equipment for house and garden,2020/12,0
+Tools and equipment for house and garden,2021/01,0
+Tools and equipment for house and garden,2021/02,0
+Tools and equipment for house and garden,2021/03,0
+Tools and equipment for house and garden,2021/04,0
+Tools and equipment for house and garden,2021/05,0
+Tools and equipment for house and garden,2021/06,0
+Tools and equipment for house and garden,2021/07,0.01
+Tools and equipment for house and garden,2021/08,0.01
+Tools and equipment for house and garden,2021/09,0.01
+Tools and equipment for house and garden,2021/10,0.01
+Goods and services for routine household maintenance,2020/01,0.02
+Goods and services for routine household maintenance,2020/02,0.02
+Goods and services for routine household maintenance,2020/03,0.02
+Goods and services for routine household maintenance,2020/04,0.029999999999999999
+Goods and services for routine household maintenance,2020/05,0.029999999999999999
+Goods and services for routine household maintenance,2020/06,0.02
+Goods and services for routine household maintenance,2020/07,0.02
+Goods and services for routine household maintenance,2020/08,0.02
+Goods and services for routine household maintenance,2020/09,0.01
+Goods and services for routine household maintenance,2020/10,0.01
+Goods and services for routine household maintenance,2020/11,0.01
+Goods and services for routine household maintenance,2020/12,0.01
+Goods and services for routine household maintenance,2021/01,0.01
+Goods and services for routine household maintenance,2021/02,0.01
+Goods and services for routine household maintenance,2021/03,0.01
+Goods and services for routine household maintenance,2021/04,0
+Goods and services for routine household maintenance,2021/05,0
+Goods and services for routine household maintenance,2021/06,0.01
+Goods and services for routine household maintenance,2021/07,0.01
+Goods and services for routine household maintenance,2021/08,0.01
+Goods and services for routine household maintenance,2021/09,0.02
+Goods and services for routine household maintenance,2021/10,0.02
+Health,2020/01,0.029999999999999999
+Health,2020/02,0.029999999999999999
+Health,2020/03,0.040000000000000001
+Health,2020/04,0.040000000000000001
+Health,2020/05,0.040000000000000001
+Health,2020/06,0.040000000000000001
+Health,2020/07,0.040000000000000001
+Health,2020/08,0.029999999999999999
+Health,2020/09,0.01
+Health,2020/10,0.01
+Health,2020/11,0.01
+Health,2020/12,0.01
+Health,2021/01,0.01
+Health,2021/02,0.01
+Health,2021/03,0.01
+Health,2021/04,0
+Health,2021/05,0.01
+Health,2021/06,0.01
+Health,2021/07,0.01
+Health,2021/08,0.02
+Health,2021/09,0.029999999999999999
+Health,2021/10,0.040000000000000001
+Purchase of vehicles,2020/01,0.059999999999999998
+Purchase of vehicles,2020/02,0.059999999999999998
+Purchase of vehicles,2020/03,0.050000000000000003
+Purchase of vehicles,2020/04,0.059999999999999998
+Purchase of vehicles,2020/05,0.040000000000000001
+Purchase of vehicles,2020/06,0.040000000000000001
+Purchase of vehicles,2020/07,0.02
+Purchase of vehicles,2020/08,0.029999999999999999
+Purchase of vehicles,2020/09,0.029999999999999999
+Purchase of vehicles,2020/10,0.029999999999999999
+Purchase of vehicles,2020/11,0.029999999999999999
+Purchase of vehicles,2020/12,0.02
+Purchase of vehicles,2021/01,0.050000000000000003
+Purchase of vehicles,2021/02,0.050000000000000003
+Purchase of vehicles,2021/03,0.070000000000000007
+Purchase of vehicles,2021/04,0.070000000000000007
+Purchase of vehicles,2021/05,0.080000000000000002
+Purchase of vehicles,2021/06,0.089999999999999997
+Purchase of vehicles,2021/07,0.13
+Purchase of vehicles,2021/08,0.13
+Purchase of vehicles,2021/09,0.14999999999999999
+Purchase of vehicles,2021/10,0.17000000000000001
+Motor cars,2020/01,0.059999999999999998
+Motor cars,2020/02,0.059999999999999998
+Motor cars,2020/03,0.050000000000000003
+Motor cars,2020/04,0.050000000000000003
+Motor cars,2020/05,0.040000000000000001
+Motor cars,2020/06,0.040000000000000001
+Motor cars,2020/07,0.02
+Motor cars,2020/08,0.029999999999999999
+Motor cars,2020/09,0.029999999999999999
+Motor cars,2020/10,0.02
+Motor cars,2020/11,0.02
+Motor cars,2020/12,0.02
+Motor cars,2021/01,0.050000000000000003
+Motor cars,2021/02,0.040000000000000001
+Motor cars,2021/03,0.059999999999999998
+Motor cars,2021/04,0.059999999999999998
+Motor cars,2021/05,0.070000000000000007
+Motor cars,2021/06,0.080000000000000002
+Motor cars,2021/07,0.12
+Motor cars,2021/08,0.12
+Motor cars,2021/09,0.14000000000000001
+Motor cars,2021/10,0.14999999999999999
+New motor cars,2020/01,0.059999999999999998
+New motor cars,2020/02,0.059999999999999998
+New motor cars,2020/03,0.050000000000000003
+New motor cars,2020/04,0.050000000000000003
+New motor cars,2020/05,0.050000000000000003
+New motor cars,2020/06,0.040000000000000001
+New motor cars,2020/07,0.029999999999999999
+New motor cars,2020/08,0.029999999999999999
+New motor cars,2020/09,0.029999999999999999
+New motor cars,2020/10,0.029999999999999999
+New motor cars,2020/11,0.029999999999999999
+New motor cars,2020/12,0.02
+New motor cars,2021/01,0.050000000000000003
+New motor cars,2021/02,0.050000000000000003
+New motor cars,2021/03,0.059999999999999998
+New motor cars,2021/04,0.059999999999999998
+New motor cars,2021/05,0.070000000000000007
+New motor cars,2021/06,0.080000000000000002
+New motor cars,2021/07,0.10000000000000001
+New motor cars,2021/08,0.10000000000000001
+New motor cars,2021/09,0.11
+New motor cars,2021/10,0.11
+Second-hand motor cars,2020/01,0
+Second-hand motor cars,2020/02,0
+Second-hand motor cars,2020/03,0
+Second-hand motor cars,2020/04,0
+Second-hand motor cars,2020/05,0
+Second-hand motor cars,2020/06,-0.01
+Second-hand motor cars,2020/07,-0.01
+Second-hand motor cars,2020/08,-0.01
+Second-hand motor cars,2020/09,-0.01
+Second-hand motor cars,2020/10,0
+Second-hand motor cars,2020/11,0
+Second-hand motor cars,2020/12,0
+Second-hand motor cars,2021/01,0
+Second-hand motor cars,2021/02,0
+Second-hand motor cars,2021/03,0
+Second-hand motor cars,2021/04,0
+Second-hand motor cars,2021/05,0
+Second-hand motor cars,2021/06,0.01
+Second-hand motor cars,2021/07,0.02
+Second-hand motor cars,2021/08,0.02
+Second-hand motor cars,2021/09,0.029999999999999999
+Second-hand motor cars,2021/10,0.040000000000000001
+"Motor cycles, bicycles and animal drawn vehicles",2020/01,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/02,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/03,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/04,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/05,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/06,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/07,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/08,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/09,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/10,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/11,0
+"Motor cycles, bicycles and animal drawn vehicles",2020/12,0
+"Motor cycles, bicycles and animal drawn vehicles",2021/01,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/02,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/03,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/04,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/05,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/06,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/07,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/08,0.01
+"Motor cycles, bicycles and animal drawn vehicles",2021/09,0.02
+"Motor cycles, bicycles and animal drawn vehicles",2021/10,0.02
+Motor cycles,2020/01,0
+Motor cycles,2020/02,0
+Motor cycles,2020/03,0
+Motor cycles,2020/04,0
+Motor cycles,2020/05,0
+Motor cycles,2020/06,0
+Motor cycles,2020/07,0
+Motor cycles,2020/08,0
+Motor cycles,2020/09,0
+Motor cycles,2020/10,0
+Motor cycles,2020/11,0
+Motor cycles,2020/12,0
+Motor cycles,2021/01,0
+Motor cycles,2021/02,0
+Motor cycles,2021/03,0
+Motor cycles,2021/04,0
+Motor cycles,2021/05,0
+Motor cycles,2021/06,0
+Motor cycles,2021/07,0.01
+Motor cycles,2021/08,0.01
+Motor cycles,2021/09,0.01
+Motor cycles,2021/10,0.01
+Bicycles,2020/01,0
+Bicycles,2020/02,0
+Bicycles,2020/03,0
+Bicycles,2020/04,0
+Bicycles,2020/05,0
+Bicycles,2020/06,0
+Bicycles,2020/07,0
+Bicycles,2020/08,0
+Bicycles,2020/09,0
+Bicycles,2020/10,0
+Bicycles,2020/11,0
+Bicycles,2020/12,0
+Bicycles,2021/01,0
+Bicycles,2021/02,0
+Bicycles,2021/03,0
+Bicycles,2021/04,0
+Bicycles,2021/05,0
+Bicycles,2021/06,0
+Bicycles,2021/07,0
+Bicycles,2021/08,0.01
+Bicycles,2021/09,0.01
+Bicycles,2021/10,0.01
+Spare parts and accessories for personal transport equipment,2020/01,0
+Spare parts and accessories for personal transport equipment,2020/02,0
+Spare parts and accessories for personal transport equipment,2020/03,0
+Spare parts and accessories for personal transport equipment,2020/04,0
+Spare parts and accessories for personal transport equipment,2020/05,0.01
+Spare parts and accessories for personal transport equipment,2020/06,0.01
+Spare parts and accessories for personal transport equipment,2020/07,0
+Spare parts and accessories for personal transport equipment,2020/08,0
+Spare parts and accessories for personal transport equipment,2020/09,0
+Spare parts and accessories for personal transport equipment,2020/10,0
+Spare parts and accessories for personal transport equipment,2020/11,0
+Spare parts and accessories for personal transport equipment,2020/12,0
+Spare parts and accessories for personal transport equipment,2021/01,0.01
+Spare parts and accessories for personal transport equipment,2021/02,0.01
+Spare parts and accessories for personal transport equipment,2021/03,0.01
+Spare parts and accessories for personal transport equipment,2021/04,0.01
+Spare parts and accessories for personal transport equipment,2021/05,0
+Spare parts and accessories for personal transport equipment,2021/06,0
+Spare parts and accessories for personal transport equipment,2021/07,0.01
+Spare parts and accessories for personal transport equipment,2021/08,0.01
+Spare parts and accessories for personal transport equipment,2021/09,0.01
+Spare parts and accessories for personal transport equipment,2021/10,0.02
+Tyres,2020/01,0
+Tyres,2020/02,0
+Tyres,2020/03,0
+Tyres,2020/04,0
+Tyres,2020/05,0
+Tyres,2020/06,0
+Tyres,2020/07,0
+Tyres,2020/08,0
+Tyres,2020/09,0
+Tyres,2020/10,0
+Tyres,2020/11,0
+Tyres,2020/12,0
+Tyres,2021/01,0
+Tyres,2021/02,0
+Tyres,2021/03,0
+Tyres,2021/04,0
+Tyres,2021/05,0
+Tyres,2021/06,0
+Tyres,2021/07,0
+Tyres,2021/08,0.01
+Tyres,2021/09,0.01
+Tyres,2021/10,0.01
+Spare parts for personal transport equipment,2020/01,0
+Spare parts for personal transport equipment,2020/02,0
+Spare parts for personal transport equipment,2020/03,0
+Spare parts for personal transport equipment,2020/04,0
+Spare parts for personal transport equipment,2020/05,0
+Spare parts for personal transport equipment,2020/06,0
+Spare parts for personal transport equipment,2020/07,0
+Spare parts for personal transport equipment,2020/08,0
+Spare parts for personal transport equipment,2020/09,0
+Spare parts for personal transport equipment,2020/10,0
+Spare parts for personal transport equipment,2020/11,0
+Spare parts for personal transport equipment,2020/12,0
+Spare parts for personal transport equipment,2021/01,0
+Spare parts for personal transport equipment,2021/02,0
+Spare parts for personal transport equipment,2021/03,0
+Spare parts for personal transport equipment,2021/04,0
+Spare parts for personal transport equipment,2021/05,0
+Spare parts for personal transport equipment,2021/06,0
+Spare parts for personal transport equipment,2021/07,0
+Spare parts for personal transport equipment,2021/08,0
+Spare parts for personal transport equipment,2021/09,0
+Spare parts for personal transport equipment,2021/10,0.01
+Accessories for personal transport equipment,2020/01,0
+Accessories for personal transport equipment,2020/02,0
+Accessories for personal transport equipment,2020/03,0
+Accessories for personal transport equipment,2020/04,0
+Accessories for personal transport equipment,2020/05,0
+Accessories for personal transport equipment,2020/06,0
+Accessories for personal transport equipment,2020/07,0
+Accessories for personal transport equipment,2020/08,0
+Accessories for personal transport equipment,2020/09,0
+Accessories for personal transport equipment,2020/10,0
+Accessories for personal transport equipment,2020/11,0
+Accessories for personal transport equipment,2020/12,0
+Accessories for personal transport equipment,2021/01,0
+Accessories for personal transport equipment,2021/02,0
+Accessories for personal transport equipment,2021/03,0
+Accessories for personal transport equipment,2021/04,0
+Accessories for personal transport equipment,2021/05,0
+Accessories for personal transport equipment,2021/06,0
+Accessories for personal transport equipment,2021/07,0
+Accessories for personal transport equipment,2021/08,0
+Accessories for personal transport equipment,2021/09,0
+Accessories for personal transport equipment,2021/10,0
+Diesel,2020/01,0.11
+Diesel,2020/02,-0.01
+Diesel,2020/03,-0.16
+Diesel,2020/04,-0.28999999999999998
+Diesel,2020/05,-0.38
+Diesel,2020/06,-0.27000000000000002
+Diesel,2020/07,-0.23000000000000001
+Diesel,2020/08,-0.22
+Diesel,2020/09,-0.26000000000000001
+Diesel,2020/10,-0.28999999999999998
+Diesel,2020/11,-0.28000000000000003
+Diesel,2020/12,-0.23999999999999999
+Diesel,2021/01,-0.20000000000000001
+Diesel,2021/02,-0.080000000000000002
+Diesel,2021/03,0.10000000000000001
+Diesel,2021/04,0.20999999999999999
+Diesel,2021/05,0.29999999999999999
+Diesel,2021/06,0.28999999999999998
+Diesel,2021/07,0.28999999999999998
+Diesel,2021/08,0.28999999999999998
+Diesel,2021/09,0.34000000000000002
+Diesel,2021/10,0.46000000000000002
+Petrol,2020/01,0.16
+Petrol,2020/02,0.10000000000000001
+Petrol,2020/03,-0.070000000000000007
+Petrol,2020/04,-0.35999999999999999
+Petrol,2020/05,-0.46999999999999997
+Petrol,2020/06,-0.33000000000000002
+Petrol,2020/07,-0.27000000000000002
+Petrol,2020/08,-0.23999999999999999
+Petrol,2020/09,-0.22
+Petrol,2020/10,-0.22
+Petrol,2020/11,-0.26000000000000001
+Petrol,2020/12,-0.22
+Petrol,2021/01,-0.14000000000000001
+Petrol,2021/02,-0.029999999999999999
+Petrol,2021/03,0.19
+Petrol,2021/04,0.38
+Petrol,2021/05,0.45000000000000001
+Petrol,2021/06,0.39000000000000001
+Petrol,2021/07,0.40000000000000002
+Petrol,2021/08,0.42999999999999999
+Petrol,2021/09,0.44
+Petrol,2021/10,0.54000000000000004
+Other fuels for personal transport equipment,2020/01,0
+Other fuels for personal transport equipment,2020/02,0
+Other fuels for personal transport equipment,2020/03,0
+Other fuels for personal transport equipment,2020/04,-0.01
+Other fuels for personal transport equipment,2020/05,-0.01
+Other fuels for personal transport equipment,2020/06,-0.01
+Other fuels for personal transport equipment,2020/07,0
+Other fuels for personal transport equipment,2020/08,0
+Other fuels for personal transport equipment,2020/09,0
+Other fuels for personal transport equipment,2020/10,0
+Other fuels for personal transport equipment,2020/11,0
+Other fuels for personal transport equipment,2020/12,0
+Other fuels for personal transport equipment,2021/01,0
+Other fuels for personal transport equipment,2021/02,0
+Other fuels for personal transport equipment,2021/03,0
+Other fuels for personal transport equipment,2021/04,0.01
+Other fuels for personal transport equipment,2021/05,0.01
+Other fuels for personal transport equipment,2021/06,0.01
+Other fuels for personal transport equipment,2021/07,0.01
+Other fuels for personal transport equipment,2021/08,0.01
+Other fuels for personal transport equipment,2021/09,0.02
+Other fuels for personal transport equipment,2021/10,0.02
+Lubricants,2020/01,0
+Lubricants,2020/02,0
+Lubricants,2020/03,0
+Lubricants,2020/04,0
+Lubricants,2020/05,0
+Lubricants,2020/06,0
+Lubricants,2020/07,0
+Lubricants,2020/08,0
+Lubricants,2020/09,0
+Lubricants,2020/10,0
+Lubricants,2020/11,0
+Lubricants,2020/12,0
+Lubricants,2021/01,0
+Lubricants,2021/02,0
+Lubricants,2021/03,0
+Lubricants,2021/04,0
+Lubricants,2021/05,0
+Lubricants,2021/06,0
+Lubricants,2021/07,0
+Lubricants,2021/08,0
+Lubricants,2021/09,0
+Lubricants,2021/10,0
+Maintenance and repair of personal transport equipment,2020/01,0.070000000000000007
+Maintenance and repair of personal transport equipment,2020/02,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/03,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/04,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/05,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/06,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/07,0.070000000000000007
+Maintenance and repair of personal transport equipment,2020/08,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/09,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/10,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/11,0.059999999999999998
+Maintenance and repair of personal transport equipment,2020/12,0.059999999999999998
+Maintenance and repair of personal transport equipment,2021/01,0.070000000000000007
+Maintenance and repair of personal transport equipment,2021/02,0.059999999999999998
+Maintenance and repair of personal transport equipment,2021/03,0.070000000000000007
+Maintenance and repair of personal transport equipment,2021/04,0.059999999999999998
+Maintenance and repair of personal transport equipment,2021/05,0.059999999999999998
+Maintenance and repair of personal transport equipment,2021/06,0.059999999999999998
+Maintenance and repair of personal transport equipment,2021/07,0.070000000000000007
+Maintenance and repair of personal transport equipment,2021/08,0.070000000000000007
+Maintenance and repair of personal transport equipment,2021/09,0.080000000000000002
+Maintenance and repair of personal transport equipment,2021/10,0.080000000000000002
+Other services in respect of personal transport equipment,2020/01,0.01
+Other services in respect of personal transport equipment,2020/02,0.01
+Other services in respect of personal transport equipment,2020/03,0.01
+Other services in respect of personal transport equipment,2020/04,0
+Other services in respect of personal transport equipment,2020/05,0
+Other services in respect of personal transport equipment,2020/06,0.01
+Other services in respect of personal transport equipment,2020/07,0.01
+Other services in respect of personal transport equipment,2020/08,0.02
+Other services in respect of personal transport equipment,2020/09,0.02
+Other services in respect of personal transport equipment,2020/10,0.02
+Other services in respect of personal transport equipment,2020/11,0.02
+Other services in respect of personal transport equipment,2020/12,0.02
+Other services in respect of personal transport equipment,2021/01,0.02
+Other services in respect of personal transport equipment,2021/02,0.02
+Other services in respect of personal transport equipment,2021/03,0.029999999999999999
+Other services in respect of personal transport equipment,2021/04,0.040000000000000001
+Other services in respect of personal transport equipment,2021/05,0.040000000000000001
+Other services in respect of personal transport equipment,2021/06,0.040000000000000001
+Other services in respect of personal transport equipment,2021/07,0.059999999999999998
+Other services in respect of personal transport equipment,2021/08,0.059999999999999998
+Other services in respect of personal transport equipment,2021/09,0.029999999999999999
+Other services in respect of personal transport equipment,2021/10,0.040000000000000001
+"Hire of garages, parking spaces and personal transport equipment",2020/01,0
+"Hire of garages, parking spaces and personal transport equipment",2020/02,0
+"Hire of garages, parking spaces and personal transport equipment",2020/03,0
+"Hire of garages, parking spaces and personal transport equipment",2020/04,0
+"Hire of garages, parking spaces and personal transport equipment",2020/05,0
+"Hire of garages, parking spaces and personal transport equipment",2020/06,0
+"Hire of garages, parking spaces and personal transport equipment",2020/07,0.01
+"Hire of garages, parking spaces and personal transport equipment",2020/08,0.01
+"Hire of garages, parking spaces and personal transport equipment",2020/09,0.01
+"Hire of garages, parking spaces and personal transport equipment",2020/10,0.01
+"Hire of garages, parking spaces and personal transport equipment",2020/11,0.01
+"Hire of garages, parking spaces and personal transport equipment",2020/12,0.01
+"Hire of garages, parking spaces and personal transport equipment",2021/01,0.01
+"Hire of garages, parking spaces and personal transport equipment",2021/02,0.01
+"Hire of garages, parking spaces and personal transport equipment",2021/03,0.01
+"Hire of garages, parking spaces and personal transport equipment",2021/04,0.01
+"Hire of garages, parking spaces and personal transport equipment",2021/05,0.02
+"Hire of garages, parking spaces and personal transport equipment",2021/06,0.02
+"Hire of garages, parking spaces and personal transport equipment",2021/07,0.040000000000000001
+"Hire of garages, parking spaces and personal transport equipment",2021/08,0.040000000000000001
+"Hire of garages, parking spaces and personal transport equipment",2021/09,0.02
+"Hire of garages, parking spaces and personal transport equipment",2021/10,0.029999999999999999
+Toll facilities and parking meters,2020/01,0
+Toll facilities and parking meters,2020/02,0
+Toll facilities and parking meters,2020/03,0
+Toll facilities and parking meters,2020/04,-0.01
+Toll facilities and parking meters,2020/05,-0.01
+Toll facilities and parking meters,2020/06,0
+Toll facilities and parking meters,2020/07,0
+Toll facilities and parking meters,2020/08,0
+Toll facilities and parking meters,2020/09,0
+Toll facilities and parking meters,2020/10,0
+Toll facilities and parking meters,2020/11,0
+Toll facilities and parking meters,2020/12,0
+Toll facilities and parking meters,2021/01,0
+Toll facilities and parking meters,2021/02,0
+Toll facilities and parking meters,2021/03,0
+Toll facilities and parking meters,2021/04,0.01
+Toll facilities and parking meters,2021/05,0.01
+Toll facilities and parking meters,2021/06,0.01
+Toll facilities and parking meters,2021/07,0
+Toll facilities and parking meters,2021/08,0
+Toll facilities and parking meters,2021/09,0
+Toll facilities and parking meters,2021/10,0
+"Driving lessons, tests, licences and road worthiness tests",2020/01,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/02,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/03,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/04,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/05,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/06,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/07,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/08,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/09,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/10,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/11,0.01
+"Driving lessons, tests, licences and road worthiness tests",2020/12,0.01
+"Driving lessons, tests, licences and road worthiness tests",2021/01,0.01
+"Driving lessons, tests, licences and road worthiness tests",2021/02,0.01
+"Driving lessons, tests, licences and road worthiness tests",2021/03,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/04,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/05,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/06,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/07,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/08,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/09,0.02
+"Driving lessons, tests, licences and road worthiness tests",2021/10,0.02
+Transport services,2020/01,0.050000000000000003
+Transport services,2020/02,0.050000000000000003
+Transport services,2020/03,0
+Transport services,2020/04,-0.02
+Transport services,2020/05,0.029999999999999999
+Transport services,2020/06,0
+Transport services,2020/07,-0.070000000000000007
+Transport services,2020/08,-0.14999999999999999
+Transport services,2020/09,-0.13
+Transport services,2020/10,-0.14000000000000001
+Transport services,2020/11,-0.11
+Transport services,2020/12,-0.089999999999999997
+Transport services,2021/01,-0.01
+Transport services,2021/02,-0.01
+Transport services,2021/03,0.02
+Transport services,2021/04,-0.080000000000000002
+Transport services,2021/05,-0.040000000000000001
+Transport services,2021/06,-0.070000000000000007
+Transport services,2021/07,-0.040000000000000001
+Transport services,2021/08,0
+Transport services,2021/09,0.10000000000000001
+Transport services,2021/10,0.12
+Passenger transport by railway,2020/01,-0.02
+Passenger transport by railway,2020/02,-0.01
+Passenger transport by railway,2020/03,-0.02
+Passenger transport by railway,2020/04,-0.02
+Passenger transport by railway,2020/05,-0.01
+Passenger transport by railway,2020/06,-0.02
+Passenger transport by railway,2020/07,-0.02
+Passenger transport by railway,2020/08,-0.02
+Passenger transport by railway,2020/09,-0.029999999999999999
+Passenger transport by railway,2020/10,-0.02
+Passenger transport by railway,2020/11,-0.029999999999999999
+Passenger transport by railway,2020/12,-0.02
+Passenger transport by railway,2021/01,0
+Passenger transport by railway,2021/02,0
+Passenger transport by railway,2021/03,0
+Passenger transport by railway,2021/04,0
+Passenger transport by railway,2021/05,0
+Passenger transport by railway,2021/06,0
+Passenger transport by railway,2021/07,0.01
+Passenger transport by railway,2021/08,0.01
+Passenger transport by railway,2021/09,0.01
+Passenger transport by railway,2021/10,0.01
+Passenger transport by train,2020/01,-0.02
+Passenger transport by train,2020/02,-0.01
+Passenger transport by train,2020/03,-0.02
+Passenger transport by train,2020/04,-0.02
+Passenger transport by train,2020/05,-0.01
+Passenger transport by train,2020/06,-0.02
+Passenger transport by train,2020/07,-0.02
+Passenger transport by train,2020/08,-0.02
+Passenger transport by train,2020/09,-0.029999999999999999
+Passenger transport by train,2020/10,-0.02
+Passenger transport by train,2020/11,-0.029999999999999999
+Passenger transport by train,2020/12,-0.02
+Passenger transport by train,2021/01,0
+Passenger transport by train,2021/02,0
+Passenger transport by train,2021/03,0
+Passenger transport by train,2021/04,0
+Passenger transport by train,2021/05,0
+Passenger transport by train,2021/06,0
+Passenger transport by train,2021/07,0.01
+Passenger transport by train,2021/08,0.01
+Passenger transport by train,2021/09,0.01
+Passenger transport by train,2021/10,0.01
+Passenger transport by underground and tram,2020/01,0
+Passenger transport by underground and tram,2020/02,0
+Passenger transport by underground and tram,2020/03,0
+Passenger transport by underground and tram,2020/04,0
+Passenger transport by underground and tram,2020/05,0
+Passenger transport by underground and tram,2020/06,0
+Passenger transport by underground and tram,2020/07,0
+Passenger transport by underground and tram,2020/08,0
+Passenger transport by underground and tram,2020/09,0
+Passenger transport by underground and tram,2020/10,0
+Passenger transport by underground and tram,2020/11,0
+Passenger transport by underground and tram,2020/12,0
+Passenger transport by underground and tram,2021/01,0
+Passenger transport by underground and tram,2021/02,0
+Passenger transport by underground and tram,2021/03,0
+Passenger transport by underground and tram,2021/04,0
+Passenger transport by underground and tram,2021/05,0
+Passenger transport by underground and tram,2021/06,0
+Passenger transport by underground and tram,2021/07,0
+Passenger transport by underground and tram,2021/08,0
+Passenger transport by underground and tram,2021/09,0
+Passenger transport by underground and tram,2021/10,0
+Passenger transport by road,2020/01,0.01
+Passenger transport by road,2020/02,0.01
+Passenger transport by road,2020/03,0.01
+Passenger transport by road,2020/04,0
+Passenger transport by road,2020/05,0.01
+Passenger transport by road,2020/06,0
+Passenger transport by road,2020/07,0.01
+Passenger transport by road,2020/08,0.01
+Passenger transport by road,2020/09,0.01
+Passenger transport by road,2020/10,0
+Passenger transport by road,2020/11,0
+Passenger transport by road,2020/12,0
+Passenger transport by road,2021/01,0
+Passenger transport by road,2021/02,0
+Passenger transport by road,2021/03,0
+Passenger transport by road,2021/04,0
+Passenger transport by road,2021/05,0.01
+Passenger transport by road,2021/06,0.01
+Passenger transport by road,2021/07,0
+Passenger transport by road,2021/08,0
+Passenger transport by road,2021/09,0.01
+Passenger transport by road,2021/10,0.01
+Passenger transport by bus and coach,2020/01,0.01
+Passenger transport by bus and coach,2020/02,0.01
+Passenger transport by bus and coach,2020/03,0.01
+Passenger transport by bus and coach,2020/04,0
+Passenger transport by bus and coach,2020/05,0
+Passenger transport by bus and coach,2020/06,0
+Passenger transport by bus and coach,2020/07,0.01
+Passenger transport by bus and coach,2020/08,0.01
+Passenger transport by bus and coach,2020/09,0
+Passenger transport by bus and coach,2020/10,0
+Passenger transport by bus and coach,2020/11,0
+Passenger transport by bus and coach,2020/12,0
+Passenger transport by bus and coach,2021/01,0
+Passenger transport by bus and coach,2021/02,0
+Passenger transport by bus and coach,2021/03,0
+Passenger transport by bus and coach,2021/04,0
+Passenger transport by bus and coach,2021/05,0.01
+Passenger transport by bus and coach,2021/06,0.01
+Passenger transport by bus and coach,2021/07,0
+Passenger transport by bus and coach,2021/08,0
+Passenger transport by bus and coach,2021/09,0.01
+Passenger transport by bus and coach,2021/10,0.01
+Passenger transport by taxi and hired car with driver,2020/01,0
+Passenger transport by taxi and hired car with driver,2020/02,0
+Passenger transport by taxi and hired car with driver,2020/03,0
+Passenger transport by taxi and hired car with driver,2020/04,0
+Passenger transport by taxi and hired car with driver,2020/05,0
+Passenger transport by taxi and hired car with driver,2020/06,0
+Passenger transport by taxi and hired car with driver,2020/07,0
+Passenger transport by taxi and hired car with driver,2020/08,0
+Passenger transport by taxi and hired car with driver,2020/09,0
+Passenger transport by taxi and hired car with driver,2020/10,0
+Passenger transport by taxi and hired car with driver,2020/11,0
+Passenger transport by taxi and hired car with driver,2020/12,0
+Passenger transport by taxi and hired car with driver,2021/01,0
+Passenger transport by taxi and hired car with driver,2021/02,0
+Passenger transport by taxi and hired car with driver,2021/03,0
+Passenger transport by taxi and hired car with driver,2021/04,0
+Passenger transport by taxi and hired car with driver,2021/05,0
+Passenger transport by taxi and hired car with driver,2021/06,0
+Passenger transport by taxi and hired car with driver,2021/07,0
+Passenger transport by taxi and hired car with driver,2021/08,0
+Passenger transport by taxi and hired car with driver,2021/09,0
+Passenger transport by taxi and hired car with driver,2021/10,0
+Passenger transport by air,2020/01,0.050000000000000003
+Passenger transport by air,2020/02,0.040000000000000001
+Passenger transport by air,2020/03,0.01
+Passenger transport by air,2020/04,-0.01
+Passenger transport by air,2020/05,0.029999999999999999
+Passenger transport by air,2020/06,0.01
+Passenger transport by air,2020/07,-0.070000000000000007
+Passenger transport by air,2020/08,-0.14000000000000001
+Passenger transport by air,2020/09,-0.11
+Passenger transport by air,2020/10,-0.13
+Passenger transport by air,2020/11,-0.089999999999999997
+Passenger transport by air,2020/12,-0.080000000000000002
+Passenger transport by air,2021/01,-0.01
+Passenger transport by air,2021/02,-0.02
+Passenger transport by air,2021/03,0.01
+Passenger transport by air,2021/04,-0.089999999999999997
+Passenger transport by air,2021/05,-0.059999999999999998
+Passenger transport by air,2021/06,-0.089999999999999997
+Passenger transport by air,2021/07,-0.059999999999999998
+Passenger transport by air,2021/08,-0.02
+Passenger transport by air,2021/09,0.070000000000000007
+Passenger transport by air,2021/10,0.080000000000000002
+Domestic flights,2020/01,0.01
+Domestic flights,2020/02,0.01
+Domestic flights,2020/03,0
+Domestic flights,2020/04,-0.01
+Domestic flights,2020/05,0
+Domestic flights,2020/06,0.01
+Domestic flights,2020/07,-0.01
+Domestic flights,2020/08,-0.01
+Domestic flights,2020/09,-0.01
+Domestic flights,2020/10,-0.01
+Domestic flights,2020/11,-0.01
+Domestic flights,2020/12,-0.01
+Domestic flights,2021/01,0
+Domestic flights,2021/02,0
+Domestic flights,2021/03,0.01
+Domestic flights,2021/04,0
+Domestic flights,2021/05,0
+Domestic flights,2021/06,-0.02
+Domestic flights,2021/07,-0.01
+Domestic flights,2021/08,-0.01
+Domestic flights,2021/09,0
+Domestic flights,2021/10,0.01
+International flights,2020/01,0.040000000000000001
+International flights,2020/02,0.029999999999999999
+International flights,2020/03,0.01
+International flights,2020/04,0
+International flights,2020/05,0.029999999999999999
+International flights,2020/06,0
+International flights,2020/07,-0.059999999999999998
+International flights,2020/08,-0.13
+International flights,2020/09,-0.10000000000000001
+International flights,2020/10,-0.12
+International flights,2020/11,-0.080000000000000002
+International flights,2020/12,-0.070000000000000007
+International flights,2021/01,-0.01
+International flights,2021/02,-0.02
+International flights,2021/03,0
+International flights,2021/04,-0.080000000000000002
+International flights,2021/05,-0.050000000000000003
+International flights,2021/06,-0.070000000000000007
+International flights,2021/07,-0.050000000000000003
+International flights,2021/08,-0.01
+International flights,2021/09,0.070000000000000007
+International flights,2021/10,0.080000000000000002
+Passenger transport by sea and inland waterway,2020/01,0
+Passenger transport by sea and inland waterway,2020/02,0
+Passenger transport by sea and inland waterway,2020/03,0
+Passenger transport by sea and inland waterway,2020/04,0
+Passenger transport by sea and inland waterway,2020/05,0
+Passenger transport by sea and inland waterway,2020/06,0
+Passenger transport by sea and inland waterway,2020/07,0
+Passenger transport by sea and inland waterway,2020/08,0
+Passenger transport by sea and inland waterway,2020/09,0
+Passenger transport by sea and inland waterway,2020/10,0
+Passenger transport by sea and inland waterway,2020/11,0
+Passenger transport by sea and inland waterway,2020/12,0
+Passenger transport by sea and inland waterway,2021/01,0
+Passenger transport by sea and inland waterway,2021/02,0
+Passenger transport by sea and inland waterway,2021/03,0
+Passenger transport by sea and inland waterway,2021/04,0
+Passenger transport by sea and inland waterway,2021/05,0
+Passenger transport by sea and inland waterway,2021/06,0
+Passenger transport by sea and inland waterway,2021/07,0
+Passenger transport by sea and inland waterway,2021/08,0
+Passenger transport by sea and inland waterway,2021/09,0
+Passenger transport by sea and inland waterway,2021/10,0
+Passenger transport by sea,2020/01,0
+Passenger transport by sea,2020/02,0
+Passenger transport by sea,2020/03,0
+Passenger transport by sea,2020/04,0
+Passenger transport by sea,2020/05,0
+Passenger transport by sea,2020/06,0
+Passenger transport by sea,2020/07,0
+Passenger transport by sea,2020/08,0
+Passenger transport by sea,2020/09,0
+Passenger transport by sea,2020/10,0
+Passenger transport by sea,2020/11,0
+Passenger transport by sea,2020/12,0
+Passenger transport by sea,2021/01,0
+Passenger transport by sea,2021/02,0
+Passenger transport by sea,2021/03,0
+Passenger transport by sea,2021/04,0
+Passenger transport by sea,2021/05,0
+Passenger transport by sea,2021/06,0
+Passenger transport by sea,2021/07,0
+Passenger transport by sea,2021/08,0
+Passenger transport by sea,2021/09,0
+Passenger transport by sea,2021/10,0
+Passenger transport by inland waterway,2020/01,0
+Passenger transport by inland waterway,2020/02,0
+Passenger transport by inland waterway,2020/03,0
+Passenger transport by inland waterway,2020/04,0
+Passenger transport by inland waterway,2020/05,0
+Passenger transport by inland waterway,2020/06,0
+Passenger transport by inland waterway,2020/07,0
+Passenger transport by inland waterway,2020/08,0
+Passenger transport by inland waterway,2020/09,0
+Passenger transport by inland waterway,2020/10,0
+Passenger transport by inland waterway,2020/11,0
+Passenger transport by inland waterway,2020/12,0
+Passenger transport by inland waterway,2021/01,0
+Passenger transport by inland waterway,2021/02,0
+Passenger transport by inland waterway,2021/03,0
+Passenger transport by inland waterway,2021/04,0
+Passenger transport by inland waterway,2021/05,0
+Passenger transport by inland waterway,2021/06,0
+Passenger transport by inland waterway,2021/07,0
+Passenger transport by inland waterway,2021/08,0
+Passenger transport by inland waterway,2021/09,0
+Passenger transport by inland waterway,2021/10,0
+Combined passenger transport,2020/01,0.01
+Combined passenger transport,2020/02,0.01
+Combined passenger transport,2020/03,0.01
+Combined passenger transport,2020/04,0.01
+Combined passenger transport,2020/05,0.01
+Combined passenger transport,2020/06,0.01
+Combined passenger transport,2020/07,0.01
+Combined passenger transport,2020/08,0
+Combined passenger transport,2020/09,0
+Combined passenger transport,2020/10,0
+Combined passenger transport,2020/11,0
+Combined passenger transport,2020/12,0
+Combined passenger transport,2021/01,0
+Combined passenger transport,2021/02,0
+Combined passenger transport,2021/03,0
+Combined passenger transport,2021/04,0
+Combined passenger transport,2021/05,0
+Combined passenger transport,2021/06,0
+Combined passenger transport,2021/07,0.01
+Combined passenger transport,2021/08,0.01
+Combined passenger transport,2021/09,0.01
+Combined passenger transport,2021/10,0.01
+Other purchased transport services,2020/01,0
+Other purchased transport services,2020/02,0
+Other purchased transport services,2020/03,0
+Other purchased transport services,2020/04,0
+Other purchased transport services,2020/05,0
+Other purchased transport services,2020/06,0
+Other purchased transport services,2020/07,0
+Other purchased transport services,2020/08,0
+Other purchased transport services,2020/09,0
+Other purchased transport services,2020/10,0
+Other purchased transport services,2020/11,0
+Other purchased transport services,2020/12,0
+Other purchased transport services,2021/01,0
+Other purchased transport services,2021/02,0
+Other purchased transport services,2021/03,0
+Other purchased transport services,2021/04,0
+Other purchased transport services,2021/05,0
+Other purchased transport services,2021/06,0
+Other purchased transport services,2021/07,0
+Other purchased transport services,2021/08,0
+Other purchased transport services,2021/09,0
+Other purchased transport services,2021/10,0
+"Funicular, cable-car and chair-lift transport",2020/01,0
+"Funicular, cable-car and chair-lift transport",2020/02,0
+"Funicular, cable-car and chair-lift transport",2020/03,0
+"Funicular, cable-car and chair-lift transport",2020/04,0
+"Funicular, cable-car and chair-lift transport",2020/05,0
+"Funicular, cable-car and chair-lift transport",2020/06,0
+"Funicular, cable-car and chair-lift transport",2020/07,0
+"Funicular, cable-car and chair-lift transport",2020/08,0
+"Funicular, cable-car and chair-lift transport",2020/09,0
+"Funicular, cable-car and chair-lift transport",2020/10,0
+"Funicular, cable-car and chair-lift transport",2020/11,0
+"Funicular, cable-car and chair-lift transport",2020/12,0
+"Funicular, cable-car and chair-lift transport",2021/01,0
+"Funicular, cable-car and chair-lift transport",2021/02,0
+"Funicular, cable-car and chair-lift transport",2021/03,0
+"Funicular, cable-car and chair-lift transport",2021/04,0
+"Funicular, cable-car and chair-lift transport",2021/05,0
+"Funicular, cable-car and chair-lift transport",2021/06,0
+"Funicular, cable-car and chair-lift transport",2021/07,0
+"Funicular, cable-car and chair-lift transport",2021/08,0
+"Funicular, cable-car and chair-lift transport",2021/09,0
+"Funicular, cable-car and chair-lift transport",2021/10,0
+Removal and storage services,2020/01,0
+Removal and storage services,2020/02,0
+Removal and storage services,2020/03,0
+Removal and storage services,2020/04,0
+Removal and storage services,2020/05,0
+Removal and storage services,2020/06,0
+Removal and storage services,2020/07,0
+Removal and storage services,2020/08,0
+Removal and storage services,2020/09,0
+Removal and storage services,2020/10,0
+Removal and storage services,2020/11,0
+Removal and storage services,2020/12,0
+Removal and storage services,2021/01,0
+Removal and storage services,2021/02,0
+Removal and storage services,2021/03,0
+Removal and storage services,2021/04,0
+Removal and storage services,2021/05,0
+Removal and storage services,2021/06,0
+Removal and storage services,2021/07,0
+Removal and storage services,2021/08,0
+Removal and storage services,2021/09,0
+Removal and storage services,2021/10,0
+Other purchased transport services n.e.c.,2020/01,:
+Other purchased transport services n.e.c.,2020/02,:
+Other purchased transport services n.e.c.,2020/03,:
+Other purchased transport services n.e.c.,2020/04,:
+Other purchased transport services n.e.c.,2020/05,:
+Other purchased transport services n.e.c.,2020/06,:
+Other purchased transport services n.e.c.,2020/07,:
+Other purchased transport services n.e.c.,2020/08,:
+Other purchased transport services n.e.c.,2020/09,:
+Other purchased transport services n.e.c.,2020/10,:
+Other purchased transport services n.e.c.,2020/11,:
+Other purchased transport services n.e.c.,2020/12,:
+Other purchased transport services n.e.c.,2021/01,:
+Other purchased transport services n.e.c.,2021/02,:
+Other purchased transport services n.e.c.,2021/03,:
+Other purchased transport services n.e.c.,2021/04,:
+Other purchased transport services n.e.c.,2021/05,:
+Other purchased transport services n.e.c.,2021/06,:
+Other purchased transport services n.e.c.,2021/07,:
+Other purchased transport services n.e.c.,2021/08,:
+Other purchased transport services n.e.c.,2021/09,:
+Other purchased transport services n.e.c.,2021/10,:
+Postal services,2020/01,0.01
+Postal services,2020/02,0.01
+Postal services,2020/03,0.01
+Postal services,2020/04,0.01
+Postal services,2020/05,0.01
+Postal services,2020/06,0.01
+Postal services,2020/07,0
+Postal services,2020/08,0
+Postal services,2020/09,0
+Postal services,2020/10,0
+Postal services,2020/11,0
+Postal services,2020/12,0
+Postal services,2021/01,0
+Postal services,2021/02,0
+Postal services,2021/03,0
+Postal services,2021/04,0
+Postal services,2021/05,0
+Postal services,2021/06,0
+Postal services,2021/07,0
+Postal services,2021/08,0
+Postal services,2021/09,0
+Postal services,2021/10,0.01
+Letter handling services,2020/01,0.01
+Letter handling services,2020/02,0.01
+Letter handling services,2020/03,0.01
+Letter handling services,2020/04,0.01
+Letter handling services,2020/05,0.01
+Letter handling services,2020/06,0.01
+Letter handling services,2020/07,0
+Letter handling services,2020/08,0
+Letter handling services,2020/09,0
+Letter handling services,2020/10,0
+Letter handling services,2020/11,0
+Letter handling services,2020/12,0
+Letter handling services,2021/01,0
+Letter handling services,2021/02,0
+Letter handling services,2021/03,0
+Letter handling services,2021/04,0
+Letter handling services,2021/05,0
+Letter handling services,2021/06,0
+Letter handling services,2021/07,0
+Letter handling services,2021/08,0
+Letter handling services,2021/09,0
+Letter handling services,2021/10,0
+Other postal services,2020/01,0
+Other postal services,2020/02,0
+Other postal services,2020/03,0
+Other postal services,2020/04,0
+Other postal services,2020/05,0
+Other postal services,2020/06,0
+Other postal services,2020/07,0
+Other postal services,2020/08,0
+Other postal services,2020/09,0
+Other postal services,2020/10,0
+Other postal services,2020/11,0
+Other postal services,2020/12,0
+Other postal services,2021/01,0
+Other postal services,2021/02,0
+Other postal services,2021/03,0
+Other postal services,2021/04,0
+Other postal services,2021/05,0
+Other postal services,2021/06,0
+Other postal services,2021/07,0
+Other postal services,2021/08,0
+Other postal services,2021/09,0
+Other postal services,2021/10,0
+Telephone and telefax equipment and services,2020/01,-0.050000000000000003
+Telephone and telefax equipment and services,2020/02,-0.040000000000000001
+Telephone and telefax equipment and services,2020/03,-0.050000000000000003
+Telephone and telefax equipment and services,2020/04,-0.050000000000000003
+Telephone and telefax equipment and services,2020/05,-0.029999999999999999
+Telephone and telefax equipment and services,2020/06,-0.029999999999999999
+Telephone and telefax equipment and services,2020/07,-0.059999999999999998
+Telephone and telefax equipment and services,2020/08,-0.059999999999999998
+Telephone and telefax equipment and services,2020/09,-0.070000000000000007
+Telephone and telefax equipment and services,2020/10,-0.089999999999999997
+Telephone and telefax equipment and services,2020/11,-0.080000000000000002
+Telephone and telefax equipment and services,2020/12,-0.080000000000000002
+Telephone and telefax equipment and services,2021/01,-0.040000000000000001
+Telephone and telefax equipment and services,2021/02,-0.040000000000000001
+Telephone and telefax equipment and services,2021/03,-0.050000000000000003
+Telephone and telefax equipment and services,2021/04,-0.029999999999999999
+Telephone and telefax equipment and services,2021/05,-0.029999999999999999
+Telephone and telefax equipment and services,2021/06,-0.029999999999999999
+Telephone and telefax equipment and services,2021/07,0
+Telephone and telefax equipment and services,2021/08,0
+Telephone and telefax equipment and services,2021/09,0
+Telephone and telefax equipment and services,2021/10,0.029999999999999999
+Fixed telephone equipment,2020/01,0
+Fixed telephone equipment,2020/02,0
+Fixed telephone equipment,2020/03,0
+Fixed telephone equipment,2020/04,0
+Fixed telephone equipment,2020/05,0
+Fixed telephone equipment,2020/06,0
+Fixed telephone equipment,2020/07,0
+Fixed telephone equipment,2020/08,0
+Fixed telephone equipment,2020/09,0
+Fixed telephone equipment,2020/10,0
+Fixed telephone equipment,2020/11,0
+Fixed telephone equipment,2020/12,0
+Fixed telephone equipment,2021/01,0
+Fixed telephone equipment,2021/02,0
+Fixed telephone equipment,2021/03,0
+Fixed telephone equipment,2021/04,0
+Fixed telephone equipment,2021/05,0
+Fixed telephone equipment,2021/06,0
+Fixed telephone equipment,2021/07,0
+Fixed telephone equipment,2021/08,0
+Fixed telephone equipment,2021/09,0
+Fixed telephone equipment,2021/10,0
+Mobile telephone equipment,2020/01,-0.040000000000000001
+Mobile telephone equipment,2020/02,-0.029999999999999999
+Mobile telephone equipment,2020/03,-0.040000000000000001
+Mobile telephone equipment,2020/04,-0.029999999999999999
+Mobile telephone equipment,2020/05,-0.029999999999999999
+Mobile telephone equipment,2020/06,-0.029999999999999999
+Mobile telephone equipment,2020/07,-0.029999999999999999
+Mobile telephone equipment,2020/08,-0.040000000000000001
+Mobile telephone equipment,2020/09,-0.040000000000000001
+Mobile telephone equipment,2020/10,-0.040000000000000001
+Mobile telephone equipment,2020/11,-0.040000000000000001
+Mobile telephone equipment,2020/12,-0.040000000000000001
+Mobile telephone equipment,2021/01,-0.029999999999999999
+Mobile telephone equipment,2021/02,-0.029999999999999999
+Mobile telephone equipment,2021/03,-0.029999999999999999
+Mobile telephone equipment,2021/04,-0.029999999999999999
+Mobile telephone equipment,2021/05,-0.029999999999999999
+Mobile telephone equipment,2021/06,-0.02
+Mobile telephone equipment,2021/07,-0.02
+Mobile telephone equipment,2021/08,-0.01
+Mobile telephone equipment,2021/09,-0.01
+Mobile telephone equipment,2021/10,-0.01
+Other equipment of telephone and telefax equipment,2020/01,:
+Other equipment of telephone and telefax equipment,2020/02,:
+Other equipment of telephone and telefax equipment,2020/03,:
+Other equipment of telephone and telefax equipment,2020/04,:
+Other equipment of telephone and telefax equipment,2020/05,:
+Other equipment of telephone and telefax equipment,2020/06,:
+Other equipment of telephone and telefax equipment,2020/07,:
+Other equipment of telephone and telefax equipment,2020/08,:
+Other equipment of telephone and telefax equipment,2020/09,:
+Other equipment of telephone and telefax equipment,2020/10,:
+Other equipment of telephone and telefax equipment,2020/11,:
+Other equipment of telephone and telefax equipment,2020/12,:
+Other equipment of telephone and telefax equipment,2021/01,0
+Other equipment of telephone and telefax equipment,2021/02,0
+Other equipment of telephone and telefax equipment,2021/03,0
+Other equipment of telephone and telefax equipment,2021/04,0
+Other equipment of telephone and telefax equipment,2021/05,0
+Other equipment of telephone and telefax equipment,2021/06,0
+Other equipment of telephone and telefax equipment,2021/07,0
+Other equipment of telephone and telefax equipment,2021/08,0
+Other equipment of telephone and telefax equipment,2021/09,0
+Other equipment of telephone and telefax equipment,2021/10,0
+Repair of telephone or telefax equipment,2020/01,0
+Repair of telephone or telefax equipment,2020/02,0
+Repair of telephone or telefax equipment,2020/03,0
+Repair of telephone or telefax equipment,2020/04,0
+Repair of telephone or telefax equipment,2020/05,0
+Repair of telephone or telefax equipment,2020/06,0
+Repair of telephone or telefax equipment,2020/07,0
+Repair of telephone or telefax equipment,2020/08,0
+Repair of telephone or telefax equipment,2020/09,0
+Repair of telephone or telefax equipment,2020/10,0
+Repair of telephone or telefax equipment,2020/11,0
+Repair of telephone or telefax equipment,2020/12,0
+Repair of telephone or telefax equipment,2021/01,0
+Repair of telephone or telefax equipment,2021/02,0
+Repair of telephone or telefax equipment,2021/03,0
+Repair of telephone or telefax equipment,2021/04,0
+Repair of telephone or telefax equipment,2021/05,0
+Repair of telephone or telefax equipment,2021/06,0
+Repair of telephone or telefax equipment,2021/07,0
+Repair of telephone or telefax equipment,2021/08,0
+Repair of telephone or telefax equipment,2021/09,0
+Repair of telephone or telefax equipment,2021/10,0
+Wired telephone services,2020/01,0.01
+Wired telephone services,2020/02,0.01
+Wired telephone services,2020/03,0
+Wired telephone services,2020/04,0
+Wired telephone services,2020/05,0
+Wired telephone services,2020/06,0
+Wired telephone services,2020/07,0
+Wired telephone services,2020/08,0
+Wired telephone services,2020/09,0
+Wired telephone services,2020/10,0
+Wired telephone services,2020/11,0
+Wired telephone services,2020/12,0
+Wired telephone services,2021/01,0
+Wired telephone services,2021/02,0
+Wired telephone services,2021/03,0
+Wired telephone services,2021/04,0
+Wired telephone services,2021/05,0
+Wired telephone services,2021/06,0
+Wired telephone services,2021/07,0
+Wired telephone services,2021/08,0
+Wired telephone services,2021/09,0
+Wired telephone services,2021/10,0
+Wireless telephone services,2020/01,-0.02
+Wireless telephone services,2020/02,-0.02
+Wireless telephone services,2020/03,-0.02
+Wireless telephone services,2020/04,-0.029999999999999999
+Wireless telephone services,2020/05,-0.01
+Wireless telephone services,2020/06,-0.01
+Wireless telephone services,2020/07,-0.02
+Wireless telephone services,2020/08,-0.02
+Wireless telephone services,2020/09,-0.02
+Wireless telephone services,2020/10,-0.029999999999999999
+Wireless telephone services,2020/11,-0.02
+Wireless telephone services,2020/12,-0.02
+Wireless telephone services,2021/01,-0.01
+Wireless telephone services,2021/02,-0.01
+Wireless telephone services,2021/03,-0.01
+Wireless telephone services,2021/04,0
+Wireless telephone services,2021/05,-0.01
+Wireless telephone services,2021/06,-0.01
+Wireless telephone services,2021/07,-0.01
+Wireless telephone services,2021/08,-0.01
+Wireless telephone services,2021/09,-0.01
+Wireless telephone services,2021/10,0.01
+Internet access provision services,2020/01,-0.01
+Internet access provision services,2020/02,0
+Internet access provision services,2020/03,0
+Internet access provision services,2020/04,0
+Internet access provision services,2020/05,0
+Internet access provision services,2020/06,0
+Internet access provision services,2020/07,0
+Internet access provision services,2020/08,0
+Internet access provision services,2020/09,0
+Internet access provision services,2020/10,0
+Internet access provision services,2020/11,0
+Internet access provision services,2020/12,0
+Internet access provision services,2021/01,0
+Internet access provision services,2021/02,0
+Internet access provision services,2021/03,0
+Internet access provision services,2021/04,0
+Internet access provision services,2021/05,0
+Internet access provision services,2021/06,0
+Internet access provision services,2021/07,0.01
+Internet access provision services,2021/08,0.01
+Internet access provision services,2021/09,0.01
+Internet access provision services,2021/10,0.01
+Bundled telecommunication services,2020/01,0.01
+Bundled telecommunication services,2020/02,0.01
+Bundled telecommunication services,2020/03,0.01
+Bundled telecommunication services,2020/04,0.01
+Bundled telecommunication services,2020/05,0.01
+Bundled telecommunication services,2020/06,0.01
+Bundled telecommunication services,2020/07,-0.01
+Bundled telecommunication services,2020/08,-0.01
+Bundled telecommunication services,2020/09,-0.01
+Bundled telecommunication services,2020/10,-0.02
+Bundled telecommunication services,2020/11,-0.02
+Bundled telecommunication services,2020/12,-0.02
+Bundled telecommunication services,2021/01,0
+Bundled telecommunication services,2021/02,0
+Bundled telecommunication services,2021/03,-0.01
+Bundled telecommunication services,2021/04,-0.01
+Bundled telecommunication services,2021/05,0
+Bundled telecommunication services,2021/06,0
+Bundled telecommunication services,2021/07,0.02
+Bundled telecommunication services,2021/08,0.01
+Bundled telecommunication services,2021/09,0.01
+Bundled telecommunication services,2021/10,0.02
+Recreation and culture,2020/01,0
+Recreation and culture,2020/02,0.029999999999999999
+Recreation and culture,2020/03,0.01
+Recreation and culture,2020/04,0.029999999999999999
+Recreation and culture,2020/05,0.029999999999999999
+Recreation and culture,2020/06,0.059999999999999998
+Recreation and culture,2020/07,0.059999999999999998
+Recreation and culture,2020/08,0
+Recreation and culture,2020/09,0
+Recreation and culture,2020/10,0
+Recreation and culture,2020/11,-0.02
+Recreation and culture,2020/12,0.01
+Recreation and culture,2021/01,0.23999999999999999
+Recreation and culture,2021/02,0.17000000000000001
+Recreation and culture,2021/03,0.14999999999999999
+Recreation and culture,2021/04,0.059999999999999998
+Recreation and culture,2021/05,0.11
+Recreation and culture,2021/06,-0.050000000000000003
+Recreation and culture,2021/07,-0.14999999999999999
+Recreation and culture,2021/08,-0.070000000000000007
+Recreation and culture,2021/09,0.080000000000000002
+Recreation and culture,2021/10,0.12
+Education,2020/01,0
+Education,2020/02,0
+Education,2020/03,0
+Education,2020/04,0
+Education,2020/05,0
+Education,2020/06,0.01
+Education,2020/07,0.01
+Education,2020/08,0.01
+Education,2020/09,0.01
+Education,2020/10,0
+Education,2020/11,0
+Education,2020/12,0
+Education,2021/01,0
+Education,2021/02,0
+Education,2021/03,0
+Education,2021/04,0
+Education,2021/05,0
+Education,2021/06,0
+Education,2021/07,0
+Education,2021/08,0
+Education,2021/09,-0.02
+Education,2021/10,-0.01

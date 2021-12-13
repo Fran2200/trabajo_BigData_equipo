@@ -1,0 +1,853 @@
+Tipo,TIME,date,value
+subyacente,Turkey,2020/11,14
+subyacente,Turkey,2020/12,14.5
+subyacente,Turkey,2021/01,15.8
+subyacente,Turkey,2021/02,16.6
+subyacente,Turkey,2021/03,16.9
+subyacente,Turkey,2021/04,17.1
+subyacente,Turkey,2021/05,16.7
+subyacente,Turkey,2021/06,17.3
+subyacente,Turkey,2021/07,17.5
+subyacente,Turkey,2021/08,17.1
+subyacente,Turkey,2021/09,17.5
+subyacente,Turkey,2021/10,17.9
+subyacente,Poland,2020/11,4.5
+subyacente,Poland,2020/12,4.2
+subyacente,Poland,2021/01,4.2
+subyacente,Poland,2021/02,4.2
+subyacente,Poland,2021/03,4.3
+subyacente,Poland,2021/04,4.3
+subyacente,Poland,2021/05,3.4
+subyacente,Poland,2021/06,3.1
+subyacente,Poland,2021/07,3.6
+subyacente,Poland,2021/08,3.9
+subyacente,Poland,2021/09,4.3
+subyacente,Poland,2021/10,4.6
+subyacente,Iceland,2020/11,2.9
+subyacente,Iceland,2020/12,2.5
+subyacente,Iceland,2021/01,3.7
+subyacente,Iceland,2021/02,2.8
+subyacente,Iceland,2021/03,3.6
+subyacente,Iceland,2021/04,3.2
+subyacente,Iceland,2021/05,3.1
+subyacente,Iceland,2021/06,4
+subyacente,Iceland,2021/07,3.6
+subyacente,Iceland,2021/08,3.5
+subyacente,Iceland,2021/09,3.6
+subyacente,Iceland,2021/10,3.8
+subyacente,Hungary,2020/11,3.3
+subyacente,Hungary,2020/12,3.4
+subyacente,Hungary,2021/01,3.5
+subyacente,Hungary,2021/02,3.5
+subyacente,Hungary,2021/03,3.2
+subyacente,Hungary,2021/04,3.7
+subyacente,Hungary,2021/05,4.1
+subyacente,Hungary,2021/06,4.7
+subyacente,Hungary,2021/07,4
+subyacente,Hungary,2021/08,4.1
+subyacente,Hungary,2021/09,4.8
+subyacente,Hungary,2021/10,5.3
+subyacente,Czechia,2020/11,3.7
+subyacente,Czechia,2020/12,3.5
+subyacente,Czechia,2021/01,3.4
+subyacente,Czechia,2021/02,3.2
+subyacente,Czechia,2021/03,3
+subyacente,Czechia,2021/04,3.5
+subyacente,Czechia,2021/05,3
+subyacente,Czechia,2021/06,2.8
+subyacente,Czechia,2021/07,2.7
+subyacente,Czechia,2021/08,3.3
+subyacente,Czechia,2021/09,4.3
+subyacente,Czechia,2021/10,4.8
+subyacente,North Macedonia,2020/11,3.2
+subyacente,North Macedonia,2020/12,3.2
+subyacente,North Macedonia,2021/01,3.1
+subyacente,North Macedonia,2021/02,2.8
+subyacente,North Macedonia,2021/03,2.7
+subyacente,North Macedonia,2021/04,2.8
+subyacente,North Macedonia,2021/05,2.7
+subyacente,North Macedonia,2021/06,3.3
+subyacente,North Macedonia,2021/07,3.1
+subyacente,North Macedonia,2021/08,2.9
+subyacente,North Macedonia,2021/09,3.6
+subyacente,North Macedonia,2021/10,4.1
+subyacente,Slovakia,2020/11,2.1
+subyacente,Slovakia,2020/12,2.2
+subyacente,Slovakia,2021/01,2.2
+subyacente,Slovakia,2021/02,2.1
+subyacente,Slovakia,2021/03,2.5
+subyacente,Slovakia,2021/04,2.5
+subyacente,Slovakia,2021/05,2.7
+subyacente,Slovakia,2021/06,2.9
+subyacente,Slovakia,2021/07,3.2
+subyacente,Slovakia,2021/08,3.5
+subyacente,Slovakia,2021/09,4.2
+subyacente,Slovakia,2021/10,4.7
+subyacente,Romania,2020/11,2.8
+subyacente,Romania,2020/12,3
+subyacente,Romania,2021/01,2.4
+subyacente,Romania,2021/02,2.7
+subyacente,Romania,2021/03,2.4
+subyacente,Romania,2021/04,2.4
+subyacente,Romania,2021/05,2.5
+subyacente,Romania,2021/06,2.7
+subyacente,Romania,2021/07,2.4
+subyacente,Romania,2021/08,2.5
+subyacente,Romania,2021/09,3.6
+subyacente,Romania,2021/10,4.1
+subyacente,Norway,2020/11,2.5
+subyacente,Norway,2020/12,2.6
+subyacente,Norway,2021/01,2.1
+subyacente,Norway,2021/02,2
+subyacente,Norway,2021/03,2
+subyacente,Norway,2021/04,1.4
+subyacente,Norway,2021/05,1
+subyacente,Norway,2021/06,0.8
+subyacente,Norway,2021/07,0.6
+subyacente,Norway,2021/08,0.3
+subyacente,Norway,2021/09,0.6
+subyacente,Norway,2021/10,0.4
+subyacente,Serbia,2020/11,2.6
+subyacente,Serbia,2020/12,2.8
+subyacente,Serbia,2021/01,2.4
+subyacente,Serbia,2021/02,2
+subyacente,Serbia,2021/03,1.9
+subyacente,Serbia,2021/04,2
+subyacente,Serbia,2021/05,2.1
+subyacente,Serbia,2021/06,2.2
+subyacente,Serbia,2021/07,2.3
+subyacente,Serbia,2021/08,2.4
+subyacente,Serbia,2021/09,3.4
+subyacente,Serbia,2021/10,4.1
+subyacente,Austria,2020/11,1.9
+subyacente,Austria,2020/12,1.6
+subyacente,Austria,2021/01,1.7
+subyacente,Austria,2021/02,1.5
+subyacente,Austria,2021/03,1.8
+subyacente,Austria,2021/04,1.5
+subyacente,Austria,2021/05,2.3
+subyacente,Austria,2021/06,2.2
+subyacente,Austria,2021/07,2.1
+subyacente,Austria,2021/08,2.3
+subyacente,Austria,2021/09,2.3
+subyacente,Austria,2021/10,2.4
+subyacente,Netherlands,2020/11,1.7
+subyacente,Netherlands,2020/12,1.9
+subyacente,Netherlands,2021/01,2.2
+subyacente,Netherlands,2021/02,2.1
+subyacente,Netherlands,2021/03,1.7
+subyacente,Netherlands,2021/04,1.2
+subyacente,Netherlands,2021/05,1.4
+subyacente,Netherlands,2021/06,1.1
+subyacente,Netherlands,2021/07,0.4
+subyacente,Netherlands,2021/08,1.6
+subyacente,Netherlands,2021/09,1.6
+subyacente,Netherlands,2021/10,1.6
+subyacente,Germany,2020/11,0
+subyacente,Germany,2020/12,0
+subyacente,Germany,2021/01,1.9
+subyacente,Germany,2021/02,1.7
+subyacente,Germany,2021/03,1.6
+subyacente,Germany,2021/04,1.3
+subyacente,Germany,2021/05,1.6
+subyacente,Germany,2021/06,1.3
+subyacente,Germany,2021/07,2.1
+subyacente,Germany,2021/08,2.3
+subyacente,Germany,2021/09,2.8
+subyacente,Germany,2021/10,3.1
+subyacente,Sweden,2020/11,1.3
+subyacente,Sweden,2020/12,1.4
+subyacente,Sweden,2021/01,2.1
+subyacente,Sweden,2021/02,1.6
+subyacente,Sweden,2021/03,1.6
+subyacente,Sweden,2021/04,2.1
+subyacente,Sweden,2021/05,1.6
+subyacente,Sweden,2021/06,1.2
+subyacente,Sweden,2021/07,0.6
+subyacente,Sweden,2021/08,1.4
+subyacente,Sweden,2021/09,1.6
+subyacente,Sweden,2021/10,1.9
+subyacente,Lithuania,2020/11,1.8
+subyacente,Lithuania,2020/12,1.4
+subyacente,Lithuania,2021/01,1.7
+subyacente,Lithuania,2021/02,1.5
+subyacente,Lithuania,2021/03,1.5
+subyacente,Lithuania,2021/04,1.7
+subyacente,Lithuania,2021/05,2.4
+subyacente,Lithuania,2021/06,2.5
+subyacente,Lithuania,2021/07,2.5
+subyacente,Lithuania,2021/08,3
+subyacente,Lithuania,2021/09,4
+subyacente,Lithuania,2021/10,5.2
+subyacente,Luxembourg,2020/11,1.1
+subyacente,Luxembourg,2020/12,1.2
+subyacente,Luxembourg,2021/01,2.7
+subyacente,Luxembourg,2021/02,-0.4
+subyacente,Luxembourg,2021/03,1.5
+subyacente,Luxembourg,2021/04,1.1
+subyacente,Luxembourg,2021/05,1.3
+subyacente,Luxembourg,2021/06,1.2
+subyacente,Luxembourg,2021/07,1.2
+subyacente,Luxembourg,2021/08,1.3
+subyacente,Luxembourg,2021/09,1.5
+subyacente,Luxembourg,2021/10,1.8
+subyacente,Bulgaria,2020/11,1.5
+subyacente,Bulgaria,2020/12,1.4
+subyacente,Bulgaria,2021/01,1.2
+subyacente,Bulgaria,2021/02,1.4
+subyacente,Bulgaria,2021/03,1.4
+subyacente,Bulgaria,2021/04,1.4
+subyacente,Bulgaria,2021/05,1.5
+subyacente,Bulgaria,2021/06,1.4
+subyacente,Bulgaria,2021/07,0.8
+subyacente,Bulgaria,2021/08,0.6
+subyacente,Bulgaria,2021/09,2.2
+subyacente,Bulgaria,2021/10,2.8
+subyacente,European Union - 27 countries (from 2020),2020/11,0.9
+subyacente,European Union - 27 countries (from 2020),2020/12,0.9
+subyacente,European Union - 27 countries (from 2020),2021/01,1.7
+subyacente,European Union - 27 countries (from 2020),2021/02,1.5
+subyacente,European Union - 27 countries (from 2020),2021/03,1.3
+subyacente,European Union - 27 countries (from 2020),2021/04,1.2
+subyacente,European Union - 27 countries (from 2020),2021/05,1.3
+subyacente,European Union - 27 countries (from 2020),2021/06,1.2
+subyacente,European Union - 27 countries (from 2020),2021/07,1.2
+subyacente,European Union - 27 countries (from 2020),2021/08,1.8
+subyacente,European Union - 27 countries (from 2020),2021/09,2.2
+subyacente,European Union - 27 countries (from 2020),2021/10,2.4
+subyacente,Croatia,2020/11,1.2
+subyacente,Croatia,2020/12,0.8
+subyacente,Croatia,2021/01,1.1
+subyacente,Croatia,2021/02,1.2
+subyacente,Croatia,2021/03,1.3
+subyacente,Croatia,2021/04,0.9
+subyacente,Croatia,2021/05,1.1
+subyacente,Croatia,2021/06,1.2
+subyacente,Croatia,2021/07,1.7
+subyacente,Croatia,2021/08,2.1
+subyacente,Croatia,2021/09,2.2
+subyacente,Croatia,2021/10,2.4
+subyacente,Euro area - 19 countries  (from 2015),2020/11,0.4
+subyacente,Euro area - 19 countries  (from 2015),2020/12,0.4
+subyacente,Euro area - 19 countries  (from 2015),2021/01,1.4
+subyacente,Euro area - 19 countries  (from 2015),2021/02,1.2
+subyacente,Euro area - 19 countries  (from 2015),2021/03,1
+subyacente,Euro area - 19 countries  (from 2015),2021/04,0.8
+subyacente,Euro area - 19 countries  (from 2015),2021/05,0.9
+subyacente,Euro area - 19 countries  (from 2015),2021/06,0.9
+subyacente,Euro area - 19 countries  (from 2015),2021/07,0.9
+subyacente,Euro area - 19 countries  (from 2015),2021/08,1.6
+subyacente,Euro area - 19 countries  (from 2015),2021/09,1.9
+subyacente,Euro area - 19 countries  (from 2015),2021/10,2.1
+subyacente,Belgium,2020/11,1.3
+subyacente,Belgium,2020/12,1.3
+subyacente,Belgium,2021/01,1.5
+subyacente,Belgium,2021/02,0.3
+subyacente,Belgium,2021/03,1
+subyacente,Belgium,2021/04,0.9
+subyacente,Belgium,2021/05,1.1
+subyacente,Belgium,2021/06,1.2
+subyacente,Belgium,2021/07,-0.5
+subyacente,Belgium,2021/08,2.9
+subyacente,Belgium,2021/09,1.7
+subyacente,Belgium,2021/10,2
+subyacente,France,2020/11,0.7
+subyacente,France,2020/12,0.5
+subyacente,France,2021/01,1.3
+subyacente,France,2021/02,0.9
+subyacente,France,2021/03,1
+subyacente,France,2021/04,1.1
+subyacente,France,2021/05,1.1
+subyacente,France,2021/06,1.2
+subyacente,France,2021/07,0.4
+subyacente,France,2021/08,1.2
+subyacente,France,2021/09,1.5
+subyacente,France,2021/10,1.6
+subyacente,Cyprus,2020/11,-0.5
+subyacente,Cyprus,2020/12,0.2
+subyacente,Cyprus,2021/01,0.8
+subyacente,Cyprus,2021/02,0.5
+subyacente,Cyprus,2021/03,0.9
+subyacente,Cyprus,2021/04,0.2
+subyacente,Cyprus,2021/05,0.4
+subyacente,Cyprus,2021/06,0.6
+subyacente,Cyprus,2021/07,0.2
+subyacente,Cyprus,2021/08,0.3
+subyacente,Cyprus,2021/09,1.5
+subyacente,Cyprus,2021/10,2.1
+subyacente,Finland,2020/11,0.8
+subyacente,Finland,2020/12,0.9
+subyacente,Finland,2021/01,1.5
+subyacente,Finland,2021/02,1
+subyacente,Finland,2021/03,0.9
+subyacente,Finland,2021/04,1.5
+subyacente,Finland,2021/05,1.3
+subyacente,Finland,2021/06,1.3
+subyacente,Finland,2021/07,1.1
+subyacente,Finland,2021/08,1
+subyacente,Finland,2021/09,1.3
+subyacente,Finland,2021/10,1.6
+subyacente,Denmark,2020/11,1.2
+subyacente,Denmark,2020/12,1
+subyacente,Denmark,2021/01,1.2
+subyacente,Denmark,2021/02,0.6
+subyacente,Denmark,2021/03,0.6
+subyacente,Denmark,2021/04,0.8
+subyacente,Denmark,2021/05,1.3
+subyacente,Denmark,2021/06,1.3
+subyacente,Denmark,2021/07,0.8
+subyacente,Denmark,2021/08,0.9
+subyacente,Denmark,2021/09,1.4
+subyacente,Denmark,2021/10,1.4
+subyacente,Italy,2020/11,0.3
+subyacente,Italy,2020/12,0.4
+subyacente,Italy,2021/01,1.2
+subyacente,Italy,2021/02,1.4
+subyacente,Italy,2021/03,0.5
+subyacente,Italy,2021/04,0.2
+subyacente,Italy,2021/05,0.1
+subyacente,Italy,2021/06,0.3
+subyacente,Italy,2021/07,-0.6
+subyacente,Italy,2021/08,0.9
+subyacente,Italy,2021/09,1.4
+subyacente,Italy,2021/10,1.2
+subyacente,Latvia,2020/11,0.9
+subyacente,Latvia,2020/12,0.9
+subyacente,Latvia,2021/01,1.1
+subyacente,Latvia,2021/02,0.7
+subyacente,Latvia,2021/03,0.5
+subyacente,Latvia,2021/04,0.8
+subyacente,Latvia,2021/05,1.5
+subyacente,Latvia,2021/06,1.9
+subyacente,Latvia,2021/07,1.6
+subyacente,Latvia,2021/08,1.9
+subyacente,Latvia,2021/09,2.4
+subyacente,Latvia,2021/10,3
+subyacente,Estonia,2020/11,-0.3
+subyacente,Estonia,2020/12,0.1
+subyacente,Estonia,2021/01,0.7
+subyacente,Estonia,2021/02,0.5
+subyacente,Estonia,2021/03,0.4
+subyacente,Estonia,2021/04,0.6
+subyacente,Estonia,2021/05,1.7
+subyacente,Estonia,2021/06,2.2
+subyacente,Estonia,2021/07,2.6
+subyacente,Estonia,2021/08,3
+subyacente,Estonia,2021/09,2.9
+subyacente,Estonia,2021/10,4.1
+subyacente,Malta,2020/11,0.2
+subyacente,Malta,2020/12,0.4
+subyacente,Malta,2021/01,0.6
+subyacente,Malta,2021/02,0.5
+subyacente,Malta,2021/03,0.3
+subyacente,Malta,2021/04,0.2
+subyacente,Malta,2021/05,0.3
+subyacente,Malta,2021/06,0.1
+subyacente,Malta,2021/07,0
+subyacente,Malta,2021/08,0.1
+subyacente,Malta,2021/09,0.3
+subyacente,Malta,2021/10,1.2
+subyacente,Spain,2020/11,0.1
+subyacente,Spain,2020/12,0.1
+subyacente,Spain,2021/01,0.6
+subyacente,Spain,2021/02,0.2
+subyacente,Spain,2021/03,0.1
+subyacente,Spain,2021/04,-0.2
+subyacente,Spain,2021/05,0
+subyacente,Spain,2021/06,0
+subyacente,Spain,2021/07,0.6
+subyacente,Spain,2021/08,0.8
+subyacente,Spain,2021/09,1.1
+subyacente,Spain,2021/10,1.5
+subyacente,Ireland,2020/11,-0.6
+subyacente,Ireland,2020/12,-0.4
+subyacente,Ireland,2021/01,0.7
+subyacente,Ireland,2021/02,0
+subyacente,Ireland,2021/03,0
+subyacente,Ireland,2021/04,0.6
+subyacente,Ireland,2021/05,1.1
+subyacente,Ireland,2021/06,0.8
+subyacente,Ireland,2021/07,1.2
+subyacente,Ireland,2021/08,1.9
+subyacente,Ireland,2021/09,2.6
+subyacente,Ireland,2021/10,3.6
+subyacente,Portugal,2020/11,-0.3
+subyacente,Portugal,2020/12,-0.2
+subyacente,Portugal,2021/01,0.4
+subyacente,Portugal,2021/02,0.4
+subyacente,Portugal,2021/03,-0.3
+subyacente,Portugal,2021/04,-0.8
+subyacente,Portugal,2021/05,-0.4
+subyacente,Portugal,2021/06,-1.6
+subyacente,Portugal,2021/07,0.4
+subyacente,Portugal,2021/08,0.5
+subyacente,Portugal,2021/09,0.6
+subyacente,Portugal,2021/10,1
+subyacente,Slovenia,2020/11,0.5
+subyacente,Slovenia,2020/12,0.4
+subyacente,Slovenia,2021/01,0.6
+subyacente,Slovenia,2021/02,-0.2
+subyacente,Slovenia,2021/03,-0.4
+subyacente,Slovenia,2021/04,0.4
+subyacente,Slovenia,2021/05,0.5
+subyacente,Slovenia,2021/06,0.7
+subyacente,Slovenia,2021/07,0.7
+subyacente,Slovenia,2021/08,0.8
+subyacente,Slovenia,2021/09,1.3
+subyacente,Slovenia,2021/10,1.4
+subyacente,Switzerland,2020/11,-0.4
+subyacente,Switzerland,2020/12,-0.6
+subyacente,Switzerland,2021/01,-0.2
+subyacente,Switzerland,2021/02,-0.3
+subyacente,Switzerland,2021/03,-0.4
+subyacente,Switzerland,2021/04,-0.3
+subyacente,Switzerland,2021/05,0.1
+subyacente,Switzerland,2021/06,0.2
+subyacente,Switzerland,2021/07,0.1
+subyacente,Switzerland,2021/08,0.4
+subyacente,Switzerland,2021/09,0.5
+subyacente,Switzerland,2021/10,0.7
+subyacente,Greece,2020/11,-1.8
+subyacente,Greece,2020/12,-1.9
+subyacente,Greece,2021/01,-1.8
+subyacente,Greece,2021/02,-1.6
+subyacente,Greece,2021/03,-2.6
+subyacente,Greece,2021/04,-2
+subyacente,Greece,2021/05,-2.5
+subyacente,Greece,2021/06,-0.6
+subyacente,Greece,2021/07,-0.7
+subyacente,Greece,2021/08,-0.4
+subyacente,Greece,2021/09,0.5
+subyacente,Greece,2021/10,0.7
+general,European Union - 27 countries (from 2020),2020/11,0.2
+general,European Union - 27 countries (from 2020),2020/12,0.2
+general,European Union - 27 countries (from 2020),2021/01,1.2
+general,European Union - 27 countries (from 2020),2021/02,1.3
+general,European Union - 27 countries (from 2020),2021/03,1.7
+general,European Union - 27 countries (from 2020),2021/04,2
+general,European Union - 27 countries (from 2020),2021/05,2.3
+general,European Union - 27 countries (from 2020),2021/06,2.2
+general,European Union - 27 countries (from 2020),2021/07,2.5
+general,European Union - 27 countries (from 2020),2021/08,3.2
+general,European Union - 27 countries (from 2020),2021/09,3.6
+general,European Union - 27 countries (from 2020),2021/10,4.4
+general,Euro area - 19 countries  (from 2015),2020/11,-0.3
+general,Euro area - 19 countries  (from 2015),2020/12,-0.3
+general,Euro area - 19 countries  (from 2015),2021/01,0.9
+general,Euro area - 19 countries  (from 2015),2021/02,0.9
+general,Euro area - 19 countries  (from 2015),2021/03,1.3
+general,Euro area - 19 countries  (from 2015),2021/04,1.6
+general,Euro area - 19 countries  (from 2015),2021/05,2
+general,Euro area - 19 countries  (from 2015),2021/06,1.9
+general,Euro area - 19 countries  (from 2015),2021/07,2.2
+general,Euro area - 19 countries  (from 2015),2021/08,3
+general,Euro area - 19 countries  (from 2015),2021/09,3.4
+general,Euro area - 19 countries  (from 2015),2021/10,4.1
+general,Belgium,2020/11,0.2
+general,Belgium,2020/12,0.4
+general,Belgium,2021/01,0.6
+general,Belgium,2021/02,0.3
+general,Belgium,2021/03,1.6
+general,Belgium,2021/04,2.1
+general,Belgium,2021/05,2.5
+general,Belgium,2021/06,2.6
+general,Belgium,2021/07,1.4
+general,Belgium,2021/08,4.7
+general,Belgium,2021/09,3.8
+general,Belgium,2021/10,5.4
+general,Bulgaria,2020/11,0.3
+general,Bulgaria,2020/12,0
+general,Bulgaria,2021/01,-0.3
+general,Bulgaria,2021/02,0.2
+general,Bulgaria,2021/03,0.8
+general,Bulgaria,2021/04,2
+general,Bulgaria,2021/05,2.3
+general,Bulgaria,2021/06,2.4
+general,Bulgaria,2021/07,2.2
+general,Bulgaria,2021/08,2.5
+general,Bulgaria,2021/09,4
+general,Bulgaria,2021/10,5.2
+general,Czechia,2020/11,2.8
+general,Czechia,2020/12,2.4
+general,Czechia,2021/01,2.2
+general,Czechia,2021/02,2.1
+general,Czechia,2021/03,2.3
+general,Czechia,2021/04,3.1
+general,Czechia,2021/05,2.7
+general,Czechia,2021/06,2.5
+general,Czechia,2021/07,2.7
+general,Czechia,2021/08,3.1
+general,Czechia,2021/09,4
+general,Czechia,2021/10,4.8
+general,Denmark,2020/11,0.4
+general,Denmark,2020/12,0.4
+general,Denmark,2021/01,0.4
+general,Denmark,2021/02,0.5
+general,Denmark,2021/03,0.9
+general,Denmark,2021/04,1.5
+general,Denmark,2021/05,1.9
+general,Denmark,2021/06,1.9
+general,Denmark,2021/07,1.7
+general,Denmark,2021/08,1.8
+general,Denmark,2021/09,2.4
+general,Denmark,2021/10,3.2
+general,Germany,2020/11,-0.7
+general,Germany,2020/12,-0.7
+general,Germany,2021/01,1.6
+general,Germany,2021/02,1.6
+general,Germany,2021/03,2
+general,Germany,2021/04,2.1
+general,Germany,2021/05,2.4
+general,Germany,2021/06,2.1
+general,Germany,2021/07,3.1
+general,Germany,2021/08,3.4
+general,Germany,2021/09,4.1
+general,Germany,2021/10,4.6
+general,Estonia,2020/11,-1.2
+general,Estonia,2020/12,-0.9
+general,Estonia,2021/01,0.3
+general,Estonia,2021/02,0.5
+general,Estonia,2021/03,0.9
+general,Estonia,2021/04,1.6
+general,Estonia,2021/05,3.2
+general,Estonia,2021/06,3.7
+general,Estonia,2021/07,4.9
+general,Estonia,2021/08,5
+general,Estonia,2021/09,6.4
+general,Estonia,2021/10,6.8
+general,Ireland,2020/11,-1
+general,Ireland,2020/12,-1
+general,Ireland,2021/01,-0.1
+general,Ireland,2021/02,-0.4
+general,Ireland,2021/03,0.1
+general,Ireland,2021/04,1.1
+general,Ireland,2021/05,1.9
+general,Ireland,2021/06,1.6
+general,Ireland,2021/07,2.2
+general,Ireland,2021/08,3
+general,Ireland,2021/09,3.8
+general,Ireland,2021/10,5.1
+general,Greece,2020/11,-2.1
+general,Greece,2020/12,-2.4
+general,Greece,2021/01,-2.4
+general,Greece,2021/02,-1.9
+general,Greece,2021/03,-2
+general,Greece,2021/04,-1.1
+general,Greece,2021/05,-1.2
+general,Greece,2021/06,0.6
+general,Greece,2021/07,0.7
+general,Greece,2021/08,1.2
+general,Greece,2021/09,1.9
+general,Greece,2021/10,2.8
+general,Spain,2020/11,-0.8
+general,Spain,2020/12,-0.6
+general,Spain,2021/01,0.4
+general,Spain,2021/02,-0.1
+general,Spain,2021/03,1.2
+general,Spain,2021/04,2
+general,Spain,2021/05,2.4
+general,Spain,2021/06,2.5
+general,Spain,2021/07,2.9
+general,Spain,2021/08,3.3
+general,Spain,2021/09,4
+general,Spain,2021/10,5.4
+general,France,2020/11,0.2
+general,France,2020/12,0
+general,France,2021/01,0.8
+general,France,2021/02,0.8
+general,France,2021/03,1.4
+general,France,2021/04,1.6
+general,France,2021/05,1.8
+general,France,2021/06,1.9
+general,France,2021/07,1.5
+general,France,2021/08,2.4
+general,France,2021/09,2.7
+general,France,2021/10,3.2
+general,Croatia,2020/11,0
+general,Croatia,2020/12,-0.3
+general,Croatia,2021/01,0
+general,Croatia,2021/02,0.7
+general,Croatia,2021/03,1.6
+general,Croatia,2021/04,2.1
+general,Croatia,2021/05,2.4
+general,Croatia,2021/06,2.2
+general,Croatia,2021/07,2.7
+general,Croatia,2021/08,3.1
+general,Croatia,2021/09,3.5
+general,Croatia,2021/10,3.9
+general,Italy,2020/11,-0.3
+general,Italy,2020/12,-0.3
+general,Italy,2021/01,0.7
+general,Italy,2021/02,1
+general,Italy,2021/03,0.6
+general,Italy,2021/04,1
+general,Italy,2021/05,1.2
+general,Italy,2021/06,1.3
+general,Italy,2021/07,1
+general,Italy,2021/08,2.5
+general,Italy,2021/09,2.9
+general,Italy,2021/10,3.2
+general,Cyprus,2020/11,-1.1
+general,Cyprus,2020/12,-0.8
+general,Cyprus,2021/01,-0.8
+general,Cyprus,2021/02,-0.9
+general,Cyprus,2021/03,0.3
+general,Cyprus,2021/04,1.2
+general,Cyprus,2021/05,1.5
+general,Cyprus,2021/06,2.2
+general,Cyprus,2021/07,2.7
+general,Cyprus,2021/08,3.3
+general,Cyprus,2021/09,3.6
+general,Cyprus,2021/10,4.4
+general,Latvia,2020/11,-0.7
+general,Latvia,2020/12,-0.5
+general,Latvia,2021/01,-0.5
+general,Latvia,2021/02,-0.2
+general,Latvia,2021/03,0.3
+general,Latvia,2021/04,1.7
+general,Latvia,2021/05,2.6
+general,Latvia,2021/06,2.7
+general,Latvia,2021/07,2.8
+general,Latvia,2021/08,3.6
+general,Latvia,2021/09,4.7
+general,Latvia,2021/10,6
+general,Lithuania,2020/11,0.4
+general,Lithuania,2020/12,-0.1
+general,Lithuania,2021/01,0.2
+general,Lithuania,2021/02,0.4
+general,Lithuania,2021/03,1.6
+general,Lithuania,2021/04,2.4
+general,Lithuania,2021/05,3.5
+general,Lithuania,2021/06,3.5
+general,Lithuania,2021/07,4.3
+general,Lithuania,2021/08,5
+general,Lithuania,2021/09,6.4
+general,Lithuania,2021/10,8.2
+general,Luxembourg,2020/11,-0.7
+general,Luxembourg,2020/12,-0.3
+general,Luxembourg,2021/01,1.1
+general,Luxembourg,2021/02,-0.5
+general,Luxembourg,2021/03,2.5
+general,Luxembourg,2021/04,3.3
+general,Luxembourg,2021/05,4
+general,Luxembourg,2021/06,3.4
+general,Luxembourg,2021/07,3.3
+general,Luxembourg,2021/08,3.5
+general,Luxembourg,2021/09,4
+general,Luxembourg,2021/10,5.3
+general,Hungary,2020/11,2.8
+general,Hungary,2020/12,2.8
+general,Hungary,2021/01,2.9
+general,Hungary,2021/02,3.3
+general,Hungary,2021/03,3.9
+general,Hungary,2021/04,5.2
+general,Hungary,2021/05,5.3
+general,Hungary,2021/06,5.3
+general,Hungary,2021/07,4.7
+general,Hungary,2021/08,4.9
+general,Hungary,2021/09,5.5
+general,Hungary,2021/10,6.6
+general,Malta,2020/11,0.2
+general,Malta,2020/12,0.2
+general,Malta,2021/01,0.2
+general,Malta,2021/02,0.1
+general,Malta,2021/03,0.1
+general,Malta,2021/04,0.1
+general,Malta,2021/05,0.2
+general,Malta,2021/06,0.2
+general,Malta,2021/07,0.3
+general,Malta,2021/08,0.4
+general,Malta,2021/09,0.7
+general,Malta,2021/10,1.4
+general,Netherlands,2020/11,0.7
+general,Netherlands,2020/12,0.9
+general,Netherlands,2021/01,1.6
+general,Netherlands,2021/02,1.9
+general,Netherlands,2021/03,1.9
+general,Netherlands,2021/04,1.7
+general,Netherlands,2021/05,2
+general,Netherlands,2021/06,1.7
+general,Netherlands,2021/07,1.4
+general,Netherlands,2021/08,2.7
+general,Netherlands,2021/09,3
+general,Netherlands,2021/10,3.7
+general,Austria,2020/11,1.1
+general,Austria,2020/12,1
+general,Austria,2021/01,1.1
+general,Austria,2021/02,1.4
+general,Austria,2021/03,2
+general,Austria,2021/04,1.9
+general,Austria,2021/05,3
+general,Austria,2021/06,2.8
+general,Austria,2021/07,2.8
+general,Austria,2021/08,3.2
+general,Austria,2021/09,3.3
+general,Austria,2021/10,3.7
+general,Poland,2020/11,3.7
+general,Poland,2020/12,3.4
+general,Poland,2021/01,3.6
+general,Poland,2021/02,3.6
+general,Poland,2021/03,4.4
+general,Poland,2021/04,5.1
+general,Poland,2021/05,4.6
+general,Poland,2021/06,4.1
+general,Poland,2021/07,4.7
+general,Poland,2021/08,5
+general,Poland,2021/09,5.6
+general,Poland,2021/10,6.4
+general,Portugal,2020/11,-0.4
+general,Portugal,2020/12,-0.3
+general,Portugal,2021/01,0.2
+general,Portugal,2021/02,0.3
+general,Portugal,2021/03,0.1
+general,Portugal,2021/04,-0.1
+general,Portugal,2021/05,0.5
+general,Portugal,2021/06,-0.6
+general,Portugal,2021/07,1.1
+general,Portugal,2021/08,1.3
+general,Portugal,2021/09,1.3
+general,Portugal,2021/10,1.8
+general,Romania,2020/11,1.7
+general,Romania,2020/12,1.8
+general,Romania,2021/01,2
+general,Romania,2021/02,2.5
+general,Romania,2021/03,2.5
+general,Romania,2021/04,2.7
+general,Romania,2021/05,3.2
+general,Romania,2021/06,3.5
+general,Romania,2021/07,3.8
+general,Romania,2021/08,4
+general,Romania,2021/09,5.2
+general,Romania,2021/10,6.5
+general,Slovenia,2020/11,-1.1
+general,Slovenia,2020/12,-1.2
+general,Slovenia,2021/01,-0.9
+general,Slovenia,2021/02,-1.1
+general,Slovenia,2021/03,0.1
+general,Slovenia,2021/04,2.2
+general,Slovenia,2021/05,2.2
+general,Slovenia,2021/06,1.7
+general,Slovenia,2021/07,2
+general,Slovenia,2021/08,2.1
+general,Slovenia,2021/09,2.7
+general,Slovenia,2021/10,3.5
+general,Slovakia,2020/11,1.6
+general,Slovakia,2020/12,1.6
+general,Slovakia,2021/01,0.7
+general,Slovakia,2021/02,0.9
+general,Slovakia,2021/03,1.5
+general,Slovakia,2021/04,1.7
+general,Slovakia,2021/05,2
+general,Slovakia,2021/06,2.5
+general,Slovakia,2021/07,2.9
+general,Slovakia,2021/08,3.3
+general,Slovakia,2021/09,4
+general,Slovakia,2021/10,4.4
+general,Finland,2020/11,0.2
+general,Finland,2020/12,0.2
+general,Finland,2021/01,1
+general,Finland,2021/02,0.9
+general,Finland,2021/03,1.4
+general,Finland,2021/04,2.2
+general,Finland,2021/05,2.3
+general,Finland,2021/06,1.9
+general,Finland,2021/07,1.8
+general,Finland,2021/08,1.8
+general,Finland,2021/09,2.1
+general,Finland,2021/10,2.8
+general,Sweden,2020/11,0.2
+general,Sweden,2020/12,0.6
+general,Sweden,2021/01,1.9
+general,Sweden,2021/02,1.8
+general,Sweden,2021/03,2.1
+general,Sweden,2021/04,2.8
+general,Sweden,2021/05,2.4
+general,Sweden,2021/06,1.8
+general,Sweden,2021/07,1.8
+general,Sweden,2021/08,2.5
+general,Sweden,2021/09,3
+general,Sweden,2021/10,3.3
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2020/11,0.2
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2020/12,0.3
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/01,1.2
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/02,1.3
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/03,1.7
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/04,2
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/05,2.3
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/06,2.2
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/07,2.5
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/08,3.2
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/09,3.6
+general,"European Economic Area (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020)",2021/10,4.3
+general,Iceland,2020/11,2.6
+general,Iceland,2020/12,2.4
+general,Iceland,2021/01,3.4
+general,Iceland,2021/02,2.8
+general,Iceland,2021/03,3.8
+general,Iceland,2021/04,3.5
+general,Iceland,2021/05,3.3
+general,Iceland,2021/06,4
+general,Iceland,2021/07,3.7
+general,Iceland,2021/08,3.7
+general,Iceland,2021/09,3.8
+general,Iceland,2021/10,4.2
+general,Norway,2020/11,0.4
+general,Norway,2020/12,1.4
+general,Norway,2021/01,2.7
+general,Norway,2021/02,3.6
+general,Norway,2021/03,3.4
+general,Norway,2021/04,3.2
+general,Norway,2021/05,2.8
+general,Norway,2021/06,3
+general,Norway,2021/07,3.3
+general,Norway,2021/08,3.8
+general,Norway,2021/09,4.8
+general,Norway,2021/10,4
+general,Switzerland,2020/11,-0.8
+general,Switzerland,2020/12,-1
+general,Switzerland,2021/01,-0.6
+general,Switzerland,2021/02,-0.4
+general,Switzerland,2021/03,-0.2
+general,Switzerland,2021/04,-0.1
+general,Switzerland,2021/05,0.3
+general,Switzerland,2021/06,0.5
+general,Switzerland,2021/07,0.5
+general,Switzerland,2021/08,0.8
+general,Switzerland,2021/09,0.8
+general,Switzerland,2021/10,1.3
+general,Serbia,2020/11,1.7
+general,Serbia,2020/12,1.3
+general,Serbia,2021/01,1.2
+general,Serbia,2021/02,1.2
+general,Serbia,2021/03,1.7
+general,Serbia,2021/04,2.6
+general,Serbia,2021/05,3.5
+general,Serbia,2021/06,3.2
+general,Serbia,2021/07,3.1
+general,Serbia,2021/08,4.2
+general,Serbia,2021/09,5.6
+general,Serbia,2021/10,6.5
+general,Turkey,2020/11,14
+general,Turkey,2020/12,14.6
+general,Turkey,2021/01,15
+general,Turkey,2021/02,15.6
+general,Turkey,2021/03,16.2
+general,Turkey,2021/04,17.1
+general,Turkey,2021/05,16.6
+general,Turkey,2021/06,17.5
+general,Turkey,2021/07,18.9
+general,Turkey,2021/08,19.2
+general,Turkey,2021/09,19.6
+general,Turkey,2021/10,19.9
+general,United States,2020/11,0.8
+general,United States,2020/12,1.1
+general,United States,2021/01,1.2
+general,United States,2021/02,1.6
+general,United States,2021/03,2.8
+general,United States,2021/04,4.9
+general,United States,2021/05,6
+general,United States,2021/06,6.4
+general,United States,2021/07,6.3
+general,United States,2021/08,6.1
+general,United States,2021/09,6.2
+general,United States,2021/10,7.3
